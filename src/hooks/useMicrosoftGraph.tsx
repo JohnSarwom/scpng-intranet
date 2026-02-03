@@ -263,6 +263,51 @@ export const useMicrosoftGraph = () => {
     }
   }, [checkMsalAuth, msalInstance]);
 
+  /**
+   * Fetches a setting value from the InternalAppSettings list
+   * @param key The key (Title) of the setting to fetch
+   */
+  const getAppSetting = useCallback(async (key: string): Promise<string | null> => {
+    // console.log(`🔍 [getAppSetting] Fetching setting for key: ${key}`);
+    setLastError(null);
+
+    // If auth not ready, we can't fetch. BUT, we shouldn't block loop if just starting.
+    if (!msalInstance) return null;
+
+    try {
+      const client = await getGraphClient(msalInstance);
+      if (!client) return null;
+
+      const siteDomain = 'scpng1.sharepoint.com';
+      const sitePath = '/sites/scpngintranet';
+
+      // We need siteId. Ideally this is cached or passed in contexts, but doing a quick fetch if needed
+      // Optimization: hardcode site ID if known, or fetch it once. For now, matching existing pattern.
+      // NOTE: In a real optimize scenario, siteId should be in a context.
+      const site = await client.api(`/sites/${siteDomain}:${sitePath}`).get();
+      const siteId = site.id;
+
+      const response = await client
+        .api(`/sites/${siteId}/lists/InternalAppSettings/items`)
+        .filter(`fields/Title eq '${key}'`)
+        .expand('fields')
+        .get();
+
+      if (response.value && response.value.length > 0) {
+        const val = response.value[0].fields.Value;
+        // console.log(`✅ [getAppSetting] Found value for ${key}`);
+        return val;
+      } else {
+        // console.warn(`⚠️ [getAppSetting] No setting found for key: ${key}`);
+        return null;
+      }
+    } catch (error: any) {
+      console.warn(`[getAppSetting] Error fetching key ${key}:`, error);
+      // Don't set global error state for config fetch to avoid alerting user unnecessarily
+      return null;
+    }
+  }, [msalInstance]);
+
   // Initialize client when authentication is ready
   const initializeClient = useCallback(async () => {
     if (isAuthenticated && msalInstance && !client) {
@@ -290,5 +335,6 @@ export const useMicrosoftGraph = () => {
     client, // Add direct client access
     isAuthenticated, // Add authentication status
     getClient,
+    getAppSetting,
   };
 };

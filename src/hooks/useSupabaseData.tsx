@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback } from 'react';
 import { useMsal } from '@azure/msal-react';
 import { supabase, logger } from '@/lib/supabaseClient';
 import { toast } from '@/components/ui/use-toast';
-import { loginRequest } from '@/authConfig'; // Import MSAL request scopes
+import { loginRequest } from '@/integrations/microsoft/msalConfig'; // Import MSAL request scopes
 import {
     tasksService,
     projectsService,

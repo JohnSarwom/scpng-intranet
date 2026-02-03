@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useMsal } from '@azure/msal-react';
 import { logger } from '@/lib/supabaseClient'; // Keeping logger for now
-import { loginRequest } from '../authConfig';
+import { loginRequest } from '@/integrations/microsoft/msalConfig';
 import { UserSharePointService, UserRole } from '@/services/userSharePointService';
 import { getGraphClient } from '@/services/graphService';
 

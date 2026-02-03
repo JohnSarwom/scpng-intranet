@@ -9,7 +9,7 @@ import { LogIn, Loader2, AlertCircle } from 'lucide-react';
 // MSAL Imports
 import { useMsal } from "@azure/msal-react";
 import { InteractionStatus, type AccountInfo } from "@azure/msal-browser"; // To check interaction status, Add AccountInfo type
-import { loginRequest } from '../authConfig'; // Import scopes
+import { loginRequest } from '@/integrations/microsoft/msalConfig'; // Import scopes from centralized config
 
 export default function Login() {
   const navigate = useNavigate();

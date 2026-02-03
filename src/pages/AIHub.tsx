@@ -184,7 +184,7 @@ const AIHub = () => {
   const [lastUpdatedBy, setLastUpdatedBy] = useState<string | null>(null);
 
   const [isConfigLoading, setIsConfigLoading] = useState(true);
-
+  const [modelName, setModelName] = useState('gemini-2.0-flash');
   const messagesContainerRef = useRef<HTMLDivElement | null>(null);
   const typingTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
@@ -243,11 +243,36 @@ const AIHub = () => {
 
   useEffect(() => {
     const fetchAiSettings = async () => {
-      if (isAuthLoading || msalInProgress !== 'none') {
-        // logger.info('[AIHub] Waiting for auth/MSAL to complete before fetching AI settings.');
-        setIsConfigLoading(true);
+      // 1. Check .env first (Priority 1)
+      const envKey = import.meta.env.VITE_GEMINI_API_KEY;
+      if (envKey) {
+        setApiKey(envKey);
+        // setApiEndpoint() // If needed, or default
+        setIsConfigLoading(false);
         return;
       }
+
+      // 2. Check SharePoint InternalAppSettings (Priority 2)
+      if (graphContext.getAppSetting && !isAuthLoading && msalInProgress === 'none') {
+        // logger.info('[AIHub] Checking SharePoint for GeminiAPIKey...');
+        const spKey = await graphContext.getAppSetting('GeminiAPIKey');
+        if (spKey) {
+          setApiKey(spKey);
+          // logger.info('[AIHub] Loaded GeminiAPIKey from SharePoint.');
+          setIsConfigLoading(false);
+          return;
+        }
+      }
+
+      // 3. Fallback to Supabase settings (Legacy/Priority 3)
+      if (isAuthLoading || msalInProgress !== 'none') {
+        const waitingForAuth = true; // Just a marker variable
+        // If we are waiting for auth, we can't check SharePoint yet, so we wait.
+        // But to keep UI responsive, we proceed to specific DB check or just wait.
+        // We will return and let the effect run again when auth changes.
+        return;
+      }
+
       setIsConfigLoading(true);
       try {
         const { data, error } = await supabase
@@ -259,43 +284,20 @@ const AIHub = () => {
         if (error && error.code !== 'PGRST116') {
           logger.error('[AIHub] Error fetching AI settings:', error);
           setSaveStatus(`Error loading AI settings: ${error.message}`);
-          setChatMessages(prev => [...prev, {
-            id: uuidv4(),
-            sender: 'ai',
-            text: "Error loading AI Assistant configuration.",
-            isTyping: false,
-            timestamp: new Date()
-          }]);
         } else if (data) {
-          setApiKey(data.api_key || '');
+          if (data.api_key) setApiKey(data.api_key);
           setApiEndpoint(data.api_endpoint || '');
           setLastUpdatedBy(data.last_updated_by);
-          // logger.info('[AIHub] AI settings loaded successfully.');
         } else {
-          // logger.warn('[AIHub] No AI settings found (id=1). Admins should save to initialize.');
-          setChatMessages(prev => [...prev, {
-            id: uuidv4(),
-            sender: 'ai',
-            text: "AI Assistant not fully configured. Please set API Key and Endpoint in AI Configuration.",
-            isTyping: false,
-            timestamp: new Date()
-          }]);
+          // Logic when no settings found
         }
       } catch (err: any) {
         logger.error('[AIHub] Exception fetching AI settings:', err);
-        setSaveStatus('An unexpected error occurred while loading AI settings.');
-        setChatMessages(prev => [...prev, {
-          id: uuidv4(),
-          sender: 'ai',
-          text: "Error loading AI Assistant configuration.",
-          isTyping: false,
-          timestamp: new Date()
-        }]);
       }
       setIsConfigLoading(false);
     };
     fetchAiSettings();
-  }, [isAuthLoading, msalInProgress]);
+  }, [isAuthLoading, msalInProgress, graphContext]);
 
   // Handle auto-start search from query parameters
   useEffect(() => {
@@ -429,11 +431,14 @@ const AIHub = () => {
     setQuery('');
     setIsSendingChatMessage(true);
 
-    if (!apiEndpoint || !apiKey) {
+    // Prioritize environment variable, then settings state
+    const effectiveApiKey = import.meta.env.VITE_GEMINI_API_KEY || apiKey;
+
+    if (!effectiveApiKey) {
       const aiErrorMessage: ChatMessage = {
         id: uuidv4(),
         sender: 'ai',
-        text: 'AI is not configured. Please set API Key and Endpoint.',
+        text: 'AI is not configured. Please add VITE_GEMINI_API_KEY to your .env file or configure it in settings.',
         isTyping: false,
         timestamp: new Date(),
       };
@@ -443,16 +448,30 @@ const AIHub = () => {
     }
 
     const currentMode = aiModes.find(mode => mode.id === currentAiModeId);
-    const systemInstruction = currentMode ? { parts: [{ text: currentMode.prompt }] } : undefined;
+    // Construct conversation history for Gemini API
+    const conversationHistory: any[] = [];
 
-    // Use Supabase Edge Function instead of direct client-side fetch
-    const conversationHistory = chatMessages
+    // Add system instruction as the very first "user" message to ensure compatibility with v1 API
+    if (currentMode?.prompt) {
+      conversationHistory.push({
+        role: 'user',
+        parts: [{ text: `System Instruction: ${currentMode.prompt}` }]
+      });
+      conversationHistory.push({
+        role: 'model',
+        parts: [{ text: "Understood. I will follow these instructions." }]
+      });
+    }
+
+    const previousMessages = chatMessages
       .filter((msg, index) => index !== 0)
       .filter(msg => msg.sender === 'user' || (msg.sender === 'ai' && !msg.isTyping))
       .map(msg => ({
         role: msg.sender === 'user' ? 'user' : 'model',
         parts: [{ text: msg.fullText || msg.text }],
       }));
+
+    conversationHistory.push(...previousMessages);
 
     conversationHistory.push({
       role: 'user',
@@ -463,23 +482,30 @@ const AIHub = () => {
       contents: conversationHistory,
     };
 
-    if (systemInstruction) {
-      requestBody.system_instruction = systemInstruction;
-    }
+    // Legacy system_instruction field removed for v1 compatibility
+    // if (systemInstruction) { ... }
 
     try {
-      // logger.info('[AIHub Chat] Sending message to ai-chat Edge Function...', { mode: currentMode?.title });
-      const { data: responseData, error: invokeError } = await supabase.functions.invoke('ai-chat', {
-        body: requestBody
+      // logger.info('[AIHub Chat] Sending message to Gemini API directly...', { mode: currentMode?.title });
+
+      const cleanApiKey = effectiveApiKey.trim();
+      const targetModel = modelName || 'gemini-1.5-flash';
+      let apiUrl = `https://generativelanguage.googleapis.com/v1/models/${targetModel}:generateContent?key=${cleanApiKey}`;
+
+      const response = await fetch(apiUrl, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(requestBody)
       });
 
-      if (invokeError) {
-        throw new Error(`Edge Function invocation failed: ${invokeError.message} (Status: ${invokeError.code})`);
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}));
+        throw new Error(`Gemini API request failed: ${response.status} ${response.statusText} - ${errorData.error?.message || ''}`);
       }
 
-      if (responseData.error) {
-        throw new Error(`AI Service Error: ${responseData.error}`);
-      }
+      const responseData = await response.json();
 
       if (responseData.candidates?.[0]?.content?.parts?.[0]?.text) {
         let aiResponseText = responseData.candidates[0].content.parts[0].text;

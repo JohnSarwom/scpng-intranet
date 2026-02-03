@@ -173,7 +173,7 @@ const News = () => {
 
 
   // --- CHANGED: Use SharePoint Service ---
-  const { getClient } = useMicrosoftGraph();
+  const { getClient, getAppSetting } = useMicrosoftGraph();
 
   const fetchSharePointNews = async () => {
     const graphClient = await getClient();
@@ -345,8 +345,25 @@ const News = () => {
         throw new Error(`Prompt for ${categoryName} not configured. Please check News Admin Settings.`);
       }
 
+      let apiKey = import.meta.env.VITE_GEMINI_API_KEY || globalSettings.api_key;
+      let modelName = 'gemini-1.5-flash';
+
+      if (!apiKey && getAppSetting) {
+        // Try fetching from SharePoint
+        // logger.info('[News] Attempting to fetch API Key from SharePoint...');
+        const spKey = await getAppSetting('GeminiAPIKey');
+        if (spKey) apiKey = spKey;
+
+        const spModel = await getAppSetting('GeminiModel');
+        if (spModel) modelName = spModel;
+      }
+
+      if (!apiKey) {
+        throw new Error("AI API Key not configured. Please add VITE_GEMINI_API_KEY to .env or configure in settings/SharePoint.");
+      }
+
       // Use Supabase Edge Function instead of client-side fetch
-      // logger.info(`[News] Calling ai-chat Edge Function for ${categoryName}`);
+      // Changed to use direct client-side fetch for now to match AIHub
 
       const requestBody = {
         contents: [
@@ -360,16 +377,21 @@ const News = () => {
         ],
       };
 
-      const { data: responseData, error: invokeError } = await supabase.functions.invoke('ai-chat', {
-        body: requestBody
+      const cleanApiKey = apiKey.trim();
+      const apiUrl = `https://generativelanguage.googleapis.com/v1/models/${modelName}:generateContent?key=${cleanApiKey}`;
+
+      const response = await fetch(apiUrl, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(requestBody)
       });
 
-      if (invokeError) {
-        throw new Error(`Edge Function invocation failed: ${invokeError.message} (Status: ${invokeError.code})`);
-      }
+      const responseData = await response.json();
 
-      if (responseData.error) {
-        throw new Error(`AI Service Error: ${responseData.error}`);
+      if (!response.ok) {
+        throw new Error(`Gemini API request failed: ${response.status} ${responseData.error?.message || ''}`);
       }
 
       let generatedText = '';

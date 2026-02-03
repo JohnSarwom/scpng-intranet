@@ -228,6 +228,60 @@ const TestGround = () => {
     const [isSettingUpDocs, setIsSettingUpDocs] = useState(false);
     const [isDeletingHistory, setIsDeletingHistory] = useState(false);
 
+    const [isSettingUpAppSettings, setIsSettingUpAppSettings] = useState(false);
+
+    const handleSetupAppSettings = async () => {
+        setIsSettingUpAppSettings(true);
+        setSetupResult(null);
+
+        try {
+            toast({
+                title: "🚀 Creating App Settings List",
+                description: "This may take a moment...",
+            });
+
+            // Get Graph client
+            const graphClient = await getGraphClient(msalInstance);
+            if (!graphClient) throw new Error('Failed to get Graph client');
+
+            // Get site ID
+            const site = await graphClient
+                .api('/sites/scpng1.sharepoint.com:/sites/scpngintranet')
+                .get();
+
+            // Create setup service
+            const setupService = new SharePointListSetupService(graphClient, site.id);
+
+            // Create List
+            const result = await setupService.createInternalAppSettingsList();
+            setSetupResult(result);
+
+            if (result.success) {
+                toast({
+                    title: "✅ Success!",
+                    description: result.message,
+                });
+            } else {
+                throw new Error(result.message);
+            }
+
+        } catch (error: any) {
+            console.error('❌ [TestGround] Setup failed:', error);
+            setSetupResult({
+                success: false,
+                message: error.message || "Failed to create App Settings list",
+                error
+            });
+            toast({
+                title: "❌ Setup Failed",
+                description: error.message || "Failed to create App Settings list",
+                variant: "destructive"
+            });
+        } finally {
+            setIsSettingUpAppSettings(false);
+        }
+    };
+
     const handleSetupMarketLists = async () => {
         setIsSettingUpMarket(true);
         setSetupResult(null);
@@ -759,6 +813,59 @@ const TestGround = () => {
                 </Card>
 
                 {/* Market Data Lists Setup Card */}
+                {/* App Settings List Setup Card */}
+                <Card className="border-2 border-slate-500/20">
+                    <CardHeader>
+                        <CardTitle className="flex items-center gap-2">
+                            <Settings className="h-5 w-5 text-slate-600" />
+                            App Configuration Setup
+                        </CardTitle>
+                        <CardDescription>
+                            Create 'InternalAppSettings' list for storing API keys and global config
+                        </CardDescription>
+                    </CardHeader>
+                    <CardContent className="space-y-6">
+                        <div className="space-y-2">
+                            <h4 className="font-semibold flex items-center gap-2">
+                                <ListChecks className="h-4 w-4" />
+                                Lists to be Created:
+                            </h4>
+                            <ul className="space-y-2 ml-6 text-sm">
+                                <li key="appsettings">
+                                    <div className="font-medium flex items-center gap-2">
+                                        <Database className="h-3 w-3 text-slate-500" />
+                                        InternalAppSettings
+                                    </div>
+                                    <div className="text-muted-foreground ml-5">
+                                        Stores configuration key-value pairs (e.g. GeminiAPIKey)
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div className="flex flex-col gap-4">
+                            <Button
+                                onClick={handleSetupAppSettings}
+                                disabled={isSettingUpLists || isSettingUpOps || isSettingUpMarket || isSettingUpDocs || isSettingUpAppSettings}
+                                size="lg"
+                                className="w-full bg-slate-600 hover:bg-slate-700"
+                            >
+                                {isSettingUpAppSettings ? (
+                                    <>
+                                        <Loader2 className="h-5 w-5 animate-spin mr-2" />
+                                        Creating settings list...
+                                    </>
+                                ) : (
+                                    <>
+                                        <Settings className="h-5 w-5 mr-2" />
+                                        Deploy App Settings List
+                                    </>
+                                )}
+                            </Button>
+                        </div>
+                    </CardContent>
+                </Card>
+
                 {/* Shared Documents Setup Card */}
                 <Card className="border-2 border-purple-500/20">
                     <CardHeader>

@@ -796,6 +796,46 @@ export class SharePointListSetupService {
     }
 
     /**
+     * Create InternalAppSettings List
+     * Used for storing global app configuration like API keys
+     */
+    async createInternalAppSettingsList(): Promise<{ success: boolean; message: string; details: any }> {
+        console.log('🚀 [Setup] Creating InternalAppSettings list...');
+        try {
+            // Check if exists first
+            const check = await this.client.api(`/sites/${this.siteId}/lists`).filter("displayName eq 'InternalAppSettings'").get();
+            if (check.value && check.value.length > 0) {
+                return { success: true, message: 'InternalAppSettings list already exists', details: check.value[0] };
+            }
+
+            const list = await this.client
+                .api(`/sites/${this.siteId}/lists`)
+                .post({
+                    displayName: 'InternalAppSettings',
+                    columns: [
+                        { name: 'Value', text: {} },
+                        { name: 'Description', text: { allowMultipleLines: true } }
+                    ],
+                    list: { template: 'genericList' }
+                });
+
+            console.log('✅ [Setup] InternalAppSettings list created');
+            return {
+                success: true,
+                message: 'InternalAppSettings list created successfully!',
+                details: list
+            };
+        } catch (error: any) {
+            console.error('❌ [Setup] Failed to create InternalAppSettings:', error);
+            return {
+                success: false,
+                message: `Failed to create InternalAppSettings list: ${error.message}`,
+                details: error
+            };
+        }
+    }
+
+    /**
      * Add Linked Sample Data for Operations
      */
     private async addOperationsSampleData(goalListId: string, lists: any) {
