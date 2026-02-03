@@ -1,0 +1,625 @@
+Category 1: Constitutional Compliance and Preliminary Definitions
+1. How does the Act justify its restriction of qualified rights such as the right to privacy and freedom of information?
+2. What is the definition of "access" in the context of a depository's computer system?
+3. How is the "admittance of securities date" determined for an eligible security?
+4. What distinguishes a "bare trustee" from a "beneficial owner" under this Act?
+5. Who is considered the "ultimate owner" of deposited securities?
+6. What is the legal definition of "buying in" regarding a seller's failure to deliver?
+7. What are the two primary ways a central depository handles securities (immobilisation and dematerialisation)?
+8. Does the definition of "charge" include interests created under the Personal Properties Securities Act 2011?
+9. What constitutes "dematerialisation" according to Section 2?
+10. At what point does a physical certificate cease to be evidence of ownership?
+11. What is included in the definition of a "deposited security"?
+12. How is an "eligible security" prescribed for admission into the depository?
+13. What qualifies a person as an "institutional investor"?
+14. Who is considered an "issuer" in relation to a government-issued security?
+15. What specific hardware and software components comprise a "computer system"?
+16. How does the Act define "information" in a processable form?
+17. What is the "official list" of a stock exchange?
+18. What types of devices are included in the definition of a "record"?
+19. Does a "record" include visual images or just data?
+20. What is the "register of depositors"?
+21. What five categories of rules must a central depository establish?
+22. What defines a "securities account" in terms of recording balances?
+23. Which three Acts collectively define "securities laws"?
+24. What is the definition of "selling out"?
+25. Who can be classified as a "user" of the depository system?
+
+Category 2: Approval and Establishment of a Central Depository
+26. What is the penalty for a person establishing a system for central handling of securities without approval?
+27. Which entity is exempt from the restrictions on establishing a central depository?
+28. What is the maximum fine for an unapproved central depository?
+29. Under which Act must a company be incorporated to apply for depository approval?
+30. What documents must accompany an application for approval to the Commission?
+31. What information regarding substantial shareholders must be provided in the application?
+32. What specific operational information must the applicant provide regarding clearing and settlement?
+33. Which six types of fees and charges must be disclosed in the application?
+34. Can the Commission require additional information after an application has been lodged?
+35. What eight conditions must the Commission be satisfied with before granting approval?
+36. What insurance requirements must a depository meet to protect depositors?
+37. How must the Commission view the "interests of the public" when granting approval?
+38. Can the Commission impose requirements regarding the paid-up capital of the depository?
+39. Does the Commission have the power to amend or revoke conditions of approval later?
+
+Category 3: Revocation of Approval and Effects
+40. Through what medium must a notice of revocation be published?
+41. Can the Commission direct a depository to cease specific services without revoking the entire approval?
+42. What are the nine circumstances under which an approval may be revoked?
+43. What happens if a judgment debt of the depository remains unsatisfied?
+44. How does the Act treat a depository involved in money laundering?
+45. For what period must a depository cease operations before it is "deemed" to have ceased under the Act?
+46. Can a depository continue activities after revocation for the purpose of protecting depositors?
+47. What happens to existing agreements and transactions after an approval is revoked?
+48. Are obligations arising under existing arrangements affected by revocation?
+
+Category 4: Functions and Oversight of the Depository
+49. What are the thirteen core functions of a central securities depository?
+50. How does a depository facilitate the "dematerialisation" of accounts?
+51. What is the depository's duty regarding "orderly dealings" in securities?
+52. Can the Commission prescribe additional functions for the depository over time?
+53. Who constitutes the advisory committee the Commission may establish?
+54. What are the two primary roles of the advisory committee?
+55. How many "experience-based" members must be on the advisory committee?
+56. What is the term of office for an advisory committee member?
+57. What is the process for a depository to amend its rules?
+58. Within what timeframe must the Commission approve or disapprove rule amendments?
+59. Can the Commission declare certain classes of rules exempt from approval requirements?
+60. What happens if a depository fails to submit rules for approval upon Commission request?
+61. What are the penalties for a depository that fails to comply with the rule amendment process?
+62. What directions can a depository give to an issuer to ensure orderly dealings?
+63. What is the penalty for an issuer who ignores depository directions?
+64. Who is legally obligated to comply with the rules of a central depository?
+65. What kind of assistance is the depository required to provide to the Commission?
+66. Who has "full and free access" to depository premises for compliance purposes?
+67. What is the penalty for refusing Commission access to depository premises?
+
+Category 5: Depository Agents and Participants
+68. Who can be appointed as an "authorised depository agent"?
+69. What five specific purposes can an agent be appointed for?
+70. Is a merchant bank eligible to be a depository agent?
+71. What are the penalties for acting as an agent without a written appointment?
+72. Is an agent authorized to disclose securities account information to the Commission?
+
+Category 6: Deposited and Dematerialised Securities
+73. Who prescribes which securities must be deposited with the depository?
+74. How must a stock exchange notify the public about "eligible securities"?
+75. What is the "prescribed date" for the mandatory deposit of securities?
+76. What happens to securities that are not deposited by the prescribed date?
+77. Can a person appeal the transfer of their securities to the Commission?
+78. Within what period must an appeal regarding un-deposited securities be filed?
+79. What can the Commission do with securities if no appeal is filed after six months?
+80. How are the proceeds from the disposal of unclaimed securities handled?
+81. What is the penalty for a share registrar who fails to transfer securities as required?
+82. Can an eligible security be traded on a stock exchange after the admission date if it hasn't been deposited?
+83. Is there a fee for depositing securities after the admission date?
+84. Can a member of a stock exchange receive eligible securities for safe custody after a depository-prescribed date?
+85. What is the issuer’s responsibility when a certificate and instrument of transfer are lodged?
+86. Under what four circumstances must an issuer refuse to register a transfer to the depository?
+87. How many market days does an issuer have to complete and deliver a certificate to the depository?
+88. What information must be entered in the depository's records regarding the beneficial owner?
+89. What is the fine for an issuer who fails to comply with transfer registration timelines?
+90. Is a depository or its agent liable for losses if a transfer is refused under Section 19?
+
+Category 7: Withdrawal and Dematerialisation Process
+91. How does a depositor withdraw an immobilised security?
+92. Are withdrawals allowed for government securities?
+93. What is the restriction on trading securities that have been withdrawn from the depository?
+94. Can a dematerialised security be withdrawn from the depository?
+95. Under what conditions can a stock exchange prohibit the withdrawal of securities?
+96. What is the "dematerialisation date"?
+97. What must an issuer do upon being notified of a dematerialisation decision?
+98. What happens to the physical register of members once dematerialisation occurs?
+99. What does a "statement of account" represent in a dematerialised environment?
+100. Does Section 67 of the Companies Act 1997 apply to dematerialised securities?
+
+Category 8: Securities Accounts and Secrecy
+101. Can a person deal in deposited securities without a securities account?
+102. Whose name must appear on a securities account?
+103. What is the maximum fine for opening an account in contravention of Section 30?
+104. Can an authorised nominee hold securities for multiple beneficial owners in a single account?
+105. What is the evidentiary value of a statement of account issued by the depository?
+106. What specific records regarding dividends and income must a depository keep?
+107. How often must a depository conduct a physical stock count of certificates?
+108. Within how many days must a stock count report be submitted to the Commission?
+109. Who bears the cost of a stock count conducted by an auditor appointed by the Commission?
+110. What is the penalty for a depository failing to comply with Commission directions regarding stock count deficiencies?
+
+Category 9: Dealing and Transactions
+111. How are dealings in non-bearer securities effected?
+112. Is an instrument in writing required for dealings in non-bearer deposited securities?
+113. What constitutes "direct business" in the context of account entries?
+114. Who can request a "record of depositors" from the depository?
+115. Can members of the public inspect the record of depositors?
+116. What is the fee for a non-member to inspect the record of depositors?
+117. How is a depositor treated in relation to their rights as a shareholder?
+118. Does an authorised depository agent have a lien over unpaid deposited securities?
+119. Can a central depository purchase deposited securities as a principal?
+120. What is the penalty for a Depository CEO who contravenes the prohibition on principal dealing?
+
+Category 10: Security, Investigations, and Enforcement
+121. What measures must a depository take to protect information against unauthorised access?
+122. What is the duty of secrecy for depository employees?
+123. What are the penalties for a person who discloses confidential account information?
+124. Under what twelve circumstances is the disclosure of account information permitted?
+125. What is the penalty for unlawfully gaining access to the depository's computer system?
+126. What is the purpose of the Guarantee Fund?
+127. What are the Commission’s powers regarding the production of depository records?
+128. Can the Commission require a depositor to disclose if they are acting as a trustee?
+129. What types of orders can the National Court make for contraventions of the Act?
+130. Can the Court declare a securities contract void ab initio?
+131. Is the Commission required to provide an undertaking as to damages for a court order?
+132. What constitutes "property" in relation to a receiver appointed for a depository agent?
+133. What is the penalty for falsifying records kept by an electronic device?
+134. What is the penalty for sending depository records out of PNG with intent to defraud?
+135. For how long must a depository preserve records and accounts?
+136. What is the maximum administrative penalty the Commission can impose for a breach?
+137. Can the Commission reprimand a person in breach?
+138. Who has the authority to make regulations for carrying out the objects of the Act?
+139. What matters relating to "linkages" with overseas depositories can be regulated?
+140. Does an exchange or depository incur civil liability for acts done in good faith?
+
+Category 11: Verification, Liability, and Transfer of Securities
+141. Within what specific period must an authorised depository agent lodge a certificate and instrument of transfer with an issuer after receiving it from a depositor?
+142. What is the legal obligation of an issuer upon receiving a certificate and instrument of transfer from a depository?
+143. On what four specific grounds is an issuer legally required to refuse the registration of a transfer to a central depository?
+144. What are the consequences for an issuer if it discovers a duplication in the issuance of a certificate presented for deposit?
+145. How does a court order prohibiting dealings affect an issuer’s duty to register a transfer to the depository?
+146. What is the statutory timeframe for an issuer to complete and deliver a certificate to the central depository after a transfer is lodged?
+147. Under what circumstances must a depository enter a depositor’s name in its records as the beneficial owner?
+148. What notification must an issuer provide if they refuse to register a transfer, and to whom must it be sent?
+149. What is the maximum fine for a director of an issuer who fails to comply with the transfer registration requirements?
+150. In the case of a continuing offence regarding transfer registration, what is the daily fine imposed on the issuer?
+151. Does the verification and transfer process under Section 19 apply to bearer securities?
+152. Under what condition is a central depository or its agent held liable for loss or damage incurred during a dealing?
+153. Does the immunity granted to agents under Section 20 relieve them of obligations to effect a "buying in" under stock exchange rules?
+
+Category 12: Withdrawal and Trading Restrictions
+154. What is the procedure for a depositor to withdraw an immobilised security from their account?
+155. Within how many days must an issuer deliver certificates to the depository following a valid withdrawal application?
+156. Why does the Act specifically prohibit the withdrawal of government securities?
+157. What are the restrictions on trading a security that has been withdrawn from a central securities depository?
+158. Can a security that is re-deposited with a depository be used to settle a transaction that occurred prior to the re-deposit?
+159. What is the penalty or restriction for attempting to withdraw a security prescribed as a dematerialised security?
+160. Under what conditions can a stock exchange prohibit the withdrawal of a specific class of listed securities?
+161. What are the public notification requirements when a stock exchange restricts the withdrawal of deposited securities?
+
+Category 13: Dematerialisation and Record Maintenance
+162. Who must the depository consult before prescribing a period for the dematerialisation of securities?
+163. What actions must an issuer take regarding its constitution or trust deed upon being notified of a dematerialisation decision?
+164. What is the minimum notice period required for a dematerialisation date to become effective?
+165. What specific information must an issuer provide to the depository regarding its members on the dematerialisation date?
+166. What particulars must be included in the official Register maintained by the depository for dematerialised securities?
+167. Does the depository become an agent of the issuer for registration services simply by maintaining an official record of depositors?
+168. Is an issuer permitted to issue physical certificates for dematerialised securities after the dematerialisation date?
+169. How does the Act redefine a reference to a "register of shareholders" in other legislation after dematerialisation occurs?
+170. What replaces a physical certificate as prima facie evidence of ownership in a dematerialised environment?
+171. Which specific sections of the Companies Act 1997 and Capital Market Act 2015 are rendered inapplicable to dematerialised securities?
+172. How do dematerialisation rules apply to unit trust schemes and managed investment schemes?
+173. What power does the Commission have to prescribe forms for recording interests in securities before the dematerialisation date?
+
+Category 14: Securities Accounts and Nominee Obligations
+174. What is the prerequisite for any person wishing to deal in deposited securities?
+175. Must an authorised depository agent open a separate account if it deals in securities as a principal?
+176. Can the depository establish different classes of securities accounts for different types of investors?
+177. Whose name must appear on a securities account, and what are the two permitted options?
+178. What type of declaration is required from a person opening a securities account?
+179. What is the maximum penalty for a person who contravenes the rules for opening or maintaining a securities account?
+180. What is the "one beneficial owner" rule for authorised nominees, and why is it significant?
+181. What information must an authorised nominee furnish to the depository regarding the beneficial owner?
+182. How often, and in what manner, must a depository issue statements of accounts to depositors?
+183. Can a depositor request an ad-hoc statement of account, and are there charges associated with this?
+184. What is the evidentiary status of a statement of account issued by a central depository?
+
+Category 15: Detailed Record Keeping and Audit Standards
+185. What specific details regarding dividend disbursements must a central depository record?
+186. What financial particulars regarding commissions and fees are required to be kept in depository accounts?
+187. How must the identity of a person making an entry in the records be recorded?
+188. What is the legal presumption regarding entries made in the records or accounts of a central depository?
+189. How frequently must a depository conduct a physical stock count of certificates?
+190. To which entities must the depository submit a report on the outcome of its quarterly stock count?
+191. What must be included in the stock count report if a deficiency in certificates is discovered?
+192. Under what circumstances can the Commission appoint an external auditor to conduct a stock count, and who bears the cost?
+193. What is the maximum fine for a depository that fails to comply with Commission directions following a stock count?
+
+Category 16: Electronic Dealings and Account Entries
+194. How is a dealing in a non-bearer security effected without a written instrument?
+195. Is physical delivery of a certificate required for dealings in bearer securities within the depository system?
+196. Who is legally authorised to effect dealings in deposited securities?
+197. What is the legal difference between an entry made directly by a depository versus one made by an agent?
+198. What constitutes "direct business" in the context of securities account entries?
+199. Can a depository require the production of physical documents before making an electronic entry for direct business?
+200. What three data points must every entry in a securities account specify?
+201. What is the evidentiary value of a record of an entry in a securities account?
+
+Category 17: Record of Depositors and Membership Rights
+202. What is the process for an issuer to request a record of depositors from the depository?
+203. Within how many market days must the depository provide a record of depositors if the request is for the current date?
+204. What information regarding the nationality of depositors must be included in the record?
+205. Are members of the public permitted to inspect an issuer’s record of depositors?
+206. What is the maximum fee an issuer can charge a non-member for inspecting the record?
+207. Within what timeframe must an issuer provide a copy of the record of depositors to a person who has paid the required fee?
+208. Does a depositor's name in the record of depositors grant them the same rights as a shareholder registered in a physical register?
+209. How does the Act handle rights and liabilities for unit holders in a managed investment scheme within the depository?
+210. Is a record of depositors legally considered a "register of debenture holders" under the Capital Market Act 2015?
+211. What right of lien does an authorised depository agent have over unpaid securities?
+212. Does the definition of "deposited security" for membership purposes include securities held in suspense?
+
+Category 18: Operational Restrictions and Corporate Actions
+213. Can a central depository deal in deposited securities as a principal for its own gain?
+214. What are the criminal penalties for a CEO of a depository who engages in prohibited principal dealings?
+215. Under what conditions can a depository terminate its agreement with an insolvent participant?
+216. How does a depository handle a net termination sum owed by an insolvent participant?
+217. What are the notification requirements for an issuer in a prospectus when securities are prescribed to be immobilised?
+218. What must an issuer deliver to the depository immediately after the allotment of new securities?
+219. How are bonus issues and rights issues handled within the depository system?
+220. What is the obligation of a prospective allottee who does not already have a securities account?
+221. Are underwriters required to open securities accounts with the central depository?
+
+Category 19: Security Interests and Suspending Securities
+222. How is a security interest created in a deposited security that is being charged?
+223. What form must an instrument of charge take to be valid under the Act?
+224. Where must an instrument of charge be deposited for registration?
+225. What is the procedure for releasing a charge and transferring the security back to the charger?
+226. Is the central depository responsible for monitoring private agreements between chargers and chargees?
+227. In what five circumstances can a depository specify that a security is "in suspense"?
+228. How does a notice from the Commission regarding suspected contraventions affect a securities account?
+229. What happens to the rights and privileges of a depositor when their security is placed in suspense?
+230. Can a central depository receive a notice of an express or constructive trust?
+
+Category 20: Secrecy, Security, and System Access
+231. What "reasonable security measures" are required to protect depositor information from unauthorised access?
+232. Does the Commission have the right to bypass secrecy provisions to access information for its duties?
+233. What is the duration of the duty of secrecy for a depository employee (does it end with employment)?
+234. What is the maximum fine for a person who discloses confidential depository information in contravention of the Act?
+235. Under what condition is a disclosure of information permitted if a depositor becomes bankrupt?
+236. Are disclosures permitted for the purpose of investigating criminal offences?
+237. How can information be disclosed to the Central Bank of PNG without breaching secrecy?
+238. Can information be disclosed if it is framed in a way that the identity of the depositor cannot be ascertained?
+239. Who has the authority to regulate access to the depository's computer system?
+240. What are the penalties for "unlawfully interfering" with the operation of the depository's computer system?
+241. What is the purpose of the Guarantee Fund established under Section 56?
+242. What happens to the depository's rights if it makes a payment from the Guarantee Fund due to a participant default?
+
+Category 21: Investigations and Judicial Oversight
+243. What is the scope of the Commission’s power to require the production of records from a depository lawyer or auditor?
+244. Does a lien on a record excuse a person from producing it to the Commission?
+245. Can the Commission require a depositor to disclose if they are acting as a trustee for another person?
+246. What is the maximum fine for failing to comply with a Commission requirement for disclosure?
+247. Which Part of the Securities Commission Act 2015 governs investigations into depository offences?
+248. What types of orders can the National Court make if it appears a person will contravene a "relevant requirement"?
+249. Can the Court restrain a person from acting as an authorised depository agent in cases of persistent breaches?
+250. Under what circumstances can the Court declare a contract for the acquisition of securities to be void ab initio?
+251. Can the Court remove a director from office and bar them from future directorships?
+252. Is the Commission required to provide an undertaking as to damages when applying for court orders?
+253. What are the powers of a court-appointed receiver regarding the property of an agent?
+254. How are the proceeds from a court-ordered disposal of securities handled?
++255. What is the penalty for contravening a National Court order issued under Section 60?
++256. On whose petition can a company acting as an agent be wound up by the Court?
+
++Category 22: Falsification of Records and Criminal Offences
++257. What constitutes the offence of "falsification of records" in an electronic device?
++258. What is the penalty for storing information known to be false in the depository's computer system?
++259. What are the legal consequences for destroying or concealing records required by the Act?
++260. What is the fine for sending depository records out of PNG with the intent to obstruct an investigation?
++261. What is the penalty for furnishing false information in an application for depository approval?
++262. Can a director of a body corporate be held personally liable for an offence committed by the corporation?
++263. What is the "general penalty" for contravening the Act where no specific penalty is provided?
+
++Category 23: General Provisions and Administrative Powers
++264. For how many years must a central depository preserve its records and accounts?
++265. Which specific offences are excluded from the Commission’s power to compound?
++266. Who must give written consent before a prosecution for an offence under the Act can be instituted?
++267. Can a Commission officer represent the Commission in civil proceedings?
++268. What actions can the Commission take if a person fails to comply with depository rules?
++269. What is the maximum administrative penalty the Commission can impose for a breach?
++270. How does the Commission determine if restitution should be made by a person in breach?
++271. Does the Act provide indemnity for the board members and officers of an exchange acting in good faith?
++272. On what grounds can the Commission exempt a particular security from the provisions of the Act?
++273. Who has the authority to make regulations regarding "linkages" between PNG depositories and those overseas?
++274. What matters relating to the Advisory Committee can be prescribed by regulation?
+
++Category 24: Deep-Dive Operational Insights for Staff
++275. How does the "admittance of securities date" function as a deadline for trading?
++276. What is the significance of the "bare trustee" definition in preventing beneficial interest claims?
++277. How should staff verify that a "settlement partner" is a licensed commercial bank?
++278. What constitutes "buying in" when a seller fails to deliver securities?
++279. How is a "charge" under this Act reconciled with the Personal Properties Securities Act 2011?
++280. What defines the "central equipment" of the computer system?
++281. How does "dematerialisation" legally differ from "immobilisation"?
++282. What makes an "institutional investor" different from a retail investor under the Act?
++283. How should staff interpret the "official list" versus a "market day" for compliance deadlines?
++284. What are the requirements for a "copy of a record" involving digital recorders or films?
++285. How do "securities laws" collectively interact (CDA, SCA, and CMA)?
++286. What defines a "user" and their right to computer access?
++287. How does the Head of State bring the Act into operation?
++288. What constitutional "qualified rights" are most impacted by the Commission’s investigation powers?
++289. How should staff evaluate the "suitability of the applicant" for depository approval?
++290. What insurance policies are deemed "satisfactory" for depository approval?
++291. How does the "public interest" test apply to the revocation of a depository's approval?
++292. What constitutes "money laundering activities" that would trigger a revocation?
++293. How does the "opportunity to be heard" requirement protect depository operators?
++294. What are the four core "advisory" functions of the advisory committee?
++295. How should staff process a "notice of disapproval" for rule amendments?
++296. What defines a "lawful excuse" for denying the Commission access to premises?
++297. Can a finance company be appointed as a depository agent?
++298. How is the "daily newspaper" advertisement used for public notification of eligible securities?
++299. What happens to proceeds from securities sold by the Commission after an unsuccessful appeal?
++300. What is the daily fine for a registrar who fails to effect a court-ordered transfer?
+
++Category 25: Regulatory Compliance and Breach Actions
++301. How does the Act define a "breach" in relation to the requirements of the Act, regulations, or depository rules?
++302. What specific actions can the Commission take if it is satisfied that a person has committed a breach?
++303. What is the maximum penalty the Commission can impose for a breach under Section 71(2)(b)?
++304. Is the Commission permitted to reprimand a person in breach as a formal regulatory action?
++305. What is the difference between a security being "in suspense" versus an account being "under suspense"?
++306. What remedial steps can the Commission require a person in breach to take to mitigate the effect of the breach?
++307. What two factors must the Commission consider when determining if restitution should be made by a person in breach?
++308. Does taking action under Section 71 preclude the Commission from taking other actions under different securities laws?
++309. Can a central depository take its own action under its relevant rules even if the Commission has already acted?
+
++Category 26: Corporate Actions and Allotment Duties
++310. What are the notification requirements for an issuer or offeror when a security proposed for listing is prescribed to be immobilised or dematerialised?
++311. Upon completion of an allotment, what records must the issuer immediately deliver to the central depository?
++312. Who is considered the "offeror" in relation to a security for the purpose of public offers under the Act?
++313. In the event of a bonus issue or rights issue, what specific particulars must the issuer notify to the depository?
++314. What must an issuer deliver to the depository regarding the denominations of certificates for bonus or rights issues?
++315. Is a prospective allottee required to open a securities account before acquiring securities in a corporate action?
++316. What are the obligations of underwriters regarding securities accounts with the central depository?
+
++Category 27: Securities in Suspense and Trust Restrictions
++317. Under what five specific circumstances can a central depository specify that a deposited security is "in suspense"?
++318. How does a notice from the Commission regarding suspected contraventions affect the status of a securities account?
++319. What happens to the rights, benefits, and obligations of a depositor when their security is specified as being in suspense?
++320. Is a central depository legally allowed to receive a notice of an express, implied, or constructive trust?
++321. Does anything done by the depository in relation to book-entry securities get affected by notice of a trust?
+
++Category 28: Guarantee Fund and Insolvency Procedures
++322. What is the mandatory purpose for maintaining a Guarantee Fund?
++323. What constitutes the assets of the Guarantee Fund?
++324. How does subrogation apply if the central securities depository makes a payment from the Guarantee Fund due to a participant's default?
++325. Can the depository realise assets of an insolvent participant based on a pledge or the depository rules?
++326. What happens if there is a net termination sum owed to the depository by an insolvent participant?
++327. Under what conditions can the central securities depository terminate its agreement with a participant?
+
++Category 29: Computer System Security and Access Offences
++328. What "reasonable security measures" must every central depository and authorised depository agent take to protect depositor information?
++329. Does the Commission have the right to access any information it requires, notwithstanding general security measures?
++330. Who can be granted access to the depository's computer system by the depository?
++331. What power does the Commission have to regulate or prohibit access to the computer system for certain classes of users?
++332. What constitutes an offence by a user regarding computer system access?
++333. What is the maximum penalty for unlawfully interfering with or impeding the operation of a depository's computer system?
+
++Category 30: Detailed Investigation and Disclosure Powers
++334. To whom can the Commission give a direction to produce records or accounts?
++335. Can the Commission require a lawyer or auditor acting for a depository to produce records?
++336. Does a requirement to produce records apply to a business carried on by a person as a trustee?
++337. If a person has a lien on a record, does the production of that record to the Commission prejudice that lien?
++338. What information can the Commission require regarding the acquisition or disposal of deposited securities?
++339. Can the Commission require a depositor to disclose if they are acting for another person as a trustee?
++340. What is the penalty for a person who recklessly furnishes false or misleading information in compliance with a requirement?
++341. Under which Act must the Commission conduct investigations if it suspects an offence under this Act?
+
++Category 31: Specific Court Orders and Judicial Remedies
++342. On whose application can the National Court make orders for contraventions of "relevant requirements"?
++343. What steps can the Court order to remedy a contravention or mitigate its effect?
++344. Can the Court restrain a person from acting as an authorised depository agent in cases of persistent breaches?
++345. What types of voting rights can be restrained by a Court order?
++346. Can the Court vest securities in the Commission or a appointed trustee?
++347. Under what circumstances can the Court declare a securities contract void?
++348. What power does the Court have regarding the removal of a director from office?
++349. Can the Court bar a director from becoming a director of any other public company?
++350. Is the Commission required to provide an undertaking as to damages when applying for a court order?
++351. What is the time limit for a person to claim proceeds after a court-ordered disposal of securities?
++352. What is the definition of "relevant requirement" for an application made by an aggrieved person?
+
++Category 32: Winding Up and Corporate Liability
++353. On what grounds can the Commission petition the Court to wind up a company?
++354. Can a company be wound up even if it is already being wound up voluntarily?
++355. What is the liability of a director, executive officer, or secretary when a body corporate commits an offence?
++356. What defence is available to a corporate officer to avoid being deemed to have committed a corporate offence?
+
++Category 33: Preservation of Records and Compoundable Offences
++357. For how many years must a central depository preserve records relating to a depositor’s account?
++358. Which specific sections of the Act contain offences that cannot be compounded by the Commission?
++359. Into which fund must moneys paid from compounding an offence be deposited?
+
++Category 34: Commission Legal Representation and Civil Immunity
++360. Who can represent the Commission in civil proceedings or as an advocate in court?
++361. Does the Act provide indemnity against civil liability for an exchange or central depository acting in good faith?
++362. Who else is covered by the indemnity provisions (e.g., board members, committee members)?
++363. What is the standard for immunity regarding statements made or acts omitted?
+
++Category 35: Power of Exemption and Regulations
++364. On what grounds can the Commission exempt a person or security from the provisions of the Act?
++365. Where must an order for exemption be published?
++366. Who has the final authority to make regulations under the Act?
++367. What matters can be regulated regarding the opening and closing of securities accounts?
++368. Can regulations be made to control the activities and standards of depository agents?
++369. What type of linkages between depositories can be prescribed by regulations?
+
++Category 36: Interpretive Nuances: "Records" and "Copies"
++370. Does the term "record" include photographs and digital recorders?
++371. In the case of a sound recording, what constitutes a "copy of a record"?
++372. In the case of a film or video recording, what constitutes a "copy"?
++373. What is the legal status of a transcript of sound data in relation to a record?
+
++Category 37: The Admittance and Mandatory Deposit Timeline
++374. How much notice must a stock exchange give before the "prescribed date" for depositing securities?
++375. What happens if a holder fails to deposit prescribed securities by the prescribed date?
++376. Within how many months can a person appeal to the Commission after their securities have been transferred due to non-deposit?
++377. What must the Commission be satisfied of to re-transfer securities back to a person who failed to deposit them?
++378. What is the fine per security for a share registrar who fails to effect a mandatory transfer to the Commission?
++379. Can eligible securities be traded on the stock exchange between the notification date and the admission date?
+
++Category 38: Issuer Verification Duties and Refusal Grounds
++380. Within what period must a depository agent lodge a deposited certificate with an issuer?
++381. What constitutes a "non-genuine certificate" that would require an issuer to refuse registration?
++382. What is the timeframe for an issuer to deliver a certificate to the central depository after a transfer is lodged?
++383. What is the penalty for an issuer director who fails to comply with transfer and delivery timelines?
++384. What is the daily fine for a continuing failure by an issuer to deliver a certificate?
+
++Category 39: Beneficial Ownership and Nominee Constraints
++385. Can an authorised nominee hold securities for more than one beneficial owner in a single account?
++386. What particulars must an authorised nominee furnish to the depository regarding the beneficial owner?
++387. What is the maximum penalty for an authorised nominee who holds securities for multiple owners in one account?
++388. What is the evidentiary status of a statement of account issued by the depository?
+
++Category 40: Record of Depositors and Public Inspection Rights
++389. How many market days does the depository have to issue a record of depositors to an issuer?
++390. What is the maximum age of the data ("date earlier than notice") that an issuer can request for a record of depositors?
++391. What specific particulars must the record of depositors contain (e.g., nationality)?
++392. Can an issuer charge a fee for a member to inspect the record of depositors?
++393. What is the maximum fee for a non-member to inspect the record of depositors?
++394. What is the fee for every hundred pages of a record of depositors copied for a member?
++395. Within how many days must an issuer supply a copy of the record of depositors once requested?
+
++Category 41: Rights of Depositors and Lien Powers
++396. Is a depositor treated as a shareholder registered in the register of shareholders?
++397. How does the Act apply to unit holders in a managed investment scheme?
++398. Does a record of depositors count as a register of debenture holders?
++399. Under what conditions does an authorised depository agent have a lien over unpaid deposited securities?
++400. How must an agent deal with unpaid deposited securities?
+
++Category 42: Prohibitions and Penalties for Depository Management
++401. What is the penalty for a central depository that purchases deposited securities as a principal?
++402. What is the imprisonment term for a CEO who contravenes the principal dealing prohibition?
++403. What is the maximum fine for establishing a depository system without approval?
++404. What is the maximum fine for a depository that fails to comply with Commission stock count directions?
+
++Category 43: Secrecy Exceptions and Disclosures
++405. Is a disclosure permitted if the depositor gives written permission?
++406. Can information be disclosed if the depositor is a corporation being wound up?
++407. Are disclosures allowed in interpleader proceedings involving a central depository?
++408. Can information be disclosed to a person authorised to investigate criminal offences?
++409. Is disclosure allowed for the purpose of assisting the Central Bank to discharge its functions?
++410. What defines a "summary or collection of information" that can be legally disclosed?
++411. Can information be disclosed solely in the interest of investors or the public interest?
+
++Category 44: Computer System Access and Misconduct
++412. What constitutes unlawful interference with a depository computer system?
++413. What is the penalty for gaining access beyond the extent authorised by the depository?
++414. Who has the authority to issue guidelines on computer terminal access?
+
++Category 45: General Penalties and Administrative Oversight
++415. What is the general penalty for contravening the Act where no specific penalty is provided?
++416. For a continuing offence regarding records production, what is the daily fine?
++417. Can the Commission compound any offence under Section 63 (destruction of records)?
++418. Can the Commission compound any offence under Section 64 (furnishing false info)?
++419. Whose written consent is required before a criminal prosecution can be instituted?
++420. Can a Commission officer prosecute a case if authorised by the Public Prosecutor?
+
++Category 46: Rules and Operations
++421. What four specific items must the depository rules address regarding the deposit and transfer of securities?
++422. How must the rules provide for the protection of the interests of depositors?
++423. What are the rules required to monitor regarding compliance and enforcement?
++424. What are the rules regarding compensation funds meant to achieve?
+
++Category 47: Advisory Committee Governance
++425. What is the core function of the advisory committee?
++426. Who are the five mandatory institutional representatives on the advisory committee?
++427. How many members of the committee must have experience in capital markets or finance?
++428. What is the term of office for an advisory committee member?
++429. Can the Commission revoke an appointment of a committee member without giving a reason?
+
++Category 48: Rule Amendments and Commission Approval
++430. What two items must a depository submit when proposing a rule amendment?
++431. Within how many weeks must the Commission approve or disapprove a rule amendment?
++432. Can a rule amendment take effect without written approval?
++433. What happens if the Commission requires an amendment to be submitted for approval after a class declaration?
++434. What is the maximum fine for a depository that fails to comply with a rule amendment notice?
++435. What is the fine for a director of a depository for rule amendment non-compliance?
+
++Category 49: Verification and Physical Custody
++436. What system must a depository establish for the verification and inspection of book-entry securities?
++437. What is the function of the depository regarding the efficient transfer of securities?
++438. How does the depository guard against falsification of records?
++439. Can the Commission prescribe other functions for a central depository besides those listed in Section 8?
+
++Category 50: Assistance to the Commission
++440. What is the duty of a depository to ensure orderly dealings in deposited securities?
++441. Can a depository give directions to an issuer to refrain from doing a particular thing?
++442. What is the penalty for an issuer who fails to comply with a depository direction?
++443. Who is legally obligated to comply with the rules of a central depository?
+
++Category 51: Authorised Depository Agents
++444. What level of assistance is a depository required to provide to the Commission?
++445. Is an authorised person entitled to access any part of the premises of a depository?
++446. What is the penalty for refusing access to depository premises for the Commission?
++447. What constitutes a "lawful excuse" for denying access under Section 13?
+
++Category 52: Stock Exchange Prescriptions
++448. For what five purposes can an authorised depository agent be appointed?
++449. Is an agent authorized to collect fees and charges on behalf of the depository?
++450. Can a finance company licensed under the Banking and Financial Institutions Act 2000 be an agent?
++451. Can an agent reveal information relating to a securities account when required by the Commission?
++452. What is the penalty for acting as an agent without a written appointment?
+
++Category 53: Disposal of Securities
++453. After whose consultation does a stock exchange prescribe securities for deposit?
++454. Does the deposit requirement apply to securities proposed to be listed?
++455. How must the notice identifying a prescribed security be publicized?
++456. Can the depository specify terms and conditions where the deposit requirement does not apply?
+
++Category 54: Safe Custody and Trading Restrictions
++457. Under what condition can the Commission sell or dispose of securities transferred to it?
++458. How should the Commission deal with the proceeds of a sale of unclaimed securities?
++459. What role does the National Court play if a share registrar fails to transfer securities as required?
+
++Category 55: Withdrawal of Immobilised Securities
++460. Can a security be traded on the exchange after the admission date if it is not deposited?
++461. Can an eligible security be deposited after the admission date?
++462. What additional fees can be imposed for late deposit?
++463. Can a member receive an eligible security for safe custody after a date prescribed by the depository?
+
++Category 56: Dematerialisation and Registries
++464. Where does a depositor apply to withdraw an immobilised security?
++465. What is the deadline for an issuer to deliver certificates after a withdrawal application is made?
++466. Why are government securities prohibited from being withdrawn?
++467. Can a security withdrawn from the depository be traded on a stock exchange?
++468. Can a re-deposited security be used to settle a transaction that took place before the re-deposit?
+
++Category 57: Final Regulatory Concepts
++469. Who must the depository consult before prescribing a dematerialisation period?
++470. What are the public notice requirements for an issuer regarding a dematerialisation date?
++471. What is the minimum notice period for a dematerialisation date?
++472. What happens to the physical register of members after the dematerialisation date?
++473. Does the depository become an agent of the issuer for registration services in a dematerialised environment?
++474. Can an issuer issue a certificate for a dematerialised security?
+
++Category 58: Statutory References
++475. How are references to a register of shareholders interpreted after dematerialisation?
++476. How is a transfer of shares interpreted in a dematerialised context?
++477. Does a statement of account serve as prima facie evidence of ownership?
++478. Which section of the Companies Act 1997 is specifically rendered inapplicable to dematerialised securities?
+
++Category 59: Securities Accounts and Declarations
++479. Can a person deal in deposited securities without a securities account?
++480. Must an authorised depository agent have a separate account to deal as a principal?
++481. What is the declaration requirement for a person opening a securities account?
++482. What is the penalty for contravening account opening rules?
+
++Category 60: Statements and Audits
++483. Can a depositor require the issuance of a statement at any time?
++484. What dividend particulars must a depository record for each account?
++485. What commissions and fees must be recorded in depository accounts?
++486. How are entries in the records timed and identified?
++487. Is an entry in the record deemed to have been made by the depository?
+
++Category 61: Physical Stock Counts
++488. What is the purpose of a quarterly physical stock count?
++489. Within how many days after the quarter must the stock count report be submitted?
++490. To which entities must a report on listed deposited securities be submitted?
++491. Can the Commission appoint an external auditor to conduct a stock count?
++492. Who bears the costs of an auditor-conducted stock count?
+
++Category 62: Direct Business and Entries
++493. Is a written instrument needed for a dealing in a non-bearer security?
++494. Is delivery needed for a bearer security dealing within the depository?
++495. Who is deemed to have made an entry in a securities account established through an agent?
++496. Can a depository require a document before making an entry for direct business?
+
++Category 63: Final Regulatory Concepts
++497. What defines "market day" for the purpose of compliance timelines?
++498. What defines "official list" in relation to a stock exchange?
++499. Does the Act permit regulations for linkages with overseas depositories?
++500. What is the final purpose of the Act as stated in the preamble?

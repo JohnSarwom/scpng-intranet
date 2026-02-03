@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "shared/": "file:///c%3A/Users/johns/Desktop/Coding/Web%20Applications/scpng_projects/scpng_intranet/unitopia-hub/supabase/functions/_shared/"
+  }
+} 

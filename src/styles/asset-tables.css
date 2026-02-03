@@ -1,0 +1,178 @@
+
+/* --- Enhanced Sticky Table Styles --- */
+.responsive-table-container {
+    overflow-x: auto;
+    width: 100%;
+    position: relative;
+}
+
+/* Enhanced sticky header styles */
+.sticky-table-header {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: white;
+    border-bottom: 2px solid #e5e7eb;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.dark .sticky-table-header {
+    background: #374151;
+    border-bottom-color: #4b5563;
+}
+
+/* Enhanced sticky actions column */
+.sticky-actions-column {
+    position: sticky;
+    right: 0;
+    z-index: 30;
+    background: white;
+    box-shadow: -2px 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.dark .sticky-actions-column {
+    background: #1f2937;
+    box-shadow: -2px 0 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Improved table cell transitions */
+.enhanced-table-cell {
+    transition: all 0.15s ease-in-out;
+    border-right: 1px solid #f3f4f6;
+}
+
+.dark .enhanced-table-cell {
+    border-right-color: #4b5563;
+}
+
+.enhanced-table-cell:hover {
+    background-color: #f9fafb;
+}
+
+.dark .enhanced-table-cell:hover {
+    background-color: #374151;
+}
+
+/* Sort indicator animations */
+.sort-indicator {
+    transition: all 0.2s ease-in-out;
+    opacity: 0.6;
+}
+
+.sort-indicator.active {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+/* Enhanced condition badges */
+.condition-badge {
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.condition-badge:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Improve horizontal scrolling visibility */
+.max-h-\[calc\(100vh-220px\)\] {
+    border-bottom: 1px solid var(--light-grey);
+}
+
+/* Add scrollbar styling for better visibility */
+.max-h-\[calc\(100vh-220px\)\]::-webkit-scrollbar,
+.responsive-table-container::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+.max-h-\[calc\(100vh-220px\)\]::-webkit-scrollbar-track,
+.responsive-table-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+.max-h-\[calc\(100vh-220px\)\]::-webkit-scrollbar-thumb,
+.responsive-table-container::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 4px;
+}
+
+.max-h-\[calc\(100vh-220px\)\]::-webkit-scrollbar-thumb:hover,
+.responsive-table-container::-webkit-scrollbar-thumb:hover {
+    background: #a1a1a1;
+}
+
+/* --- Generic Table Styles --- */
+.data-table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-top: 20px; 
+    background-color: #ffffff; 
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05); 
+    border-radius: 5px; 
+    overflow: hidden; 
+}
+
+.data-table thead th { 
+    background-color: var(--light-grey); 
+    padding: 12px 15px; 
+    text-align: left; 
+    font-weight: 600; 
+    font-size: 0.85rem; 
+    text-transform: uppercase; 
+    letter-spacing: 0.5px; 
+}
+
+.data-table tbody td { 
+    padding: 12px 15px; 
+    border-bottom: 1px solid var(--light-grey); 
+    font-size: 0.9rem; 
+    vertical-align: middle; 
+}
+
+.data-table tbody tr:last-child td { 
+    border-bottom: none; 
+}
+
+.data-table tbody tr:hover { 
+    background-color: #f1f1f1; 
+}
+
+.data-table .actions a, .data-table .actions button { 
+    color: var(--link-color); 
+    text-decoration: none; 
+    margin-right: 10px; 
+    background: none; 
+    border: none; 
+    cursor: pointer; 
+    padding: 0; 
+    font-size: 1.1rem; 
+}
+
+.data-table .actions a:hover, .data-table .actions button:hover { 
+    color: var(--primary-color); 
+}
+
+.data-table .actions .delete-icon { 
+    color: var(--button-danger-bg); 
+}
+
+.data-table .actions .delete-icon:hover { 
+    color: darkred; 
+}
+
+.data-table img { 
+    width: 40px; 
+    height: 40px; 
+    object-fit: cover; 
+    border-radius: 4px; 
+    vertical-align: middle; 
+}
+
+/* Ensure all tables have the same styling for horizontal scrolling */
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+}

@@ -1,0 +1,362 @@
+/* HtmlLicensePreview.module.css */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin: 0; remove body margin, it's controlled by parent */
+    /* padding: 20px; remove body padding */
+    /* background-color: #f0f0f0; remove body background */
+    /* display: flex; remove body display */
+    /* justify-content: center; remove body justify-content */
+    /* align-items: center; remove body align-items */
+    /* min-height: 100vh; remove body min-height */
+    color: #333; /* Default text color */
+}
+
+.licenseContainer {
+    width: 800px; /* Adjust as needed */
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    position: relative; /* For the gold line */
+    margin: 20px auto; /* Center it if it's narrower than container */
+}
+
+/* Gold vertical line - REMOVED as it will be a draggable element */
+/*
+.licenseContainer::before {
+    content: "";
+    position: absolute;
+    left: 220px; 
+    top: 120px; 
+    bottom: 50px; 
+    width: 2px;
+    background-color: #d4af37; 
+    z-index: 1;
+}
+*/
+
+
+/* Header */
+.licenseHeader {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.logoPlaceholderHeader {
+    width: 80px;
+    height: 80px;
+    background-color: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    color: #777;
+    border: 1px dashed #aaa;
+    margin-right: 20px;
+    border-radius: 50%; /* Circular placeholder like the original logo */
+}
+
+.headerTitle {
+    flex-grow: 1;
+}
+
+.headerTitle h1 {
+    font-size: 18px;
+    margin: 0 0 2px 0;
+    color: #000;
+    font-weight: bold;
+}
+
+.headerTitle h2 {
+    font-size: 12px;
+    margin: 0;
+    color: #555;
+    font-weight: normal;
+}
+
+.headerDetails {
+    text-align: right;
+}
+
+.headerDetails p {
+    font-size: 10px;
+    margin: 2px 0;
+    color: #e74c3c; /* Reddish color for dates */
+    font-weight: bold;
+}
+
+.licenseNoHeader {
+    margin-top: 10px;
+}
+
+.licenseNoHeader > span { /* Target only the direct span for CML040123 */
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+    letter-spacing: 1px;
+}
+
+.licenseNoHeader .dots {
+    margin-top: 2px;
+    letter-spacing: 2px; /* Adjust spacing between dots */
+}
+.licenseNoHeader .dots span {
+    font-size: 10px; /* Smaller dots */
+    color: #aaa;
+    font-weight: normal; /* Ensure dots are not bold if inheriting */
+}
+
+
+/* License Body */
+.licenseBody {
+    display: flex;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 200px; /* Adjust as needed, ensure consistency with ::before pseudo-element left position */
+    padding: 20px;
+    padding-right: 30px; /* Space before the gold line */
+    position: relative; /* To ensure it's part of the flow for the line calculation */
+    z-index: 2; /* Above the gold line */
+    background-color: #fff; /* Ensure it covers anything beneath */
+}
+
+.sidebar h3 {
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: #000;
+}
+
+.sidebar .actDetails {
+    font-size: 10px;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.sidebarText {
+    font-size: 10px;
+    line-height: 1.4;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.sidebarText .bold {
+    font-weight: bold;
+}
+
+.qrCodePlaceholder {
+    width: 100px;
+    height: 100px;
+    background-color: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    color: #777;
+    border: 1px dashed #aaa;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Main Content */
+.mainContent {
+    flex-grow: 1;
+    padding: 20px;
+    padding-left: 40px; /* Space after the gold line */
+    position: relative; /* To ensure it's part of the flow */
+    z-index: 0; /* Below the gold line to let it pass through */
+}
+
+.mainTitleBanner {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 15px 15px 0 0; /* Rounded top corners */
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.mainTitleBanner h2 {
+    font-size: 22px;
+    margin: 0;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.grantedToLabel {
+    font-size: 12px;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+.granteeName {
+    font-size: 28px;
+    color: #c0392b; /* Red color for the name */
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.dotsLong {
+    color: #aaa;
+    letter-spacing: 1px; /* Adjust for denser or sparser dots */
+    font-size: 12px; /* Adjust size of dots */
+    margin-bottom: 25px;
+    overflow: hidden; /* Prevents wrapping if too many dots */
+    white-space: nowrap; /* Ensures dots stay on one line */
+    text-align: left; /* Ensure dots start from left */
+}
+
+.businessActivity {
+    font-size: 11px;
+    color: #333;
+    margin-bottom: 5px;
+    text-align: center;
+    font-weight: 500; /* Adjusted for slightly less than bold */
+}
+
+.pursuantTo {
+    font-size: 9px;
+    color: #777;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.signatureArea {
+    margin-top: 50px; /* Space for signature */
+    margin-bottom: 30px; /* Space before footer logo */
+}
+
+.signatureName {
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 2px;
+    color: #000;
+}
+
+.signatureTitle {
+    font-size: 10px;
+    color: #555;
+    margin-top: 0;
+}
+
+.logoPlaceholderFooter {
+    width: 60px;
+    height: 60px;
+    background-color: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    color: #777;
+    border: 1px dashed #aaa;
+    border-radius: 50%;
+    margin-left: auto; /* Aligns to the right */
+    margin-right: 20px; /* Some padding from the edge */
+}
+
+
+/* Footer */
+.licenseFooter {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.footerBanner {
+    position: absolute; /* Added */
+    background-color: #000;
+    color: #fff;
+    padding: 8px 0; /* Reduced padding */
+    text-align: center;
+    font-size: 10px; /* Reduced font size */
+    letter-spacing: 0.5px;
+    /* No specific width/height, will be controlled by draggable */
+}
+
+/* Commenting out or removing .bottomStrip as it's no longer used 
+.bottomStrip {
+    position: absolute; 
+    background-color: #000;
+    
+}
+*/
+
+/* Print-specific styles */
+@media print {
+    body, html {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        background: #fff; /* Ensure background is white for printing */
+    }
+
+    @page {
+        size: A4 landscape;
+        margin: 0mm; /* Remove default printer margins */
+    }
+
+    .licenseContainer {
+        width: 297mm; /* A4 landscape width */
+        height: 210mm; /* A4 landscape height */
+        margin: 0;
+        padding: 0;
+        border: none;
+        box-shadow: none;
+        transform-origin: top left;
+        /* The content will be scaled by JavaScript if needed,
+           or we can attempt a CSS-only scaling.
+           Let's set it up to fill the page first. */
+        position: absolute; /* Use absolute to control position on page */
+        top: 0;
+        left: 0;
+        overflow: hidden; /* Hide anything that might spill out */
+    }
+
+    /* Hide elements not meant for printing, e.g., UI controls from parent if any leak through */
+    /* .configPanel, .someOtherUiElement { display: none !important; } */
+
+    /* Attempt to make elements scale if their container is scaled.
+       This is a general approach; specific element adjustments might be needed. */
+    .licenseContainer > div { /* Target direct children or specific draggable elements */
+        /* If using transform: scale on .licenseContainer in JS, this might not be needed
+           or might need to be adjusted. */
+    }
+
+    /* Hide the decorative gold line during print, as its position might be tricky */
+    .licenseContainer::before {
+        display: none;
+    }
+
+    /* Ensure text and other elements are sharp */
+    * {
+        -webkit-print-color-adjust: exact !important; /* Chrome, Safari, Edge */
+        color-adjust: exact !important; /* Firefox */
+        print-color-adjust: exact !important; /* Standard */
+    }
+} 
+
+.resizeHandle {
+  /* Placeholder style, customize as needed */
+  background-color: rgba(0, 0, 255, 0.5);
+  border: 1px solid white;
+  border-radius: 50%; /* Makes it a circle */
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
+  /* Ensure cursor property from inline style takes precedence if set */
+}
+
+.selectedElementOutline {
+  outline: 2px dashed #007bff; /* A distinct blue outline */
+  outline-offset: 2px; /* Optional: adds a little space between element and outline */
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.5); /* Optional: adds a glow effect */
+} 

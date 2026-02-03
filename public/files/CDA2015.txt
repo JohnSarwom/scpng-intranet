@@ -1,0 +1,1159 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No. 63	of 2015.
+Central Depositories Act 2015.
+Certified on : 02/12/2016
+ 
+ 
+
+No	of  2015
+
+Central Depositories Act 2015.
+
+ARRANGEMENT OF SECTIONS.
+
+
+PART I. - PRELIMINARY.
+1.	Compliance with constitutional requirements.
+2.	Interpretation -
+“access” “Act”
+“admittance of securities date” “admittance of security” “authorised depository agent” “authorised nominee”
+“bank”
+“bare trustee”
+“bearer security” “beneficial owner” “buying in”
+“Central Bank” “central depository” “certificate”
+“charge”
+“Commission”
+“computer system” “dealer”
+“dealing” “debenture”
+“debt securities” “dematerialisation”
+“dematerialisation date” “dematerialised security” “deposited security” “depositor”
+“depository” “eligible security” “information”
+“institutional investor” “Investigating Officer” “issuer”
+“listed”
+ 
+“listed security” “market day” “member”
+“Minister”
+“nominee company” “non-bearer security” “notification date” “official list”
+“participating organization” “prescribed date”
+“prescribed security” “record”
+“register of depositors” “rules”
+“securities account” “securities laws”
+“security” or “securities” “selling out”
+“settlement partner” “stock exchange” “stock market”
+“unit trust scheme”
+“unlisted deposited security” “user”
+
+PART II. - CENTRAL DEPOSITORY.
+3.	Restriction on establishment of a central depository.
+4.	Application for approval to establish and maintain a central depository.
+5.	Power of Commission to approve the establishment of a central depository.
+6.	Revocation of approval of a central depository.
+7.	Effect of revocation.
+8.	Functions of a central securities depository.
+9.	Commission may establish advisory committee.
+10.	Commission to approve amendment to rules of central depository.
+11.	Duty of a central depository to ensure orderly dealings in deposited securities.
+12.	Authorised Central Depository agents, issuers, etc., to comply with rules of a central depository.
+13.	Central depository to provide assistance to the Commission.
+
+PART III. - PROVISIONS RELATING TO DEPOSITED SECURITIES.
+Division 1. - Deposited and dematerialised Securities.
+14.	Central depository participant.
+15.	Stock exchange to prescribe securities that may be admitted or deposited with a central depository.
+16.	Trading of eligible securities.
+17.	Restriction on trade in eligible securities.
+ 
+18.	Receipt of certificates of eligible securities for safe custody.
+19.	Verification of certificates and transfer to a central depository or nominee company.
+20.	Central depository and authorised depository agent not liable for loss.
+
+Division 2. - Withdrawal of securities.
+21.	Withdrawal of immobilised securities.
+22.	Trading of securities withdrawn from central securities depository.
+23.	Withdrawal of prescribed securities prohibited.
+24.	Dematerialisation of securities.
+25.	Central securities depository to maintain official record of depositors.
+26.	Issuer not to issue certificates in respect of dematerialised securities.
+27.	Effect of reference to records in a central securities depository.
+28.	Application to unit trust schemes.
+29.	Rules in respect of dematerialised securities.
+
+Division 3. - Securities accounts and records.
+30.	Securities accounts.
+31.	Authorised nominee shall hold deposited securities for one beneficial owner in respect of each securities account.
+32.	Issuance of statements of accounts.
+33.	Duty of central depository to keep certain records.
+34.	Physical stock count of certificates.
+
+Division 4. - Securities transactions, entries and miscellaneous.
+35.	Dealings effected by means of electronic process.
+36.	Dealings in deposited securities shall be effected by beneficial owners or authorised nominees.
+37.	Entries into securities accounts.
+38.	Entries in securities accounts in respect of direct business.
+39.	Entries in securities accounts to specify date, time and person making the entries.
+40.	Record of an entry prima facie evidence.
+41.	Record of depositors to be issued to issuer on request.
+42.	A depositor to be treated as if he were a member.
+43.	Prohibition against acquisition of, or dealings in, deposited securities by a central depository.
+44.	Termination and set-off.
+45.	Public offer.
+46.	Corporate actions.
+47.	Underwriters to open securities accounts.
+48.	Charging of securities.
+49.	Securities in suspense.
+50.	Notice of trust.
+
+PART IV. - SECRECY PROVISIONS.
+51.	Duty to take reasonable security measures.
+ 
+52.	Duty to maintain secrecy.
+53.	Restrictions on disclosure of information by authorised depository agents.
+54.	Permitted disclosures.
+55.	Regulation of access to the computer system.
+56.	Guarantee Fund.
+
+PART V. - INVESTIGATION.
+57.	Power of Commission to require production of records.
+58.	Disclosure to Commission.
+59.	Investigation by Commission.
+60.	Power of court to make certain orders.
+61.	Application for winding up.
+
+PART VI. - OFFENCES.
+62.	Falsification of records or accounts.
+63.	Destruction, concealment, mutilation and alteration of records prohibited.
+64.	Furnishing false or misleading information.
+65.	Offence by body corporate.
+66.	General penalty.
+
+PART VII. - GENERAL.
+67.	Preservation of records and accounts.
+68.	Power of Commission to compound.
+69.	Criminal prosecution.
+70.	Commission may be represented by officer in civil proceedings.
+71.	Powers concerning compliance with rules of the central depository.
+72.	Indemnity.
+73.	Power of exemption.
+74.	Regulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- iv -
+ 
+ 
+
+No	of  2015
+
+
+An Act entitled
+Central Depositories Act 2015,
+
+Being an Act to establish the Central Depository for the regulation of deposit, holding, withdrawal of, and dealings in, securities deposited and to provide for matters incidental to, and for related purposes.
+
+MADE by the National Parliament to come into operation in accordance with a notice in the National Gazette by the Head of State, acting with, and in accordance with, the advice of the Minister.
+
+PART I. - PRELIMINARY.
+
+1.	COMPLIANCE WITH CONSTITUTIONAL REQUIREMENTS.
+(1)	For the purposes of Sections 29 and 41 of the Organic Law on Provincial Governments and Local-level Governments, it is declared that this law relates to a matter of national interest.
+(2)	This Act, to the extent that it regulates or restricts a right or freedom referred to in Subdivision III.3.C. (qualified rights) of the Constitution, namely -
+(a)	the right to liberty of the person conferred by Section 42; and
+(b)	the right to freedom from arbitrary search and entry conferred by Section 44; and
+(c)	the right to freedom of expression and publication conferred by Section 46; and
+(d)	the right to peacefully assemble and associate and to form or belong to, or not belong to, political parties, industrial organisations and other associations conferred by Section 47; and
+(e)	the right to freedom of employment conferred by Section 48; and
+(f)	the right to privacy conferred by Section 49; and
+(g)	the right to freedom of information conferred by Section 51,
+of the Constitution, is a law that is made for the purpose of giving effect to the public interest in public welfare.
+ 
+
+
+2.	INTERPRETATION.
+(1)	In this Act, unless the context otherwise requires -
+“access”, in relation to a computer system, means the placing of information on that system and the retrieval of information from that system;
+“Act” includes any regulations made under this Act;
+“admittance of securities date” in relation to any eligible security, means the date specified in the notice given by a stock exchange as being the last day on which the eligible security may be traded on a stock market of the stock exchange unless such security has been deposited with the central depository;
+“admittance of security” means a security in which the underlying certificate has been deposited with and is held by a central depository;
+“authorised depository agent”, in relation to any central depository, means a person appointed under Section 14 to be an agent of that central depository;
+“authorised nominee” means a person who is authorised to act as a nominee as specified under the rules of a central depository;
+“bank” mean a body corporate which is issued with a banking license in accordance with the Banking and Financial Institutions Act 2000;
+“bare trustee” means a trustee who has no beneficial interest in the subject matter of the trust;
+“bearer security” means a security the title to which is transferable by delivery with or without endorsement of the certificate representing such security;
+“beneficial owner”, in relation to deposited securities, means the ultimate owner of the deposited securities who is the person who is entitled to all rights, benefits, powers and privileges and is subject to all liabilities, duties and obligations in respect of, or arising from, the deposited securities, and does not include a nominee of any description;
+“buying in” means the buying effected by a stock exchange or its clearing house, according to the rules of the stock exchange, of securities which a seller has failed to deliver on a day fixed for settlement;
+“Central Bank” means the Central Bank established under the Central Bank Act
+2000;
+“central depository” means a company approved by the Commission under Section 5 -
+(a)	to establish and operate a system for the central handling of securities -
+(i)	whereby the securities are immobilised or dematerialised and dealings in respect of those securities are effected by means of entries in securities accounts without the physical necessity of certificates; or
+(ii)	which permits or facilitates the settlement or registration of securities transactions of dealings in securities without the physical necessity of certificates; and
+(b)	to provide other facilities and services incidental thereto; “certificate” means a document that is a document of title to a security;
+“charge” includes a mortgage or any security interest created under the Personal Properties Securities Act 2011;
+ 
+
+“Commission” means the Securities Commission established under the Securities Commission Act 2015;
+“computer system”, in relation to a central depository, means the computer system established by a central depository forming part of the system for the central handling of securities which inter alia consists of -
+(a)	the central equipment comprising hardware, and software associated with that hardware, located at the premises of the central depository; and
+(b)	the terminals located at the premises of the users;
+“dealer” has the same meaning as is assigned to that expression under Subsection 2(1) of the Capital Market Act 2015;
+“dealing”, in relation to any deposited security, includes the charging or pledging of the deposited security by a depositor;
+“debt securities” means debentures, bonds, notes, or other similar instrument representing or evidencing indebtedness, whether secured or otherwise;
+“debenture” and “debenture holder” means debenture and debenture holder as defined under Section 2(1) of the Capital Market Act 2015;
+“dematerialisation” means the elimination of physical certificates or documents of title that represent ownership of securities so that securities exist only as accounting records;
+“dematerialisation date” in relation to a dematerialised security, means the date prescribed by a central securities depository as being the last day on which a certificate representing such security shall not be recognised as first hand evidence of ownership under the Companies Act 1997 as amended from time to time;
+“dematerialised security” means a security which has been prescribed by the central securities depository whereby the underlying physical certificate is no longer recognised as prima facie evidence of ownership under the Companies Act 1997 as amended from time to time;
+“deposited security” includes a security standing to the credit of a security account which is transferable by way of book-entry in the record of depositors and a security in a securities account that is in suspense;
+“depositor” in relation to any book-entry, means a holder of a securities account; “depository” means a central securities depository;
+“eligible security” means a security which has been prescribed by the Bank of Papua New Guinea or a stock exchange to be admitted in with a central securities depository;
+“information” includes data recorded in a form which can be processed by equipment operating automatically in response to instructions given for a particular
+purpose;
+"institutional investor" means a person whose ordinary course of business is to hold, manage or invest funds in connection with retirement benefits, insurance contracts, mortgage and savings schemes, unit trusts and any funds or scheme in the nature of a collective investment scheme;
+“Investigating Officer” is a person appointed under the Securities Commission Act
+2015;
+ 
+
+“issuer” in relation to any deposited security, means the public company, corporation, government, or the body, corporate or unincorporated, which issued the security, and includes any person performing the functions of a registrar or an issuing house for such issuer in respect of such security;
+“listed” means admitted to the official list of a stock exchange and listing shall be construed accordingly;
+“listed security” means a book-entry security listed on a stock exchange;
+“market day” means any day during which a stock exchange is open for business; “member” means a person who is recognised as a member of a stock exchange; and “Minister” means the Minister responsible for securities and capital market matters; “nominee company”, in relation to a central depository, means a company appointed
+by the central depository for the purpose of holding any deposited security; “non-bearer security” means a security other than a bearer security;
+“notification date” means the date on which the notice pursuant to Section 15(2) is given by a stock exchange;
+“official list”, in relation to a stock exchange, means a list specifying all securities which have been admitted for quotation on the stock exchange;
+“participating organisation” has the same meaning as is assigned to that expression under Subsection 2(1) of the Capital Market Act 2015;
+“prescribed date”, in relation to any prescribed security, means the date specified in the notice given by a stock exchange under Section 15(3), as being the last day on which the prescribed security may be traded on a stock market of the stock exchange unless such security has been deposited with the central depository;
+“prescribed security” means a security which has been prescribed by a stock exchange to be deposited with a central depository under Section 15;
+“record” includes, in addition to a record in writing -
+(a)	any photograph; and
+(b)	any disc, tape, digital recorder, sound-track or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced therefrom; and
+(c)	any film, tape or other device in which visual images are embodied so as to be capable (with or without the aid of some other instrument) of being reproduced therefrom, and any reference to a copy of a record includes -
+(i)	in the case of a record falling within Paragraph (b) but not Paragraph
+(c)	of this definition, a transcript of the sounds or other data embodied therein; and
+(ii)	in the case of a record falling within Paragraph (c) but not Paragraph
+(b) of this definition, a still reproduction of the images embodies therein, whether enlarged or not; and
+ 
+
+(iii)	in the case of a record falling within both Paragraph (b) and Paragraph (c) of this definition, the transcript of the sounds or other data embodied therein together with the still reproduction of the images embodied therein;
+“register of depositors” means a record maintained by a central securities depository to an issuer which contains specified particulars;
+“rules” in relation to -
+(a)	a central depository, means the rules of a central depository, and includes -
+(i)	rules contained in the constitution or other constituent document of the central depository; and
+(ii)	rules to ensure compliance by its authorised depository agents, users or depositors of any obligations imposed by this Act or any other written law; and
+(iii)	rules in relation to the provision of services for the deposit, holding, transfer and withdrawal of securities, and the suspension or withdrawal of such services; and
+(iv)	rules to provide for the persons who may participate in one or more of the services referred to in S ubparagraph (iii); and
+(v)	rules in respect of such other matters as are necessary or desirable for the proper and efficient operation and management of the central depository, including rules setting fees and charges; and
+(b)	an exchange, means the Constitution of the exchange and its listings and business rules, including rules regulating the activities and conduct of the company in its capacity as an exchange company;
+“securities account” means an account established by a central depository for a depositor for the recording of deposit of securities ‘and cash balances, in respect of dealings in securities by the depositor;
+“securities laws” means this Act, the Securities Commission Act 2015, and the Capital Market Act 2015, and unless expressly stated otherwise, includes any subsidiary legislation made under those laws;
+“security” or “securities” has the same meaning under Section 2 of the Capital Market Act 2015;
+“selling out” means the selling effected by a stock exchange or its clearing house, according to the rules of the stock exchange, of securities which a buyer has failed to accept and to pay for when delivered on a day fixed for settlement;
+“settlement partner” means a commercial bank designated by a depository participant to settle its transactions with the central securities depository;
+“stock exchange” has the same meaning as is assigned to that expression under Section 2(1) of the Capital Market Act 2015;
+“stock market” has the same meaning as is assigned to that expression under Section 2(1) of the Capital Market Act 2015;
+“unit trust scheme” has the same meaning as is assigned to that expression under Section 2(1) of the Capital Market Act 2015;
+“unlisted deposited security” means a deposited security other than a listed security;
+ 
+“user” means -
+(a)	an authorised depository agent; and
+(b)	an issuer; and
+(c)	a stock exchange; and
+(d)	a body corporate acting as a clearing house of a stock exchange; or
+(e)	such other person as may be specified in the rules of a central depository, who may be given access to a computer system of the central depository.
+
+(2)	A reference to writing shall be deemed to include any mode of representing or reproducing letters, figures or marks in a visible form.
+(3)	A reference to a security being deposited, or required to be deposited, with a central depository shall be construed as a reference to a deposit of or a requirement for the deposit of -
+(a)	the certificate; and
+(b)	the instrument of transfer, if any; or
+(c)	any other document representing the security, with the central depository.
+
+PART II. - CENTRAL DEPOSITORY.
+
+3.	RESTRICTION ON ESTABLISHMENT OF A CENTRAL DEPOSITORY.
+(1)	A person shall not establish, maintain, operate or hold himself out as providing, maintaining or operating a system for the central handling of securities, whether or not listed on any stock exchange -
+(a)	whereby all such securities are deposited with and held in custody by, or registered in the name of, the person or his nominee for the depositors and dealings in respect of those securities are effected by means of entries in accounts without the physical delivery of certificates; or
+(b)	which permits or facilitates the settlement of securities transactions or dealings in securities without the physical delivery of certificates; or
+(c)	to provide other facilities and services incidental to handling of securities.
+(2)	Subsection (1) shall not apply to -
+(a)	an approved central depository; or
+(b)	the Bank of Papua New Guinea.
+
+(3)	A person who contravenes the provisions of Subsection (1), guilty of an offence and is liable to a fine not exceeding K10,000,000.00 or to imprisonment for a term not exceeding ten years or to both.
+
+4.	APPLICATION FOR APPROVAL TO ESTABLISH AND MAINTAIN A CENTRAL DEPOSITORY.
+(1)	Any company incorporated under the Companies Act 1997 which proposes to establish and maintain a central depository shall apply to the Commission in writing for approval.
+ 
+(2)	An application made under Subsection (1), shall be accompanied with the following:
+(a)	a copy of the Constitution, duly certified pursuant to Section 9 of the
+Companies Regulation 2015 by a director of the applicant; and
+(b)	a copy of the latest audited balance sheet, profit and loss account, together with any note on the audited balance sheet, profit and loss account, and the reports, if any, of the auditors and the directors of the
+applicant; and
+(c)	a statement on the following:
+(i)	the name, place and date of incorporation of the applicant; and
+(ii)	the registered office and place or proposed place of business of the applicant; and
+(iii)	the names and addresses of the directors of the applicant and its related corporations, and of the substantial shareholders, within the meaning of the Capital Market Act 2015, of the applicant and its related corporations; and
+(iv)	the name of the stock exchange, if any, in respect of which the central depository will be established and maintained; and
+(d)	the clearing and settlement service to facilitate the buying, selling and other dealings in securities and the operational information on the system to be established and maintained by the central depository; and
+(e)	a copy of the rules that will apply to the central depository; and
+(f)	the proposed fees and charges which will be imposed by the applicant in respect of the facilities and services to be provided by the central depository, including fees and charges for -
+(i)	the establishment and maintenance of securities accounts; and
+(ii)	the deposit and withdrawal of securities; and
+(iii)	the issuance of statements of accounts under Section 32; and
+(iv)	the effecting of entries in securities accounts in respect of transactions under Section 38; and
+(v)	the issuance of records of depositors under Section 41; and
+(vi)	the effecting of entries in securities accounts pursuant to any charges or pledges of deposited securities under Section 48; and
+(g)	such other information or documents as may be required by the Commission for the purposes of determining the application and the suitability of the applicant to establish and maintain a central depository.
+
+(3)	An application for approval under Subsection (1) shall be sent to the Commission, where the Commission shall consider such application, and determine whether to approve or not.
+
+(4)	At any time after receiving an application, the Commission may, by written notice, require the applicant to provide additional information or documents.
+ 
+
+5.	POWER OF COMMISSION TO APPROVE THE ESTABLISHMENT OF A CENTRAL DEPOSITORY.
+(1)	The Commission may, in writing, approve an application made under Section 4 for the establishment and maintenance of a central depository if it is satisfied -
+(a)	that the applicant is a company incorporated under the Companies Act 1997; and
+(b)	that the rules of the applicant make satisfactory provision -
+(i)	with respect to the conditions under which securities may be deposited with, held by, withdrawn from, or transferred within, the central depository; and
+(ii)	for the holding of securities deposited with the central depository or its nominee company; and
+(iii)	for the processing of dealings in deposited securities; and
+(iv)	for facilitating the settlement of deposited securities; and
+(v)	for the protection of the interests of depositors and the protection and control of information on deposited securities and dealings; and
+(vi)	for the monitoring of compliance with, and for the enforcement of, the rules of the central depository; and
+(vii)	with respect to the maintenance of a policy or policies of insurance, and the establishment and maintenance of compensation funds, for the purpose of settling claims by depositors against the central depository, its nominee
+companies and authorised depository agents; and
+(viii)	generally for the carrying on of the business of the central depository with due regard to the interests of the public; and
+(c)	that the establishment and maintenance of the central depository would promote the positive development of the capital market in Papua New Guinea and that the interests of the public dealing with deposited securities whether or not listed on a stock exchange will be served by the granting of its approval.
+(2)	The Commission may, in approving any application under Subsection (1), impose -
+(a)	requirements with respect to the paid-up or authorised capital of the central depository; and
+(b)	conditions relating to the shareholdings of the members of the central depository; and
+(c)	any other requirements or conditions as the Commission considers appropriate.
+
+(3)	Without limiting the generality of the requirements and conditions specified under Subsection (2), the Commission may, in writing, amend or revoke any requirement or condition imposed under that subsection or impose new requirements and conditions, if the Commission is satisfied that it is appropriate to do so for the protection of depositors or the public interest or for the proper regulation of the stock market.
+
+6.	REVOCATION OF APPROVAL OF APPROVAL OF A CENTRAL DEPOSITORY.
+(1)	The Commission may, by notice published in the National Gazette -
+(a)	revoke an approval granted under Section 5 to the central depository, with effect from the date specified in the notice; or
+ 
+
+(b)	direct the central depository to cease to provide or operate such facilities, or to cease to provide such services, as are specified in the notice, with effect from the date specified in the notice.
+
+(2)	The Commission shall not revoke an approval or issue a direction under Subsection (1), unless the Commission is satisfied that it is appropriate to do so for the protection of depositors or in the public interest or for the proper regulation of the markets in securities, where any one or more of the following circumstances occur:
+(a)	the central depository ceases to operate a system for the central handling of securities; and
+(b)	the central depository is being wound up or otherwise dissolved, whether in Papua New Guinea or elsewhere; and
+(c)	the central depository has contravened any term or condition of its approval or is charged with any offence under any of the securities laws or the Companies Act 1997; and
+(d)	any information provided for the purposes of Section 4 was false or misleading in a material particular; and
+(e)	a judgment debt of the central depository has not been satisfied in whole or in part; and
+(f)	a receiver, a receiver and manager, or an equivalent person has been appointed, whether in Papua New Guinea or elsewhere, in relation to or in respect of any property of the central depository; and
+(g)	the central depository has, whether in Papua New Guinea or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation; and
+(h)	the central depository on its own accord applies to the Commission to revoke the approval granted to it under Section 5, and the Commission, on the recommendation of the Commission, deems it fit to do so; and
+(i)	the central depository is involved in money laundering activities contrary to anti-money laundering guidelines issues under Section 466 of the Capital Market Act 2015.
+
+(3)	For the purposes of Subsection (2)(a), a central depository shall be deemed to have ceased to operate a system for the central handling of securities if it has ceased to operate such system for a period of one month unless it has obtained the prior approval of the Commission to do so.
+
+(4)	Notwithstanding the revocation of an approval or the issuance of a direction under Subsection (1), the Commission may permit the central depository to continue, on or after the date on which the revocation or direction is to take effect, to carry on such activities affected by the revocation or direction as the Commission may specify in the notice published under that subsection for the purposes of -
+(a)	closing down the operations of the central depository or ceasing to provide the services specified in the notice; or
+(b)	protecting the depositors or the public interest.
+ 
+(5)	Where the Commission has granted permission to a central depository under Subsection (4), the central depository shall not, by reason of its carrying on the activities in accordance with the permission, be regarded as having contravened Section 3.
+
+(6)	The Commission shall not take any action under Subsection (1), without giving an opportunity to be heard.
+
+7.	EFFECT OF REVOCATION.
+Any revocation of approval or direction issued under Section 6 shall not operate so as to -
+(a)	avoid or affect any agreement, transaction or arrangement entered into on the computer system operated by the central depository, whether the agreement, transaction or arrangement was entered into before or, where Section 6(4) applies, after the revocation of the approval or issuance of the direction under Section 6(1)(b); or
+(b)	affect any right, obligation or liability arising under such agreement, transaction or arrangement.
+
+8.	FUNCTIONS OF A CENTRAL SECURITIES DEPOSITORY.
+(1)	A depository shall -
+(a)	facilitate the admittance of securities into the central securities depository; and
+(b)	facilitate the deposit and withdrawal of certificates in respect of securities admitted in the central securities depository; and
+(c)	facilitate the dematerialisation of securities accounts; and
+(d)	open, maintain and close securities accounts; and
+(e)	establish a proper and efficient system for the verification, inspection, identification and recording of book-entry securities with the central depository; and
+(f)	facilitate the efficient transfer of book-entry securities; and
+(g)	facilitate the efficient process of cash payment in exchange for securities; and
+(h)	facilitate the registration of dealings in book-entry securities; and
+(i)	operate securities accounts for the handling of book entry securities and cash;
+(j)	designate one or more banks as a settlement partner for the settlement of funds in respect of transactions cleared through a depository; and
+(k)	facilitate the efficient collection of fees and other charges that may be required; and
+(l)	guard against falsification of any records or accounts required to be kept or maintained under this Act; and
+(m)	perform other functions that are necessary to ensure orderly dealings in admitted or dematerialised securities, or as the Commission may from time to time prescribe.
+(2)	The Commission may, from time to time, prescribe other functions to be performed by a central depository as he considers appropriate.
+ 
+
+9.	COMISSION MAY ESTABLISH AN ADVISORY COMMITTEE.
+(1)	The Commission may establish an advisory committee in respect of a central depository whose function shall be -
+(a)	to advise the central depository on matters relating to the services provided by such depository; and
+(b)	to make recommendations or proposals for improving the efficiency of the central depository; and
+(c)	to perform such other functions as may be prescribed by the Head of State by regulations made under this Act.
+(2)	An advisory committee established under Subsection (1), shall consist of the following members who shall be appointed by the Commission:
+(a)	a Chairman; and
+(b)	a Deputy Chairman; and
+(c)	a representative each from -
+(i)	the Commission;
+(ii)	the Department Treasury;
+(iii)	the Central Bank;
+(iv)	a stock exchange; and
+(v)	the central depository;
+(d)	not less than three but not more than five other members who have had experience of, and have shown capacity in, matters relating to the capital market, finance or investment.
+(3)	The Commission may appoint a person to be a temporary member of the committee during the temporary incapacity through illness, or during the temporary absence from Papua New Guinea, of any member.
+
+(4)	A member of the committee shall hold office for three years and shall be eligible for re-appointment.
+
+(5)	The appointment of a member may be revoked by the Commission at any time without assigning any reason to the incumbent.
+
+(6)	A member may at any time resign his office by letter addressed to the Commission.
+
+10.	COMMISSION TO APPROVE AMENDMENT TO RULES OF CENTRAL DEPOSITORY.
+(1)	Where a central depository proposes to make amendments to its rules, the central depository shall submit to the Commission -
+(a)	the text of the proposed amendment; and
+(b)	an explanation of the purpose of the proposed amendment.
+ 
+(2)	The Commission shall, within six weeks after the receipt of the submission of any proposed amendments under Subsection (1), give notice, in writing, to the central depository that it approves, or disapproves of the proposed amendments, or any part of the proposed amendments, as the case may be.
+
+(3)	No amendment to the rules of a central depository shall have effect unless they have been approved, in writing, by the Commission under Subsection (2).
+
+(4)	The Commission may, by a notice in writing, declare any class of rules of a central depository to be a class of rules whose amendments do not require the approval of the Commission under Subsection (2), and accordingly any amendments to the rules of that central depository which belong to that class shall, subject to Subsection (6), have effect notwithstanding that they have not been so approved under Subsection (2).
+
+(5)	Where the Commission is of the view that any amendment to the rules of a central depository made under Subsection (4), does not fall within the class of rules declared by the Commission under that subsection as not requiring its approval, the Commission may, after consultation with the central depository, require the central depository to submit such rule or amendment, as the case may be, for its approval under Subsection (2).
+
+(6)	Any rule made or amended by the central depository which is the subject of a requirement made by the Commission under Subsection (5), shall cease to have effect from the date of the Commission making such requirement or such later date as the Commission may determine.
+
+(7)	Subsection 6 shall not have effect until a reasonable time has been given to the central depository to notify the persons affected by such rule or amendment.
+
+(8)	Notwithstanding the provision of this section, the Commission may from time to time after consultation with a central depository, by a written notice, require a central depository -
+(a)	to make such rules, and within such period as may be specified in the notice; or
+(b)	to amend such rules, in such manner and within such period as may be specified in the notice.
+
+(9)	A central depository which fails to comply with the provisions of Subsection (1), or which fails to comply with a requirement or written notice made under Subsections (5) or (8), respectively is guilty of an offence and is liable for a fine not exceeding K2,000,000.00 and every director of the central depository shall be liable for a fine not exceeding K500,000.00
+
+11.	DUTY OF A CENTRAL DEPOSITORY TO ENSURE ORDERLY DEALINGS IN DEPOSITED SECURITIES.
+(1)	A central depository shall take all steps and do all things necessary to ensure orderly dealings in securities deposited or admitted with it.
+ 
+(2)	A central depository may, in performing its function under Subsection (1), give to an issuer of any deposited security directions -
+(a)	to do a particular act or thing; or
+(b)	to refrain from doing a particular act or thing.
+
+(3)	An issuer who fails to comply with any direction given by a central depository under Subsection (2), is guilty of an offence and is liable to a fine not exceeding K500,000.00 or to imprisonment for a term not exceeding three years or to both.
+
+12.	AUTHORISED CENTRAL DEPOSITORY AGENTS, ISSUERS, ETC. TO COMPLY WITH RULES OF A CENTRAL DEPOSITORY.
+(1)	Any person who is an authorised depository agent, an issuer, a depositor, or a user shall comply with, enforce or give effect to the rules of a central depository to the extent to which those rules purport to apply to such person.
+(2)	For the purposes of this section, “rules” includes any direction given, from time to time, by a central depository to any person pursuant to any provision of this Act.
+
+
+13.	CENTRAL DEPOSITORY TO PROVIDE ASSISTANCE TO THE COMMISSION.
+(1)	A central depository shall provide such assistance to the Commission as the Commission reasonably requires for the performance of its functions and duties under this Act.
+(2)	A person acting on behalf of or authorised by the Commission is entitled, at all reasonable times, to full and free access to any part of the premises of a central depository for the purpose of ensuring compliance with this Act.
+
+(3)	A person who refuses or fails, without lawful excuse, to allow a person acting on behalf of or authorised by the Commission access to any premises mentioned in Subsection (2) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding K2,000,000.00 or to imprisonment for a term not exceeding five years or to both.
+
+PART III. - PROVISIONS RELATING TO DEPOSITED SECURITIES.
+
+Division 1. - Deposited and dematerialised Securities.
+
+14.	CENTRAL DEPOSITORY PARTICIPANT.
+(1)	Subject to this Act, a central depository may appoint any of the persons referred to in Subsection (2), to be its authorised depository agent for all or any of the following purposes:
+(a)	to facilitate the deposit of securities; and
+(b)	to open, maintain and close securities accounts; and
+(c)	to make entries in securities accounts; and
+(d)	to collect such fees and charges imposed by the central depository as may be provided for under its rules; and
+(e)	such other incidental and ancillary purposes as may be specified by the rules of a central depository.
+ 
+(2)	A central depository may appoint, as its authorised depository agent, any of the following:
+(a)	a stock exchange; or
+(b)	a body corporate acting as a clearing house of a stock exchange; or
+(c)	a participating organisation; or
+(d)	a bank, merchant bank or finance company licensed under Banking and Financial Institutions Act 2000; or
+(e)	a body corporate of a type prescribed by the Commission under this Act.
+
+(3)	An authorised depository agent appointed under Subsection (2) to carry out all or any of the purposes mentioned in Subsection (1) shall, when required by the central depository or the Commission, in respect of such purposes, be authorised to give, divulge, reveal or disclose to the central depository or the Commission any information or document relating to a securities account.
+
+(4)	A person shall not act as an authorised depository agent or hold himself out to be an authorised depository agent unless he has been appointed in writing by a central depository.
+
+(5)	A person who contravenes Subsection (3) is guilty of an offence and is liable to a fine not exceeding K10,000,000.00 or to imprisonment for a term not exceeding ten years or to both.
+
+15.	STOCK EXCHANGE TO PRESCRIBE SECURITIES THAT MAY BE ADMITTED OR DEPOSITED WITH A CENTRAL DEPOSITORY.
+(1)	Subject to Subsections (2), and (3), the stock exchange shall, after consultation with a central depository, prescribe that all securities -
+(a)	listed or quoted, or
+(b)	proposed to be listed or quoted,
+on the official list of the stock exchange be admitted by depositing the security with the central securities depository.
+(2)	Subject to Subsection (1), a stock exchange shall give notice to the public of all eligible securities prescribed by it to be deposited with the central depository by advertisement in a daily newspaper.
+
+(3)	A notice under Subsection (2), shall identify the prescribed security and shall specify a prescribed date,(not being less than one month from the date of publication of the notice, on or before which those securities shall be deposited.
+
+(4)	Subject to Subsections (5) and (6) and to such terms and conditions as may be specified by the central depository, the requirement under Subsections (1), (2) and (3), to deposit prescribed securities on or before the prescribed date shall not apply to such securities or class of securities as may be specified in the rules of a central depository.
+(5)	Where a holder of prescribed securities to whom Subsection (4), applies fails to comply with any term or condition specified by the central depository, the share registrar of the issuer shall transfer to the Commission all such securities or class of securities by way of an entry in a securities account under the Securities Commission.
+ 
+(6)	Where any securities or class of securities are transferred under Subsection (5), the provisions of Subsections (11), (12), (13), (14) and (15) shall apply to such securities or class of securities.
+
+(7)	For the purposes of this Act, the deposit by a person of any prescribed security with a participant of a central depository shall be deemed to be a deposit of such security with the central depository.
+
+(8)	Where a stock exchange has prescribed a security to be deposited with a central depository under Subsection (1), the prescription shall apply to any additional listing of such security and all other types of security issued by the same issuer for listing on the stock exchange and the provisions of Subsections (1) and (2) shall not apply in respect of such additional listing and listing of other types of security.
+
+(9)	Upon prescription of any securities under Subsection (1), a holder of such prescribed securities shall deposit such securities on or before the prescribed date.
+
+(10)	If a holder of a prescribed security fails to deposit such securities on or before the prescribed date, the share registrar or the issuer shall, after the prescribed date, transfer the securities to the Commission by way of an entry in a securities account in the name of the Commission.
+
+(11)	Any person whose securities are transferred under Subsection (5), or (10) may, within six months from the date of the transfer, appeal to the Commission by giving reasons for his failure to deposit the securities.
+
+(12)	If the Commission is satisfied as to the reasons for the failure to deposit the securities, the Commission shall re-transfer the securities to the person referred to in Subsection (11), by way of an entry in a securities account.
+
+(13)	If, after the expiry of the period specified in Subsection (11), no appeal is filed with the Commission, the Commission may sell or dispose of such securities in such manner and at such time as the Commission thinks fit and shall deal with the proceeds of the sale or disposal as if they were moneys paid to the Commission pursuant to Section 43(3)(e) of Securities Commission Act 2015.
+
+(14)	If a share registrar fails to transfer any securities as required under Subsection (5) or (10), the National Court shall, on the application of the Commission, make an order transferring such securities to the Commission, and such transfer shall be effected by way of an entry in a securities account in the name of the Commission who may then sell or dispose of such securities in such manner and at such time as he thinks fit and deal with the proceeds of the sale or disposal as if they were moneys paid to him pursuant to the law relating to unclaimed moneys.
+(15)	A share registrar who fails to effect the transfer required under Subsection (5) or (10) is guilty of an offence and is liable to a fine not exceeding K7,000,000.00 for every security which is the subject matter of the offence.
+ 
+
+16.	TRADING OF ELIGIBLE SECURITIES.
+(1)	This section applies to trading in eligible securities during the period beginning on the day immediately after the notification date and ending on the admission date.
+(2)	A depository or depository participant shall accept a certificate representing an eligible security to be admitted for the purpose of settlement of any trade on a stock exchange in accordance with the central securities depository rule.
+(3)	Section 19 shall apply to depository agents and issuers with whom the documents referred to in Subsection (2), of this section, have been lodged.
+
+17.	RESTRICTION ON TRADE IN ELIGIBLE SECURITIES.
+(1)	A person shall not trade in any eligible security on a stock exchange after the admission date, unless the security has been deposited with a depository in accordance with this Act.
+(2)	Notwithstanding Subsection (1), an eligible security may be deposited at the depository after the admission date at any time, subject to the additional fees that may be imposed under the central securities depository rules.
+
+18.	RECEIPT OF CERTIFICATES OF ELIGIBLE SECURITIES FOR SAFE CUSTODY.
+(1)	A depository may prescribe a date by notice after which a member of a stock exchange may not receive a certificate representing an eligible security for safe custody.
+(2)	A depository shall give notice to the public of the date prescribed.
+
+19.	VERIFICATION OF CERTIFICATES AND TRANSFER TO A CENTRAL DEPOSITORY OR NOMINEE COMPANY.
+(1)	A central depository or its authorised depository agent, as the case may be, shall, within the period prescribed in the rules, after the deposit by any person of a certificate representing a prescribed security and the instrument of transfer in respect of the prescribed security, if any, lodge the certificate and instrument with the issuer of the security.
+(2)	The issuer shall, on receipt of the certificate and instrument, forthwith do all such acts and things as may be necessary in order to register the transfer of the security underlying such certificate in the name of the central depository or its nominee company.
+(3)	Without prejudice to the right of an issuer to refuse to register a transfer under any law, the issuer shall refuse registration of the transfer mentioned in Subsection (2), if -
+(a)	it ascertains that the certificate is not a genuine certificate or is a certificate that was reported lost or destroyed; or
+(b)	in relation to any such security, it discovers that -
+(i)	there has been a duplication in the issuance of the certificate representing that security; or
+(ii)	such certificate is issued in excess of the issued share capital of the issuer; or
+ 
+(c)	it has been served with an order of a court of competent jurisdiction prohibiting any dealing in respect of the security underlying such certificate; or
+(d)	an order has been made by the Commission and published in the National Gazette preventing the person who deposited the certificate from dealing with any of his monies, properties or assets.
+
+(4)	Within seven market days after a transfer is lodged with an issuer or within such longer period as may be allowed, in writing, by a central depository, the issuer shall, other than in any of the cases mentioned in Subsection (3), complete and deliver the appropriate certificate to the central depository.
+
+(5)	A depository shall enter the name of the depositor in its records as the beneficial owner.
+
+(6)	Where an issuer refuses registration of a transfer pursuant to Subsection (3), the issuer shall serve on the transferor and the central securities depository, a written notice giving reasons for the refusal.
+
+(7)	An instrument of transfer lodged with an issuer may be registered in the name of a depository or its nominee company.
+
+(8)	An issuer which fails to comply with Subsection (4), is guilty of an offence and is liable to a fine not exceeding K10,000,000.00 and every director of the issuer is liable to a fine not exceeding K1,000,000.00 or imprisonment for a term not exceeding three years or to both.
+
+(9)	In the case of a continuing offence, the issuer is liable to a daily fine not exceeding K10,000.00 and a director is liable to a daily fine not exceeding K1,000.00 for every day during which the offence continues.
+
+(10)	This section shall not apply to bearer securities.
+
+20.	CENTRAL DEPOSITORY AND AUTHORISED DEPOSITORY AGENT NOT LIABLE FOR LOSS.
+(1)	A central depository and its authorised depository agent shall not, except in the case of any willful act, omission, neglect or default on the part of the central depository or its authorised depository agent, be liable for any loss, damage or liability suffered or incurred by any person in respect of a dealing in any security the transfer of which has been refused under Section 19.
+(2)	Subsection (1), shall not operate to relieve an authorised depository agent from any obligation imposed on it by the rules of a stock exchange in its capacity as a participating organisation to effect any buying in, whether directly or otherwise, following a refusal to register a transfer under Section 18.
+ 
+
+
+Division 2. - Withdrawal of Securities.
+
+21.	WITHDRAWAL OF IMMOBOLISED SECURITIES.
+(1)	A depositor may, withdraw a security standing to the credit of the depositor's securities account on application to the depository.
+(2)	Where an application for the withdrawal of a deposited security is made and the appropriate notification and withdrawal documents are received by the issuer or its share registry in accordance with the rules of the central securities depository, the issuer or its share registry, shall complete and deliver, to the central securities depository, certificates in connection with the transfer of the securities within 14 days after the date of receipt of the withdrawal documents to be forwarded to the participant.
+
+(3)	Notwithstanding Subsection (1), withdrawals are not allowed for government securities.
+
+22.	TRADING OF SECURITIES WITHDRAWN FROM CENTRAL SECURITIES DEPOSITORY.
+(1)	A person shall not trade securities withdrawn from a depository on a stock exchange unless the security is re-deposited in a depository.
+(2)	A security which is re-deposited with a central securities depository shall not be utilised to settle a transaction which took place on a stock exchange prior to the re-deposit of that security.
+
+(3)	Section 16 relating to eligible securities shall apply in respect of a re-deposited security.
+
+23.	WITHDRAWAL OF PRESCRIBED SECURITIES PROHIBITED.
+(1)	A person shall not withdraw from a depository, security which is prescribed as a dematerialised security.
+(2)	A stock exchange may, with the prior approval of the Commission, restrict or prohibit the withdrawal of a security or class of securities which is listed or quoted by the stock exchange for a period and in a manner as it considers appropriate.
+
+(3)	Where a stock exchange restricts or prohibits the withdrawal of deposited securities, the stock exchange shall -
+(a)	inform the depository of the decision; and
+(b)	give notice to the public of -
+(i)	the deposited securities restricted or prohibited from withdrawal; and
+(ii)	the period of the restriction or prohibition; and
+(c)	notify the Commission.
+ 
+
+24.	DEMATERIALISATION OF SECURITIES.
+(1)	A depository may, in consultation with the Commission, prescribe a period after which securities or a class of securities held or to be held by the depository shall be dematerialised in accordance with the process laid down under the central securities depository rules.
+(2)	An issuer of a dematerialised security shall be notified by the depository of the decision taken in accordance with Subsection (1).
+
+(3)	An issuer of a dematerialised security shall -
+(a)	give notice to the public that the security shall, on the dematerialisation date, become a dematerialised security; and
+(b)	take necessary steps,
+to amend its constitution, deed of establishment, trust deed, or enabling guidelines, as the case may be, to comply with this Act and the central securities depository rules within a period stipulated in the notice upon being notified of the decision.
+
+(4)	A notice of dematerialisation shall specify a dematerialisation date of not less than one month from the date of publication of the notice.
+
+25.	CENTRAL SECURITIES DEPOSITORY TO MAINTAIN OFFICIAL RECORD OF DEPOSITORS.
+(1)	Every issuer of a security prescribed as a dematerialised security shall, on or after the dematerialisation date -
+(a)	surrender the physical register of members or debenture holders to the depository; and
+(b)	provide information to the central securities depository of any member or debenture holder who appears in the appropriate register as a holder of a certificate not already admitted by the depository.
+(2)	A depository shall maintain an official Register which shall include the name and particulars of -
+(a)	each depositor with a security credited to a securities account held by the depositor; and
+(b)	each member or debenture holder whose name appear under the appropriate register of members or debenture holders of the company.
+
+(3)	Notwithstanding Section 179 of the Capital Market Act 2015 relating to register of debenture holders, a record of depositors maintained shall -
+(a)	contain information in computerised record form; and
+(b)	contain any other information as may be required under the central security depository rules.
+(4)	This section shall not apply to any bearer security, or be construed as making the depository an agent of the issuer for the purpose of providing registration services.
+ 
+
+26.	ISSUER NOT TO ISSUE CERTIFICATES IN RESPECT OF DEMATERIALISED SECURITIES.
+An issuer shall not issue a certificate in respect of a dematerialised security after the dematerialisation date.
+
+27.	EFFECT OF REFERENCE TO RECORDS IN A CENTRAL SECURITIES DEPOSITORY.
+(1)	With effect from the date of dematerialisation and notwithstanding the provisions of the Companies Act 1997, the Capital Market Act 2015, or the constitution of the issuer, a reference in respect of a dematerialised security to:
+(a)	a register of shareholders or debenture holders including sub-registers, maintained by a company under the Companies Act 1997 is a reference to the record of depositors maintained by the depository;
+(b)	a transfer of shares or debentures under the Companies Act 1997 is a reference to a book-entry transfer performed by the depository; and
+(c)	a certificate, or an instrument of transfer representing any security which is used as prima facie evidence of ownership of that security is a reference to a statement of account issued by the central securities depository.
+(2)	Sections 179 of the Capital Market Act 2015 and Section 67 of the Companies Act
+1997 shall not apply to a dematerialised security.
+
+28.	APPLICATION TO UNIT TRUST SCHEMES.
+(1)	With effect from the dematerialisation date and despite any provision in a trust deed of a unit trust scheme or a managed investment scheme, a reference to -
+(a)	a register of a unit trust scheme or a managed investment scheme, is a reference to the record of depositors maintained by the depository; and
+(b)	a transfer of interest in a unit trust scheme or a managed investment scheme from one investor to another, is a reference to a book-entry transfer by the central securities depository; and
+(c)	a certificate issued as evidence of an interest in a unit trust scheme or a managed investment scheme, is a statement of account issued by the depository.
+
+29.	RULES IN RESPECT OF DEMATERIALISED SECURITIES.
+The Commission may prescribe rules in respect of dematerialised securities -
+(a)	to effect the replacement of physical registers with book-entry records where the dematerialised security is a security other than a share or debenture under the Companies Act 1997, or an interest in a unit trust scheme or a managed investment scheme; and
+(b)	to specify forms for recording interest in securities standing to the credit of any depositor before the dematerialisation date.
+
+Division 3. - Securities accounts and records.
+
+30.	SECURITIES ACCOUNTS.
+(1)	No person shall deal in deposited securities unless the person holds a securities account with central depository.
+ 
+(2)	An authorised depository agent which deals in deposited securities as principal shall, in relation to such dealing, open and maintain a securities account with the central depository.
+
+(3)	A central depository may establish different types of securities accounts for different classes of persons.
+
+(4)	Every securities account opened with a central depository shall be in the name of the beneficial owner of the deposited securities or in the name of an authorised nominee.
+
+(5)	The person opening the securities account shall make a declaration in such manner as may be specified in the rules of the central depository that he is the beneficial owner of deposited securities or the authorised nominee, as the case may be.
+(6)	Any person who contravenes Subsection (1), (2) or (5) is guilty of an offence and is liable to a fine not exceeding K10,000,000.00 or to imprisonment for a term not exceeding ten years or to both.
+
+31.	AUTHORISED NOMINEE SHALL HOLD DEPOSITED SECURITIES FOR ONE BENEFICIAL OWNER IN RESPECT OF EACH SECURITIES ACCOUNT.
+(1)	Where an authorised nominee opens a securities account under Section 30(4), the nominee shall only hold deposited securities for one beneficial owner in respect of each securities account.
+(2)	An authorised nominee shall, in such manner and within such period as may be specified in the rules of the central depository, furnish to the central depository the name and other particulars of the beneficial owner of the securities deposited in the securities account, opened in the name of the authorised nominee.
+
+(3)	An authorised nominee who contravenes Subsection (1), or (2) is guilty of an offence and is liable to a fine of not exceeding K10,000,000.00 or to imprisonment for a term not exceeding ten years or to both.
+
+32.	ISSUANCE OF STATEMENTS OF ACCOUNTS.
+(1)	A central depository shall issue to all depositors statements of accounts in respect of all deposited securities held in custody by, or registered in the name of, the central depository or its nominee company for the depositors at such time and in such manner as may be provided in the rules of the central depository.
+(2)	Notwithstanding the provisions of Subsection (1), a depositor may, at any time, by written notice, require the central depository to issue to him a statement of account in respect of all or any of the deposited securities for the time being held in custody by, or registered in the name of, the central depository or its nominee company on behalf of the depositor.
+(3)	A central depository shall, on receipt of a written notice under Subsection (2), and upon payment of any charges which may be imposed under the rules, issue to the depositor the statement so required.
+ 
+(4)	A statement of account issued under this section shall be prima facie evidence of the truth of the matters specified in the statement.
+
+33.	DUTY OF CENTRAL DEPOSITORY TO KEEP CERTAIN RECORDS.
+(1)	A central depository shall keep or cause to be kept such records and accounts, in sufficient detail, so as to show particulars of -
+(a)	all monies received or paid by the central depository, including dividends received in respect of any deposited securities and the disbursement of such dividends to depositors; and
+(b)	all income received from commissions, fees, charges and other sources, and all expenses, commissions, and other payments made or paid by the central depository; and
+
+(c)	all assets and liabilities including contingent liabilities of the central depository; and
+(d)	all deposited securities and particulars showing for whom the certificate and the instruments of transfer in respect of such certificate are held; and
+(e)	all purchases and sales of deposited securities and particulars of other dealings made in respect of the securities, the charges and credits arising from the purchase or sale of securities, the identity of the buyer and seller of each of those deposited securities; or
+(f)	in the case of other dealings, the identity of the persons executing such dealings and the persons in whose favour such dealings are executed, as the case may be.
+
+(2)	An entry in the records or accounts shall specify the date and time of making such entry and, in the case of an entry made by a person, the identity of such person.
+
+(3)	An entry in the records or accounts of a central depository shall, unless the contrary is proved, be deemed to have been made by, or with the authority of the central depository.
+
+(4)	The provisions of this section shall apply, mutatis mutandis, to every authorised depository agent.
+
+34.	PHYSICAL STOCK COUNT OF CERTIFICATES.
+(1)	For the purpose of verifying the accuracy of any record or account kept by it under this Act and for such other purposes as may be prescribed by the Head of State by regulations made under this Act, a central depository shall, before or at the end of every quarter during a financial year, in this section referred to as the “prescribed period”, conduct a stock count of all certificates representing deposited securities and any other documents in relation to the deposited securities held in custody by, or in the name of, the central depository or its nominee company.
+(2)	The central depository shall, within 21 days after the end of the prescribed period, submit -
+(a)	in the case where any of the deposited securities is a listed deposited security, to the stock exchange on which the deposited security is listed, the issuers and the Commission; and
+ 
+(b)	in the case where none of the deposited securities is a listed deposited security, to the issuers and the Commission,
+a report on the outcome of such stock count, and such report shall, if applicable, state what action the central depository proposes to take with regard to any deficiency in the number of certificate representing the deposited securities or any other documents in relation to the stock count or with regard to any other inaccuracies in its records or accounts.
+
+(3)	Notwithstanding the provisions of Subsection (1), the Commission may, if the Commission considers it appropriate, at any time, conduct, or appoint an approved company auditor to conduct, a stock count of all certificates representing the deposited securities and any other documents in relation to the stock count.
+
+(4)	Where the Commission is not satisfied with the report submitted to it by a central depository under Subsection (2), the Commission may conduct or appoint an approved company auditor to conduct the stock count under that subsection, and the costs and expenses incurred by the Commission or the approved company auditor, as the case may be, in respect of such stock count, shall be borne by the central depository.
+
+(5)	The Commission may -
+(a)	upon receipt of a report from the central depository; or
+(b)	upon receipt of a report from an auditor appointed by the Commission under Subsection (3), or (4); or
+(c)	after conducting a stock count pursuant to Subsection (3) or (4), give to the central depository such directions as it considers appropriate.
+
+(6)	A central depository which fails, without lawful excuse, to comply with any direction given by the Commission under Subsection (5) is guilty of an offence and is liable to a fine not exceeding K10,000,000.00
+
+Division 4. - Securities transactions, entries and miscellaneous.
+
+35.	DEALINGS EFFECTED BY MEANS OF ELECTRONIC PROCESS.
+(1)	Notwithstanding the provisions of any written law, a dealing by a depositor in respect of a deposited security shall be effected by means of an entry in the securities account of the depositor.
+(2)	Subject to this Part, a dealing effected under this section shall be effective -
+(a)	in the case of a non-bearer security, without the need for an instrument in writing; and
+(b)	in the case of a bearer security, without the need for delivery of the certificate representing the security.
+
+36.	DEALINGS IN DEPOSITED SECURITIES SHALL BE EFFECTED BY BENEFICIAL OWNERS OR AUTHORISED NOMINEES.
+All dealings in respect of deposited securities shall only be effected by the beneficial owners of such deposited securities or an authorised nominee, as the case may be.
+ 
+
+37.	ENTRIES IN SECURITIES ACCOUNTS.
+An entry in a securities account in respect of a dealing shall -
+(a)	in the case of a securities account established and maintained directly by a central depository, be deemed to have been made by, or with the authority of, the central depository; and
+(b)	in the case of a securities account established through, and maintained by, an authorised depository agent on behalf of a central depository, be deemed to have been made by, or with the authority of, the authorised depository agent.
+
+38.	ENTRIES IN SECURITIES ACCOUNTS IN RESPECT OF DIRECT BUSINESS.
+(1)	Subject to Subsection (2), a central depository and an authorised depository agent shall make an entry in the securities account in respect of direct business or other transactions executed in accordance with the rules of the central depository or the rules of the stock exchange, as the case may be.
+(2)	The central depository or an authorised depository agent, as the case may be, may, before making an entry under Subsection (1), require the production of any document or instrument evidencing such dealing.
+
+(3)	For the purpose of Subsection (1), “direct business” has the same meaning as is assigned to that expression in the rules of the stock exchange.
+
+39.	ENTRIES IN SECURITIES ACCOUNTS TO SPECIFY DATE, TIME AND PERSON MAKING THE ENTRIES.
+An entry in a securities account made under Sections 37 and 38 shall specify the date and time of the making of such entry and, in the case of an entry made by a person, the identity of the person making the entry.
+
+40.	RECORD OF AN ENTRY PRIMA FACIE EVIDENCE.
+A record of an entry in a securities account in respect of a dealing in deposited securities shall be prima facie evidence of the correctness of the matters so recorded.
+
+41.	RECORD OF DEPOSITORS TO BE ISSUED TO ISSUER ON REQUEST.
+(1)	An issuer of any deposited security may, in the manner prescribed by rules of a central depository, require the central depository to issue to him a record of the depositors in whose securities accounts such securities stand in credit as at the date of the notice or such other date as may be specified in the notice.
+(2)	The record of depositors required by an issuer under Subsection (1) shall be issued by the central depository within the following period:
+(a)	in a case where the issuer requires the issuance of a record of depositors -
+(i)	as at the date of the notice or no later than three market days from that date; and
+(ii)	as at a date later than the date of the notice, in this section referred to as “the later date”, no later than three market days after the later date; and
+ 
+(b)	in a case where the issuer requires the issuance of a record of depositors as at a date earlier than the date of such notice, not being a date earlier than one year, and no later than one month after the date of the notice.
+
+(3)	A record of depositors shall contain the names, addresses, nationality, and such other information and particulars of the depositors as may be required by the issuer, and in the case of the issuer being a company having a share capital, a statement as to the number of the deposited securities acquired by each depositor.
+
+(4)	The record of depositors obtained by an issuer under this section shall be available for inspection by any member of the issuer, including a depositor, without charge and by any other person, on payment of K100.00 or such lesser sum as the issuer may require, in respect of each inspection.
+
+(5)	Any member of an issuer or any other person may require the issuer to furnish him with a copy of the record of depositors, or of any part of the record of depositors, but only so far as it relates to the names, addresses, and the number of securities held, on payment in advance of K100.00, or such lesser sum as the issuer may require, in respect of every hundred pages required to be copied.
+
+(6)	The copy of the record of depositors or any part of the record required under Subsection (5) shall be supplied to the person who required such copy within a period of 21 days or within such longer period as the Commission considers reasonable in the circumstances, commencing from the day after the date of receipt of the request by the issuer.
+
+42.	A DEPOSITOR TO BE TREATED AS IF HE WERE A SHAREHOLDER.
+(1)	A depositor of any deposited security whose name appears in the record of depositors shall be entitled to all rights, benefits, powers and privileges and be subject to all liabilities, duties and obligations in respect of, or arising from, such security whether conferred or imposed by the Constitution of the issuer of such security, or otherwise as if he is -
+(a)	a shareholder registered in the register of shareholders; or
+(b)	a holder registered in the register of debenture holders maintained by the issuer; or
+(c)	a holder registered -
+(i)	in the register of interest holders maintained by a management company under Section 179, of the Capital Market Act 2015; or
+(ii)	in the register of unit holders maintained by a trustee under Section 250, of the Capital Market Act 2015; or
+(d)	a person included in any other register maintained by the issuer in respect of or arising from any other securities issued by the issuer,
+instead of the central depository, or its nominee company, in whose name the deposited security is registered.
+(2)	Notwithstanding the provisions of Subsection (1), nothing in this section shall be construed so as to deem a record of depositors to be -
+(a)	a register of debenture holders maintained under Section 179, of the Capital Market Act 2015; or
+ 
+(b)	a register of unit holders maintained under Section 250, of the Capital Market Act 2015; or
+(c)	any other register maintained by an issuer in respect of or arising from any other securities issued by the issuer.
+
+(3)	Notwithstanding the provisions of Subsection (1), an authorised depository agent shall have a lien over unpaid deposited securities purchased for the account of a depositor, including all such entitlements to all rights, benefits, powers and privileges and be subject to all such liabilities, duties and obligations that are referred to under such securities, and shall deal with such unpaid deposited securities in accordance with the rules of the stock exchange.
+
+(4)	For the purpose of this section, “deposited security” does not include a security specified in the securities account as being in suspense under Section 49 or any regulations made under this Act.
+
+43.	PROHIBITION AGAINST ACQUISITION OF, OR DEALINGS IN, DEPOSITED SECURITIES BY A CENTRAL DEPOSITORY.
+(1)	A central depository shall not purchase, acquire, or otherwise deal in any deposited security as principal other than for such purpose and in such manner as may be permitted by the Head of State under regulations made under this Act.
+(2)	A central depository which contravenes Subsection (1) is guilty of an offence and is liable to a fine not exceeding K10,000,000.00 and the Chief Executive Officer and every director of the central depository is liable to a fine not exceeding K1,000,000.00 or imprisonment for a term not exceeding five years or to both.
+
+44.	TERMINATION AND SET-OFF.
+(1)	The Central Securities Depository may terminate its agreement -
+(a)	to clear or settle securities transactions; or
+(b)	to act as a depository for securities,
+with an insolvent participant or with a participant in respect of whom insolvency or bankruptcy proceedings are commenced.
+
+(2)	Where the central securities depository terminates its agreement, the depository may -
+(a)	set-off obligations between the insolvent participant and the depository in accordance with the provisions of the agreement; and
+(b)	if there is a net termination sum owed to the depository by the insolvent participant, the depository shall be considered as a creditor of the insolvent participant in respect of that net termination sum.
+(3)	The depository may realise assets of the insolvent or bankrupt participant because of a pledge in favour of the central securities depository or because of the central securities depository rules or guarantees established by the depository in accordance with the central securities depository rules.
+ 
+45.	PUBLIC OFFER.
+(1)	Where, pursuant to Section 15, a stock exchange or a central depository prescribes that any security proposed to be listed for quotation on its official list be immobilised or dematerialised, the issuer of such security or the offeror, as the case may be, shall, in the prospectus issued by such issuer or offeror in respect of the security, notify the public of the fact that the security is one that has been so prescribed.
+(2)	Upon completion of the allotment or allocation of such security, the issuer or offeror, as the case may be, shall -
+(a)	immediately deliver or caused to be delivered to the central depository, a record of all successful applicants together with such particulars as may be required by the central depository for the purpose of making appropriate entries in the securities accounts of the respective applicants; and
+(b)	deliver to the central depository the certificates, if any, in such denominations as may be specified by the central depository registered in the name of the central depository or its nominee company.
+
+(3)	For the purposes of this section, “offeror”, in relation to any security, means the owner of the security.
+
+(4)	A reference to a security proposed to be listed on a stock exchange in this section shall be construed as a reference to a security which has been approved by the Commission to be listed for quotation on the official list of the stock exchange.
+
+46.	CORPORATE ACTIONS.
+(1)	Where the issuer or offeror, in relation to any book-entry security -
+(a)	makes a bonus issue, or issues securities under a rights issue or the conversion of any debt securities; or
+(b)	issues securities pursuant to an exercise of any right or option to acquire securities in the share capital of the issuer; or
+(c)	makes an offer for sale of securities -
+(i)	the issuer or the offeror shall notify the central depository of the names of all allottees or entitled persons together with such particulars as may be required by the central depository for the purpose of making appropriate entries in the securities accounts of the respective allottees or entitled persons; and
+(ii)		shall deliver to the central depository the appropriate certificates, if any, in such denominations as may be specified by the central depository, and register such securities in the name of the central depository or it nominee company.
+(2)	Unless he already has an existing securities account, a prospective allotee shall open a securities account before acquiring any of the securities mentioned in Subsection (1).
+(3)	For the purposes of this section -
+(a)		“entitled persons” means persons who have been allocated securities by an offeror in an offer for sale; and
+(b)	“offeror”, in relation to any security, means the owner of the security.
+ 
+
+47.	UNDERWRITERS TO OPEN SECURITIES ACCOUNTS.
+Subject to Sections 30 and 31, any person intending to underwrite any security proposed to be listed on a stock exchange or any rights issue in respect of any deposited security shall open a securities account with the central securities depository.
+
+48.	CHARGING OF SECURITIES.
+(1)	Where a security deposited with a depository is charged by a depositor referred to as “the charger” in favour of a person referred to as “the charge” the chargee or the nominee of the chargee shall create a security interest in the security which is the subject of the charge.
+(2)	A security interest in deposited securities to secure the payment of a debt or liability may be created in favour of a chargee upon the request of the chargee by an instrument of charge in the form prescribed under the central securities depository rules executed by the charger.
+
+(3)	Subject to this Act or to rules made by the Commission, a security interest shall not be created in deposited securities.
+
+(4)	An instrument of charge that creates a security interest in a deposited security in favour of another person shall be deposited with the central securities depository, where the securities charged are held, for registration.
+
+(5)	The central securities depository agent shall on receipt of the instrument of charge deposited register the instrument in a register of charges maintained by the central security depository.
+
+(6)	If a charge over a deposited security is being discharged or released, the central securities depository or its agent shall, on receipt of a notice of the charge, confirm the discharge or release and transfer the deposited security into the securities account of the charger.
+
+(7)	This section shall not -
+(a)	affect the validity and operation of interest in securities in respect of deposited securities created under any law; and
+(b)	be construed to require the central securities depository to monitor, protect or give effect to an agreement or memorandum made between the charger and the chargee in respect of a charge.
+
+(8)	Notwithstanding Subsection (7), the central securities depository or its agent may require the charger or chargee to provide a supporting document of the charge on the creation of the security interest by way of the charge.
+
+49.	SECURITIES IN SUSPENSE.
+(1)	A central depository may specify that any deposited security in a securities account as being in suspense in any of the following circumstances:
+(a)	where the transfer of such security in the name of the central depository or its nominee company has not been, or cannot be, registered by its issuer under Section 19; and
+ 
+(b)	where the central depository has reason to believe or is satisfied that there is a breach of the rules of the central depository, stock exchange or licensed clearing house; and
+(c)	where the central depository has been served with a notice by the Commission that the Commission suspects or has reason to believe that a provision of a securities law has been contravened and that a securities account of a depositor is relevant to its investigations regarding the contravention; and
+(d)	where the central depository has been served with an order of a court of competent jurisdiction prohibiting any dealing in respect of a deposited security; and
+(e)	such other circumstances as may be prescribed by the Head of State by regulations made under this Act.
+(2)	In the case of a security that is specified in the securities account as being in suspense pursuant to Subsection (1) -
+(a)	the rights, benefits, powers and privileges of a depositor; and
+(b)	the liabilities, duties and obligations of a depositor, in respect of, or arising from, the suspension of such a security,
+shall be as prescribed by the Head of State by regulations under this Act.
+
+50.	NOTICE OF TRUST.
+No notice of any trust, expressed, implied or constructive, shall be receivable by the central depository and anything done by the central depository in relation to book-entry securities shall not be affected by notice of any such trust.
+
+PART IV. - SECRECY PROVISIONS.
+
+51.	DUTY TO TAKE REASONABLE SECURITY MEASURES.
+(1)	Every central depository and authorised depository agent shall take all reasonable security measures to protect information and documents relating to the affairs of the depositors, and in particular, relating to their securities accounts, against any unauthorised access, alteration, disclosure or dissemination.
+(2)	Notwithstanding Subsection (1), the Commission shall have access to any information it requires in the course of its duties and functions under this Act, the Securities Commission Act 2015, or the Capital Market Act 2015.
+
+52.	DUTY TO MAINTAIN SECRECY.
+(1)	Except as provided for in this Act, no director, officer, employee, or agent of a central depository, whether during his tenure of office or during his employment or after that, and no other person who has, by any means, access to any information or document whatsoever relating to the affairs of any of the depositors, and in particular, relating to their securities accounts, shall give, divulge, reveal or otherwise disclose such information or document to any person.
+(2)	No person who has any information or document which, to his knowledge has been disclosed in contravention of Subsection (1), shall in any manner disclose the same to any other person.
+ 
+(3)	A person who contravenes this section is guilty of an offence and is liable to a fine not exceeding K3,000,000.00 or to imprisonment for a term not exceeding five years or to both.
+
+53.	RESTRICTIONS ON DISCLOSURE OF INFORMATION BY AUTHORISED DEPOSITORY AGENTS.
+Except as provided for in Subsection 14(2), nothing in this Act shall authorise an authorised depository agent who is a licensed institution as defined in the Banks and Financial Institutions Act 2000, to divulge any information to any other person.
+
+54.	PERMITTED DISCLOSURES.
+(1)	Subject to the provisions of this Act, nothing in Section 43 or any other law shall entitle a person to refuse to disclose any information or document -
+(a)	which the depositor, or his personal representative, has given permission in writing to disclose; or
+(b)	in a case where the depositor is declared a bankrupt, or, if the depositor is a corporation, the corporation and is being or has been wound up in Papua New Guinea or in any country, territory or place outside Papua New Guinea; or
+(c)	for the purpose of instituting or, in the course of, any civil proceedings -
+(i)	between a central depository or an authorised depository agent and a depositor relating to the securities account of the depositor; or
+(ii)	between a central depository or an authorised depository agent and two or more parties making adverse claims to securities or monies in the securities account of the depositor, where the central depository or authorised depository agent seeks relief by way of interpleader; or
+(d)	to any person duly authorised to investigate into any offence under any law, such disclosure being, in any case, limited to the securities account and affairs of the depositor suspected of the offence; or
+(e)	to a central depository for purposes of the compilation of the record of depositors, or any part thereof, under Section 41 of this Act; or
+(f)	to an issuer in respect of a record of depositors issued under Section 41 of this Act; or
+(g)	for the purpose of enabling or assisting the Commission to exercise any power conferred on it by this Act or by any other written law; or
+(h)	for the purpose of enabling or assisting the Central Bank to discharge its functions under the Central Banking Act 2000, the Banks and Financial Institutions Act 2000, or any other law; or
+(i)	for the purpose of enabling or assisting the Commission to discharge its functions under this Act; or
+(j)	for the purpose of enabling or assisting a stock exchange or clearing house of a stock exchange to discharge its functions; or
+(k)	for the purpose of enabling or assisting auditors of a central depository and authorised depository agents to discharge their functions; or
+(l)	in a summary or collection of information, framed in such a way so as not to enable the identity of any depositor, to whom the information relates, to be ascertained.
+ 
+(2)	Subject to the provisions of this Act, nothing in Section 52, shall entitle any person to refuse to disclose any information or document to the Commission if the disclosure is required in the interest of investors or in the public interest.
+
+55.	REGULATION OF ACCESS TO THE COMPUTER SYSTEM.
+(1)	Subject to any regulations made under Subsection (2), a central depository may give access to its computer system to -
+(a)	its authorised depository agents; or
+(b)	a stock exchange on which the deposited securities are listed; or
+(c)	a clearing house of such stock exchange; or
+(d)	issuers; or
+(e)	any other person as may be prescribed by the Head of State by regulation made under this Act.
+(2)	The Commission may, for the purpose of regulating access to the computer system, issue guidelines, rules or orders, the extent to which any user or class of users may have, or should be prohibited from having, access to such system.
+
+(3)	A person who -
+(a)	being a user, unlawfully gains access, or attempts to gain access, to a computer system of a central depository, whether by means of any device or apparatus forming part of the computer system or by any other means, beyond the extent to which he is authorised by the central depository under Subsection (1), to have access or under any regulations made by the Head of State under Section 74(2); or
+(b)	unlawfully gains access, or attempts to gain access, to a computer system of a central depository, whether by mean of any device or apparatus forming part of the computer system or by any other means; or
+(c)	unlawfully interferes with, or impedes, or attempts to interfere with or impede, the operation of a computer system of a central depository,
+is be guilty of an offence.
+
+Penalty:	A fine not exceeding K10, 000,000.00 or imprisonment for a term not exceeding ten years or to both.
+
+56.	GUARANTEE FUND.
+(1)	A central securities depository shall establish and maintain a Guarantee Fund for the purpose of providing an indemnity against default in respect of payments for or delivery of securities by a depository participant and of obligations of participants towards the central securities depository.
+(2)	The assets of the Guarantee Fund consist of moneys accruing to the Fund and contributions specified in the central securities depository rules.
+ 
+(3)	Where the central securities depository has made payment from the Guarantee Fund in relation to a default, even if the central securities depository is not a counter party to the transaction between selling and buying participants, it shall be subrogated to the rights and powers of the participant not in default for the purpose of the seizure and sale of unpaid securities and of operating the Guarantee Fund.
+
+PART V. - INVESTIGATION.
+
+57.	POWER OF COMMISSION TO REQUIRE PRODUCTION OF RECORDS.
+(1)	The Commission may, at any time, if it considers there is sufficient reason to do so, by writing give a direction to -
+(a)	a central depository; or
+(b)	a nominee company of a central depository; or
+(c)	an authorised depository agent; or
+(d)	a user; or
+(e)	a person who is or has been an officer or employee of, or an agent, a lawyer, auditor, or other person acting in any capacity for or on behalf of, a central depository, or its nominee company, or an authorised depository agent, or a user, requiring the production, to the Commission, of such records or accounts as are so specified, being records and accounts relating to -
+(i)	the business or affairs of a central depository or its nominee company, or an authorised depository agent, or a user; or
+(ii)	any record or account required to be kept pursuant to Section 33; or
+(f)	any person,
+requiring the production, to the Commission, of any record or account relating to matters mentioned in Paragraph (a) to (f) that are in the custody or under the control of the person or entity.
+(2)	A reference, in Subsection (1), to a business carried on by a person shall be deemed to include a reference to a business carried on by a person as trustee.
+
+(3)	Where the Commission requires the production of any record or account under this section and a person has a lien on the record or account, the production of such record or account shall not prejudice the lien.
+
+(4)	A power conferred by this section to make a requirement of a person extends, if the person is a body corporate, to making that requirement of any person who is or has been an officer of the body corporate.
+(5)	A person who, without lawful excuse, refuses or fails to comply with a requirement under this section is guilty of an offence and is liable to a fine not exceeding K10,000,000.00 or imprisonment for a term not exceeding ten years or to both, and in the case of a continuing offence, shall, in addition, be liable to a daily fine not exceeding K1,000.00 for every day during which the offence continues after the fourteenth day from the date such person is required to comply with such requirement.
+ 
+
+58.	DISCLOSURE TO COMMISSION.
+(1)	The Commission may require a central depository or its authorised depository agent to disclose to the Commission, in relation to any acquisition or disposal of deposited securities, any information including the name of the person from or through whom or on whose behalf the securities were acquired or to or through whom or on whose behalf the securities were disposed of, their securities account numbers and the entries made in such securities accounts and the nature of the instructions given to the central depository or its authorised depository agent in respect of such acquisition or disposal.
+(2)	The Commission may require a depositor to disclose to the Commission whether he acquired or disposed of the deposited securities, as the case may be, as trustee for, or on behalf of, another person and, if he acquired or disposed of those securities as trustee for, or on behalf of, another person, to disclose the name of that other person and the nature of any instructions given to the depositor in respect of the acquisition or disposal.
+
+(3)	A person who, without reasonable excuse, fails to comply with the requirement of the Commission under Subsection (1) or (2) is guilty of an offence and is liable to a fine not exceeding K5,000,000.00 to imprisonment for a term not exceeding seven years or to both.
+
+59.	INVESTIGATION BY COMMISSION.
+Where the Commission has reason to suspect that a person has committed an offence under a provision of this Act or is about to do an act that, if done, would be an offence under a provision of this Act, the Commission may make such investigation as the Commission thinks fit in accordance with the provisions of Part V of the Securities Commission Act 2015.
+
+60.	POWER OF COURT TO MADE CERTAIN ORDERS.
+(1)	Where -
+(a)	on an application by the Commission, it appears to the National Court that -
+(i)	there is reasonable likelihood that a person will contravene a relevant requirement; and
+(ii)	a person has contravened a relevant requirement; or
+(iii)	a person has contravened a relevant requirement and that there are steps which could be taken to remedy the contravention or mitigate the effect of such contravention, including making restitution to any other person aggrieved by such contravention, whether or not that person has been charged with an offence in respect of the contravention or whether or not a contravention has been proved in a prosecution; or
+(b)	on an application by a central depository, it appears to the National Court that -
+(i)	a person has contravened a relevant requirement; or
+(ii)	a person has contravened a relevant requirement and that there are steps which could be taken to remedy the contravention or mitigate the effect of such contravention; or
+(c)	on an application by a person aggrieved by an alleged contravention by another person of a relevant requirement, it appears to the National Court that -
+(i)	the other person has contravened the relevant requirement; and
+ 
+(ii)	the applicant is aggrieved by the contravention;
+the National Court may, without prejudice to any orders it would be entitled to make otherwise than pursuant to this section, make one or more of the following orders:
+(d)	in the case of persistent or continuing breaches of this Act, or of the rules of a central depository, an order restraining a person from acting as an authorised depository agent or from holding himself out as so acting; and
+(e)	an order restraining the person from acquiring, disposing of or otherwise dealing with assets which the National Court is satisfied such person is reasonably likely to dispose of or otherwise deal with; and
+(f)	an order restraining the exercise of any voting or other rights attached to any securities that are specified in the order; and
+(g)	an order appointing a receiver of the property of an authorised depository agent or of property that is held by an authorised depository agent for or on behalf of another person whether on trust or otherwise; and
+(h)	an order vesting securities that are specified in the order on the Commission or a trustee appointed by the National Court; and
+(i)	an order declaring the whole or any part of a contract relating to securities including a contract for the acquisition or disposal of securities, to be void, and if the National Court thinks fit, to have been void ab initio or at all times on or after a specified date before the order is made; and
+(j)	where a person has refused or failed, is refusing or failing, or is proposing to refuse or fail, to do any act or thing that he is required to do under a relevant requirement, an order requiring such person to do such act or thing; and
+(k)	in a case of a contravention by a person of the rules of a central depository, an order giving directions concerning compliance with or enforcement of those rules to -
+(i)	the person; and
+(ii)	if the person is a body corporate, the directors of the body corporate; and
+(l)	in a case where the person is a director, an order removing from office and that he be barred from becoming a director of any other public company for such period of time as may be determined by the National Court -
+(i)	an order restraining the contravention; and
+(ii)	an order requiring that person, or any other person who appears to have been knowingly involved in the contravention, to take such steps as the National Court may direct to remedy it or mitigate its effect, including making restitution to any other person aggrieved by such contravention;
+(m)	for the purpose of securing compliance with any other order under this section, an order directing a person to do or refrain from doing a specified act; and
+(n)	any ancillary order deemed to be desirable in consequence of the making of an order under any of the preceding provisions of this subsection.
+(2)	The National Court may, before making an order under Subsection (1), direct that notice of the application be given to such persons as it thinks fit or direct that notice of the application be published in such manner as it thinks fit, or both.
+ 
+
+(3)	Where an application is made to the National Court for an order under Subsection (1)(d), the Court may grant the order -
+(a)	where the Court is satisfied that the person has refused or failed to do the required act or thing, whether or not it appears to the Court that the person intends to again refuse or fail, or continue to refuse or fail, to do the required act or thing; or
+(b)	where it appears to the Court that in the event that such an order is not granted it is likely that the person will refuse or fail to do the required act or thing, whether or not the person has previously refused or failed to do the act or thing and whether or not there is any imminent risk of damage to any person if the person required to do such act or thing refuses or fails to do so.
+
+(4)	Where an application for an order under Subsection (1) is made by the Commission or any person duly authorised by the Commission, or a central depository, the Court shall not, as a condition of the grant of the order, require any undertaking as to damages to be given by or on behalf of the Commission or the central depository.
+
+(5)	A person appointed by order of the Court under Subsection (1)(g) as a receiver of the property of an authorised depository agent -
+(a)	may require the authorised depository agent to deliver to the receiver any property of which he has been appointed receiver or to give to the receiver all information concerning that property that may reasonably be required; and
+(b)	may acquire and take possession of any property of which he has been appointed receiver; and
+(c)	may deal with, including dispose of, any property that he has acquired or of which he has taken possession in any manner in which the authorised depository agent might lawfully have dealt with the property; and
+(d)	shall have such other powers in respect of the property as the National Court specifies in the order.
+
+(6)	For the purposes of Subsection (1)(g) and Subsection (5), “property”, in relation to an authorised depository agent, includes monies, securities, and documents of title to securities or other property entrusted to or received on behalf of any other person by the authorised depository agent or another person in the course of or in connection with the business of the authorised depository agent.
+
+(7)	The Commission or a trustee appointed by an order of the Court under Subsection (1)(h) -
+(a)	may require the authorised depository agent to deliver to the Commission or trustee, as the case may be, the securities specified in the order and to give to the Commission or trustee all information concerning the securities that may reasonably be required; and
+(b)	may acquire and take possession of the securities specified in the order; and
+(c)	may deal with, including dispose of, the securities specified in the order in any manner as it deems fit; and
+ 
+
+(d)	shall have such other powers in respect of the securities as may be specified in the order.
+
+(8)	The proceeds of the dealing in or disposal of property under Subsection (5)(c), and of securities under Subsection (7)(c), shall be paid into the Court, and any person claiming to be beneficially entitled to the whole or any part of such proceeds may, within 30 days of such payment into the Court, apply to the Court for payment out of the proceeds to him.
+
+(9)	A person who contravenes or fails to comply with -
+(a)	an order, under Subsection (1), that is applicable to him; and
+(b)	a requirement of a receiver appointed by order of the Court under Subsection (1)(g); or
+(c)	a requirement of the Commission or trustee appointed by order of the Court under Subsection (1)(g),
+is guilty of an offence and is liable to a fine not exceeding K10,000,000.00 or imprisonment for a term not exceeding ten years or to both.
+
+(10)	Subsection (9) does not affect the powers of the Court in relation to the punishment for contempt of court.
+
+(11)	The Court may rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.
+
+(12)	For the purposes of this section, “relevant requirement” -
+(a)	in relation to an application by the Commission under this section, means a requirement which -
+(i)	is imposed by or under this Act or any securities laws; and
+(ii)	is imposed as a condition or restriction of any approval that is given under or pursuant to this Act; and
+(iii)	is imposed by or under the rules of a central depository; or
+(iv)	is imposed by or under any other law and the contravention of which constitutes an offence which the Commission has power to prosecute with the consent in writing of the Public Prosecutor; and
+(b)	in relation to an application by the central depository, means a requirement which is imposed by or under the rules of the central depository; and
+(c)	in relation to an application by the aggrieved person, means a requirement -
+(i)	which is imposed by or under this Act; and
+(ii)	which is imposed as a condition or restriction of any approval that is given under or pursuant to this Act; and
+(iii)	which is imposed by or under the rules of a central depository.
+
+(13)	An application made under this section shall not prejudice any other action that may be taken by the Commission, central depository or aggrieved person, as the case may be, under any securities laws, any other law or rules.
+ 
+
+
+61.	APPLICATION FOR WINDING UP.
+(1)	If a person referred to in Section 60(1), is a company, whether or not the company is being wound up voluntarily, the person may be wound up under an order of the Court on the petition of the Commission or a central depository in accordance with the provisions of the Companies Act 1997.
+(2)	The Court may order the winding up on a petition made under Subsection (1), if the person referred to in Section 60(1) -
+(a)	has been appointed as an authorised depository agent under Section 14 and that appointment has been terminated; or
+(b)	has contravened any rules of the central depository or any provision of the securities law, whether or not that person has been charged with an offence in respect of the contravention, or whether or not the contravention has been proved in prosecution.
+
+PART VI. - OFFENCES.
+
+62.	FALSIFICATION OF RECORDS OR ACCOUNTS.
+Where a central depository or its authorised depository agent keeps or maintains a record or an account that is required to be kept or maintained under any of the provisions of this Act by means of a mechanical device, an electronic device, or any other device, any person who -
+(a)	records or stores, by means of that device, information that he knows or ought to know to be false or misleading in a material particular -
+(i)	falsifies; or
+(ii)	with intent to falsify, destroys or removes -
+(A)	information that is recorded or stored by means of that device; or
+(B)	information that has been prepared for the purpose of being recorded or stored by means of that device; or
+(C)	information that has been prepared for use in compiling records; or
+(D)		information that has been prepared for use in recovering other information that has been recorded or stored by means of that device; or
+(b)	having a duty to record or store information by means of that device, fails to record or store such information -
+(i)	with intent to falsify, wholly or in part, any entry made, or record intended to be compiled, from the information that has been recorded or stored; or
+(ii)	knowing that the failure to so record or store the information will render false or misleading in a material particular other information so recorded or stored,
+is guilty of an offence and is liable to a fine not exceeding K10,000,000.00 or imprisonment for a term not exceeding ten years or both.
+
+63.	DESTRUCTION, CONCEALMENT, MUTILATION AND ALTERATION OF RECORDS PROHIBITED.
+A person who -
+(a)	destroys, conceals, mutilates or alters any record or account required to be kept or maintained under any of the provisions of this Act; or
+ 
+(b)	sends or attempts to send or conspires with any other person to send out of Papua New Guinea any such record or account, with intent to defraud any person, or to prevent, delay or obstruct the carrying out of an examination, investigation or audit, or the exercise of a power under this Act,
+is guilty of an offence and is liable to a fine not exceeding K10,000,000.00 or imprisonment for a term not exceeding ten years or to both.
+
+64.	FURNISHING FALSE OR MISLEADING INFORMATION.
+A person who furnishes any information which he knows to be false or misleading in a material particular or recklessly furnishes any information which is false or misleading in a material particular -
+(a)	for the purpose of, or in connection with, any application under this Act; or
+(b)	in purported compliance with any requirement imposed on him by or under this Act,
+Is guilty of an offence.
+Penalty:	A fine not exceeding K10,000,000.00 or imprisonment for a term not exceeding ten years or to both.
+
+65.	OFFENCE BY BODY CORPORATE.
+Where offence against this Act has been committed by a body corporate, any person who at the time of the commission of the offence was a director, an executive officer or the secretary of the body corporate or was purporting to act in such capacity, is deemed to have committed that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all due diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
+
+66.	GENERAL PENALTY.
+A person who contravenes or fails to comply with any of the provisions of this Act or of any regulations made under this Act is guilty of an offence and, where no penalty is expressly provided, is liable to a fine not exceeding K5,000,000.00 or to imprisonment for a term not exceeding five years or to both.
+
+PART VII. - GENERAL.
+
+67.	PRESERVATION OF RECORDS AND ACCOUNTS.
+A central depository and its authorised depository agents shall preserve all records and
+communications in relation to a depositor’s account and such other records and accounts as will sufficiently explain the transactions and operations of the central depository and authorised depository agents in relation to deposited securities, for a period of seven years, whether or not they cease to carry on their business before the end of their seventh year.
+
+68.	POWER OF COMMISSION TO COMPOUND.
+(1)	The Commission may, without instituting proceedings against any person for an offence under this Act, other than offences under Sections 3(3), 13(3), 52(3), 55(3), 63 and 64, compound any offence under Section 105 of the Securities Commission Act 2015.
+ 
+
+(2)	Any moneys paid to the Commission pursuant to Subsection (1), shall be paid into and form part of the Fund of the Commission, under Section 43(3)(c) of the Securities Commission Act 2015.
+
+69.	CRIMINAL PROSECUTION.
+(1)	No prosecution for any offence under this Act shall be instituted except with the consent, in writing, of the Public Prosecutor.
+(2)	An officer may, if he is authorised in writing by the Public Prosecutor, prosecute any case in respect of any offence committed under this Act.
+
+(3)	For the purpose of Subsection (2), “officer” has the same meaning as in Section 2 of the Capital Market Act 2015.
+
+70.	COMMISSION MAY BE REPRESENTED BY OFFICER IN CIVIL PROCEEDINGS.
+(1)	Notwithstanding the provisions of any written law -
+(a)	in any civil proceedings by or against the Commission; or
+(b)	in any other civil proceedings in which the Commission is required or permitted by the court to be represented, or to be heard, or is otherwise entitled to be represented or to be heard,
+any officer authorised by the Commission for the purposes of this section may, on behalf of the Commission, institute such proceedings or appear as an advocate and may make all appearances and applications and do all acts in respect of such proceedings on behalf of the Commission.
+(2)	For the purpose of Subsection (1), “officer” has the same meaning as in Section 2 of the Capital Market Act 2015.
+
+71.	POWERS CONCERNING COMPLIANCE WITH RULES OF THE CENTRAL DEPOSITORY.
+(1)	Where a person fails to comply with, observe, enforce or give effect to any requirement or provision of this Act or any regulations made under this Act, or any conditions of an appointment or approval under this Act or any rules of a central depository, in circumstances where the person is under an obligation to comply with, observe, enforce or give effect to such requirements or provisions, that person has committed a breach.
+(2)	If a person has committed a breach and the Commission is satisfied that it is appropriate in all the circumstances to take action against that person, the Commission may take any one or more of the following actions:
+(a)	direct the person in breach to comply with, observe, enforce or give effect to the requirements or provisions of this Act or any regulations made under this Act or any conditions of an appointment or approval under this Act or rules of a central depository which he has failed to comply with, observe, enforce or give effect to; and
+(b)	impose a penalty in proportion to the severity or gravity of the breach on the person in breach, but which in any event shall not exceed K10,000,000.00; and
+ 
+(c)	reprimand the person in breach; and
+(d)	instruct the central depository -
+(i)	to specify any securities account or any deposited security in a securities account of the person in breach as being under suspense; or
+(ii)	to specify any deposited security in a securities account of the person in breach as being in suspense; and
+(e)	require the person in breach to take such steps as the Commission may direct to remedy the breach or mitigate the effect of such breach, including making restitution to any other person aggrieved by such breach.
+
+(3)	For the purposes of Subsection (2)(e), in determining whether or not restitution is to be made by a person in breach, the Commission shall have regard to -
+(a)	the profits that have accrued to such person in breach; or
+(b)	whether any person has suffered loss or been otherwise adversely affected as a result of the breach.
+
+(4)	Nothing in this section shall preclude -
+(a)	the Commission from taking any of the actions that it is empowered to take under this Act or any securities laws against the person in breach; and
+(b)	the central depository from taking any action under the relevant rules.
+
+(5)	For the purposes of this section -
+(a)	“in suspense” shall have the same meaning as is assigned to that expression under Section 49; and
+(b)	“under suspense” shall have the meaning as is assigned to that expression under the rules.
+
+72.	INDEMNITY.
+No civil liability shall be incurred by -
+(a)	an exchange or a central depository; and
+(b)	any person acting on behalf of an exchange or central depository, including -
+(i)	any member of the board of the central depository, or any member of any committee established by any such board; and
+(ii)	any officer of the central depository or exchange; and
+(iii)	any agent of, or any person acting under the direction of the central depository or exchange, for, on account of, or in respect of anything done, any statement made or omitted to be done or made,
+in connection with the discharge or performance or purported discharge or performance of any duties under this Act or the rules or in the exercise or intended exercise of any power under this Act or the rules, where such act, statement or omissions was done in good faith.
+
+73.	POWER OF EXEMPTION.
+(1)	The Commission may, if it considers it not inconsistent with the purposes of this Act or in the interest of the public or investing public, by order published in the National Gazette, exempt any particular person or particular security, or any class, category or description of persons or securities, from all or any of the provisions of this Act.
+ 
+(2)	An exemption under Subsection (1) shall be granted for such duration, and may be subject to such limitations, restrictions or conditions, as the Commission may specify in the order.
+
+74.	REGULATIONS.
+(1)	The Head of State may, from time to time, make such regulations as may be necessary or expedient for carrying out or achieving the objects and purposes of this Act.
+(2)	Without limiting the generality of Subsection (1), regulations may be made for -
+(a)	prescribing forms for the purposes of this Act; and
+(b)	prescribing fees to be paid in respect of any matter or thing required for the purposes of this Act; and
+(c)	prescribing the manner and form in which securities accounts are to be opened, maintained or closed by a central depository and its authorised depository agents, including the manner of making entries in such accounts; and
+(d)	prescribing the circumstances when a deposited security in a securities account may be specified by a central depository as being in suspense under Section 49, including the rights, benefits, powers, privileges, liabilities, duties and obligations of a depositor in respect of or arising from the suspension of such a security; and
+(e)	regulating the appointment of authorised depository agents and authorised nominees and the imposition of duties, obligations and sanctions on such agents and nominees; and
+(f)	regulating the setting-up and operation of the computer system including computer terminals which form part of such system; and
+(g)	regulating the manner in which deposited securities shall be kept for safe custody by a central depository; and
+(h)	regulating all matters relating to the deposit of unlisted securities with a central depository and its authorised depository agents; and
+(i)		prescribing the types of bodies corporate which may be appointed to act as authorised depository agents under Section 14(2)(e); and
+(j)	regulating the activities of, and the standards to be maintained by, a central depository and its authorised depository agents; and
+(k)	prescribing the manner in which records shall be kept and maintained by a central depository, its authorised depository agents and its nominee companies under this Act; and
+(l)	prescribing the purposes for which, and the manner in which, the Commission may conduct a stock count of certificate held in custody by or in the name of, a central depository or its nominee companies; and
+(m)	prescribing all matters relating to the maintenance of insurances, and the establishment and maintenance of compensation funds, by a central depository, its nominee companies and authorised depository agents for the purpose of settling claims by depositors against them; and
+(n)	prescribing the extent to which any user or class of users may have access to the computer system of a central depository; and
+ 
+(o)	matters relating to linkages between a central depository and other securities depositories established outside Papua New Guinea; and
+(p)	matters relating the appointments of Advisory Committee pursuant to Section 9 of this Act; and
+(q)	all matters or things which by this Act are required or permitted to be prescribed or which are necessary or expedient to give effect to this Act.
+
+
+I hereby certify that the above is a fair print of the Central Depositories Act 2015 which has been
+made by the National Parliament.
+
+Acting Clerk ofthe National Parliament.
+- 2 DEC 2016
+
+I hereby certify that the Central Depositories Act 2015 was made by the National Parliament on
+27 October 2015, by an absolute majority as required by the Constitution.
+
+Acting Speaker of the National /Parliament.
+2 DEC 2016
+ 
+

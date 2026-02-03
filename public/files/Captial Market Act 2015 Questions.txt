@@ -1,0 +1,51 @@
+### **Category 1: Markets and Market Institutions**
+1. What are the limitations on establishing stock and derivatives markets according to Section 8?
+2. What is the process for the approval of a body corporate as a stock exchange or derivatives exchange under Section 9?
+3. What are the key duties of an approved exchange as outlined in Section 13?
+4. Under what circumstances and criteria can the Commission revoke the approval of an exchange?
+5. What are the annual and quarterly regulatory reporting requirements for market institutions?
+6. How does the Commission exercise its power to issue directions to an exchange under Section 19?
+7. What are the rules and procedures regarding the closure of a stock or derivatives exchange?
+
+### **Category 2: Licensing of Intermediaries**
+1. Who exactly is required to hold a capital market licence according to Section 34?
+2. What are the requirements for obtaining a capital market representative’s licence under Section 35?
+3. On what specific grounds can the Commission refuse to grant or renew a capital market licence?
+4. What are the minimum financial requirements that licensed persons must maintain as per Section 43?
+5. How long is the typical period of validity for a capital market licence before renewal?
+6. In what situations and through what process can a licence be revoked or suspended by the Commission?
+7. What is the "Register of licence holders" and what information must it contain?
+
+### **Category 3: Conduct of Business and Client Protection**
+1. What are the legal requirements for the issue of contract notes under Section 66?
+2. How must a licensed person disclose their interests in securities when making recommendations to clients?
+3. What priority must be given to a client's order relative to the licensee's own dealings?
+4. What are the regulations and prohibitions regarding short selling as defined in Section 74?
+5. How does the Act mandate the segregation of client’s assets for both securities and derivatives?
+6. What are the primary duties of an auditor appointed for a licensed person under Section 105?
+7. What range of actions can the Commission take to protect client’s assets under Subdivision 5?
+
+### **Category 4: Issues of Securities and Prospectuses**
+1. What are the fundamental requirements for the approval and registration of capital market products?
+2. When exactly is a formal prospectus required for an offer of securities to the public?
+3. What constitutes "Excluded offers and invitations" that do not require a prospectus under Section 125?
+4. What is the "general duty of disclosure" that must be met in a prospectus according to Section 132?
+5. What is a "stop order" and under what conditions can the Commission issue one to halt an offering?
+6. What are the specific civil and criminal liabilities for false or misleading statements in a prospectus?
+7. What defines a "due diligence defence" in the context of civil liability for prospectus errors?
+
+### **Category 5: Market Misconduct and Insider Trading**
+1. What specific actions constitute "false trading and market rigging" under Section 299?
+2. How does the Act define and prohibit "stock market manipulation"?
+3. What is the legal definition of "inside information" and who qualifies as an "information insider"?
+4. What are the criminal penalties and legal consequences for engaging in insider trading?
+5. What civil remedies are available to the Commission or victims for losses caused by market misconduct?
+6. How does the Act define "bucketing" and why is it prohibited in the derivatives market?
+7. What are the penalties for disseminating information about illegal or manipulative transactions?
+
+### **Category 6: Compensation and Fidelity Funds**
+1. What is the primary purpose and function of the Compensation Fund established under Section 341?
+2. What sources of money constitute the Compensation Fund?
+3. How are claims against the Compensation Fund for losses due to default managed and paid out?
+4. What is the Fidelity Fund and how does it specifically support the derivatives market?
+5. In what scenarios can the Fidelity Fund be applied to compensate investors?

@@ -1,0 +1,321 @@
+================================================================================
+SHAREPOINT LIST SCHEMA FOR APPLICATIONS
+================================================================================
+
+LIST NAME: Applications
+
+SITE: https://scpng1.sharepoint.com/sites/scpngintranet
+
+================================================================================
+COLUMNS TO CREATE
+================================================================================
+
+1. TITLE (Already exists by default)
+   - Type: Single line of text
+   - Required: Yes
+   - Description: Application name (e.g., "Outlook", "Teams")
+
+2. APP ID
+   - Display Name: App ID
+   - Internal Name: AppId
+   - Type: Single line of text
+   - Required: Yes
+   - Description: Unique identifier (lowercase, no spaces)
+   - Example: "outlook", "teams", "power-bi"
+
+3. DESCRIPTION
+   - Display Name: Description
+   - Internal Name: Description
+   - Type: Multiple lines of text
+   - Required: No
+   - Number of lines: 3
+   - Description: Brief description of the application
+
+4. ICON
+   - Display Name: Icon
+   - Internal Name: Icon
+   - Type: Hyperlink or Picture
+   - Format: Hyperlink
+   - Required: No
+   - Description: Emoji (📧) or URL to icon image
+
+5. APP URL
+   - Display Name: App URL
+   - Internal Name: AppUrl
+   - Type: Hyperlink or Picture
+   - Format: Hyperlink
+   - Required: Yes
+   - Description: Link to the application
+
+6. CATEGORY
+   - Display Name: Category
+   - Internal Name: Category
+   - Type: Choice
+   - Required: Yes
+   - Default: Custom
+   - Choices (one per line):
+       Microsoft 365
+       Productivity
+       Communication
+       Utilities
+       Custom
+       HR Systems
+       Finance Systems
+       External Services
+
+7. IS EXTERNAL
+   - Display Name: Is External
+   - Internal Name: IsExternal
+   - Type: Yes/No
+   - Required: No
+   - Default: Yes
+   - Description: Whether app opens in new tab
+
+8. DISPLAY ORDER
+   - Display Name: Display Order
+   - Internal Name: DisplayOrder
+   - Type: Number
+   - Required: No
+   - Default: 100
+   - Min: 0
+   - Max: 1000
+   - Decimals: 0
+   - Description: Sort order (lower numbers first)
+
+9. IS ACTIVE
+   - Display Name: Is Active
+   - Internal Name: IsActive
+   - Type: Yes/No
+   - Required: No
+   - Default: Yes
+   - Description: Show/hide this app
+
+================================================================================
+SAMPLE DATA
+================================================================================
+
+APP 1: Outlook
+--------------
+Title: Outlook
+App ID: outlook
+Description: Email, schedule, and set tasks
+Icon: 📧
+App URL: https://outlook.office.com
+Category: Microsoft 365
+Is External: Yes
+Display Order: 1
+Is Active: Yes
+
+APP 2: Teams
+------------
+Title: Teams
+App ID: teams
+Description: Chat, meetings, and collaboration
+Icon: 👥
+App URL: https://teams.microsoft.com
+Category: Microsoft 365
+Is External: Yes
+Display Order: 2
+Is Active: Yes
+
+APP 3: Word
+-----------
+Title: Word
+App ID: word
+Description: Create and edit documents
+Icon: 📝
+App URL: https://office.com/launch/word
+Category: Microsoft 365
+Is External: Yes
+Display Order: 3
+Is Active: Yes
+
+APP 4: Excel
+------------
+Title: Excel
+App ID: excel
+Description: Create and edit spreadsheets
+Icon: 📊
+App URL: https://office.com/launch/excel
+Category: Microsoft 365
+Is External: Yes
+Display Order: 4
+Is Active: Yes
+
+APP 5: PowerPoint
+-----------------
+Title: PowerPoint
+App ID: powerpoint
+Description: Create presentations
+Icon: 📽️
+App URL: https://office.com/launch/powerpoint
+Category: Microsoft 365
+Is External: Yes
+Display Order: 5
+Is Active: Yes
+
+APP 6: OneDrive
+---------------
+Title: OneDrive
+App ID: onedrive
+Description: Cloud storage and file sharing
+Icon: ☁️
+App URL: https://onedrive.live.com
+Category: Microsoft 365
+Is External: Yes
+Display Order: 6
+Is Active: Yes
+
+APP 7: SharePoint
+-----------------
+Title: SharePoint
+App ID: sharepoint
+Description: Team sites and content management
+Icon: 🔷
+App URL: https://www.office.com/launch/sharepoint
+Category: Microsoft 365
+Is External: Yes
+Display Order: 7
+Is Active: Yes
+
+APP 8: Planner
+--------------
+Title: Planner
+App ID: planner
+Description: Create plans, organize and assign tasks
+Icon: 📋
+App URL: https://tasks.office.com
+Category: Microsoft 365
+Is External: Yes
+Display Order: 8
+Is Active: Yes
+
+APP 9: Power BI
+---------------
+Title: Power BI
+App ID: powerbi
+Description: Business analytics and dashboards
+Icon: 📈
+App URL: https://app.powerbi.com
+Category: Microsoft 365
+Is External: Yes
+Display Order: 9
+Is Active: Yes
+
+APP 10: Forms
+-------------
+Title: Forms
+App ID: forms
+Description: Create surveys and quizzes
+Icon: 📝
+App URL: https://forms.office.com
+Category: Microsoft 365
+Is External: Yes
+Display Order: 10
+Is Active: Yes
+
+================================================================================
+VERIFICATION CHECKLIST
+================================================================================
+
+□ List named "Applications" created
+□ All 9 columns created with correct types
+□ Category choices configured
+□ Sample data added (at least 3-5 apps)
+□ Permissions set (Read for all users)
+□ List is accessible via SharePoint site
+□ Test app can fetch data via Graph API
+
+================================================================================
+QUICK SETUP STEPS
+================================================================================
+
+1. Go to: https://scpng1.sharepoint.com/sites/scpngintranet
+2. Settings → Site contents → New → List
+3. Name: Applications
+4. Create list
+5. Add each column above (click "Add column")
+6. Configure Category choices
+7. Add sample data (click "New")
+8. Test in application
+
+================================================================================
+ADDITIONAL CATEGORIES (OPTIONAL)
+================================================================================
+
+You can add more categories to suit your organization:
+
+- Design Tools
+- Development Tools
+- Project Management
+- Customer Service
+- Sales & Marketing
+- Legal & Compliance
+- Training & Learning
+- Reporting & Analytics
+- Collaboration Tools
+- Security & Monitoring
+
+To add: Edit Category column → Add new choice
+
+================================================================================
+USING CUSTOM ICONS
+================================================================================
+
+Option 1: Use Emojis (Easiest)
+   Just type or copy-paste an emoji into the Icon field
+   Examples: 📧 📝 📊 📽️ ☁️ 👥 📋 📈 📰 ✓
+
+Option 2: Use Image URLs
+   1. Upload icons to: /sites/scpngintranet/SiteAssets/AppIcons/
+   2. Get URL: Right-click image → Copy link
+   3. Paste URL into Icon field
+
+   Recommended specs:
+   - Format: PNG with transparent background
+   - Size: 64x64 or 128x128 pixels
+   - Use HTTPS URLs
+
+================================================================================
+MAINTENANCE
+================================================================================
+
+To add new app:
+   SharePoint list → New → Fill fields → Save
+
+To edit app:
+   Find app → Click to open → Edit → Save
+
+To hide app:
+   Edit app → Set "Is Active" to No → Save
+
+To delete app:
+   Select app → Delete (or set Is Active to No)
+
+To reorder apps:
+   Edit Display Order numbers (lower = first)
+
+To add category:
+   List settings → Category column → Edit → Add choice
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+Apps not showing?
+   → Check "Is Active" = Yes
+   → Verify list name is "Applications"
+   → Check user has Read permission
+
+Icons not showing?
+   → Use emojis instead of URLs
+   → Verify image URL is accessible
+   → Use HTTPS URLs only
+
+Permission errors?
+   → List settings → Permissions
+   → Grant Read to "All authenticated users"
+
+================================================================================
+END OF SCHEMA DOCUMENT
+================================================================================

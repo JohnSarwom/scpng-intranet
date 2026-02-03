@@ -1,0 +1,552 @@
+Securities Act 1997
+
+### **Category 1: Interpretations and Preliminary Concepts**
+1. How does the Act define a **"stock market"** or **"stock exchange"** in terms of regular activities and facilities provided?
+2. Under what circumstances does a communication constitute an **"advertisement"** rather than a registered prospectus?
+3. What is included in the definition of **"allot"** regarding the transfer of securities?
+4. Which specific instruments are excluded from being classified as **"debt securities"** under the Act?
+5. How is an **"expert"** defined, and why are auditors or directors specifically excluded from this capacity in certain contexts?
+6. Who is considered an **"issuer"** in relation to a unit trust?
+7. What are the criteria for two people to be considered **"associated persons"**?
+8. Does the Act bind the **State**?
+9. What specific **Constitutional rights** does the Act regulate or restrict in the public interest?
+10. How is a **"relative"** defined for the purposes of identifying associated persons?
+11. What is the definition of **"money"** in the context of this legislation?
+12. What constitutes a **"primary notice"** regarding beneficial ownership?
+13. How does the Act define **"relevant instructions"** in relation to shares?
+14. What is the **"prescribed percentage"** required for a person to be deemed a substantial shareholder?
+15. What specific rights define a **"voting share"**?
+
+### **Category 2: The Securities Commission – Establishment and Powers**
+16. What is the **legal status** of the Securities Commission of Papua New Guinea?
+17. Who constitutes the **membership** of the Securities Commission?
+18. For how long can a **Chairman** hold office before needing reappointment?
+19. Under what specific conditions can the Minister **remove a Chairman** from office?
+20. To whom can the Commission **delegate** its functions and powers?
+21. What are the Commission's powers regarding the **appointment of staff and experts**?
+22. What types of **evidence** is the Commission permitted to receive during an inquiry?
+23. Can the Commission require a person to provide **evidence on oath**?
+24. What are the methods for **serving a notice** on a natural person versus a body corporate?
+25. Is **self-incrimination** a reasonable excuse for failing to comply with a requirement to produce evidence?
+26. Under what conditions is information provided to the Commission **inadmissible** in criminal proceedings against the provider?
+27. When can the Commission **take evidence for an overseas body**?
+28. What is the process for the Commission to seek a **legal opinion from the Court**?
+29. On what grounds can a person **appeal** a decision of the Commission to the Court?
+30. Which entities and individuals are protected by **proceedings privilege**, provided they do not act in bad faith?
+31. What are the **penalties** for deceiving or misleading the Commission?
+
+### **Category 3: Oversight of Stockbrokers and Exchanges**
+32. What are the **limitations** placed on persons acting as stockbrokers?
+33. What must a body corporate demonstrate regarding its **business rules** to be approved as a stock exchange?
+34. What specific matters must be addressed in a stock exchange's **listing rules** for Commission approval?
+35. How soon must the Commission be notified of **amendments to an exchange's rules**?
+36. Under what circumstances can the Commission **disallow an amendment** to exchange rules?
+37. What is the process for the Commission to **prohibit trading** in particular securities?
+38. What **assistance** is an approved stock exchange legally required to provide to the Commission?
+39. Does the Commission have the right to **access the trading floor** of an exchange?
+40. When can the Court order **compliance** with an exchange’s business or listing rules?
+41. What is the status of **gaming and wagering laws** in relation to option contracts on a stock market?
+42. Who possesses **qualified privilege** in the context of disciplinary proceedings at a stock exchange?
+
+### **Category 4: Fidelity Funds Management**
+43. Who is responsible for **administering the fidelity fund** of a stock exchange?
+44. What **types of money** constitute the fidelity fund?
+45. For what specific purposes can **payments** be made out of the fidelity fund?
+46. What are the **auditing requirements** for a fidelity fund's financial statements?
+47. How is a **management sub-committee** for a fidelity fund appointed?
+48. What is the **minimum amount** required for a fidelity fund upon its establishment?
+49. What are the **annual contribution** requirements for members of an exchange to the fund?
+50. What steps must a board take if the fidelity fund falls **below the minimum amount**?
+51. What is the **maximum levy** a member can be required to pay in a 12-month period to meet fund liabilities?
+52. How may fidelity fund moneys be **invested** when not immediately required?
+53. What is the **maximum compensation** payable to a person who suffers loss through a member's fraud?
+54. What is the **time limit** for making a claim against the fidelity fund?
+55. Can the board **disallow a claim**, and what is the claimant's recourse?
+56. What are the board's powers regarding the **production of documents** for a claim?
+57. How does **subrogation** apply when an exchange pays a claim from the fund?
+
+### **Category 5: Public Offerings and Prospectus Requirements**
+58. What defines an **"offer of securities to the public"**?
+59. Which offers are specifically **excluded** from being considered "to the public"?
+60. Is an offer to a single person selected as a member of the public **prima facie evidence** of a public offer?
+61. What information can an issuer release without it constituting a **public offer**?
+62. Does the Act apply to securities **offered overseas** by a PNG issuer?
+63. What are the **restrictions** on "house-to-house" offering of securities?
+64. What are the requirements for **appointing a trustee** before offering unit trusts to the public?
+65. When is an **allotment of securities** considered void due to prospectus irregularities?
+66. What is the **"minimum amount"** rule for first allotments?
+67. Within what timeframe must subscriptions be **repaid** if an allotment cannot be made?
+68. Under what conditions is an allotment **voidable** at the instance of the subscriber?
+69. What must an **"authorized advertisement"** contain to be compliant?
+70. What are the Commission's powers to **prohibit an advertisement**?
+71. What are the **formal requirements** for the content of a prospectus?
+72. How long must a **supplementary statement** by an expert be dated before submission for registration?
+73. Who must **sign** a prospectus submitted for registration?
+74. On what grounds can the Registrar **refuse to register** a prospectus?
+75. How can a **registered prospectus be amended**?
+76. What are the consequences of the Commission **suspending the registration** of a prospectus?
+
+### **Category 6: Trust Deeds and Trustee Obligations**
+77. What **mandatory clauses** are deemed to be contained in every trust deed?
+78. Who is permitted to act as a **trustee** under the Act?
+79. Can a trustee **retire or be discharged** without Commission consent?
+80. When can a trustee **apply to the Court** for orders regarding the issuer's ability to pay?
+81. What **powers does the Court have** to protect securities holders upon a trustee's application?
+82. What is the **auditor's duty** to report to the trustee of a unit trust?
+
+### **Category 7: Issuer Obligations and Financial Records**
+83. Where must an issuer **keep its register of securities**?
+84. What **particulars** must be included in a register of securities?
+85. How often must the **register be audited**?
+86. What are the **rights of inspection** for securities holders regarding the register?
+87. What standard must **accounting records** meet for an issuer of public securities?
+88. For how long must **accounting records be retained**?
+89. How often must **financial statements** be submitted to the Registrar for registration?
+90. What is the timeframe for an issuer to **provide certificates** evidencing securities to a holder?
+
+### **Category 8: Civil and Criminal Liability for Misstatements**
+91. When is a statement in a prospectus deemed **"untrue"**?
+92. Who is **civilly liable** for misstatements in a registered prospectus?
+93. What **defences** are available to a director to avoid liability for an untrue statement?
+94. Under what conditions is an **expert liable** for misstatements they authorised?
+95. What are the **criminal penalties** for distributing a prospectus with an untrue statement?
+96. What is the **statute of limitations** for bringing a civil action under Part IV?
+
+### **Category 9: Market Manipulation and Prohibited Practices**
+97. What constitutes **stock market manipulation**?
+98. How does the Act define **false trading and market rigging**?
+99. What transactions are deemed to create a **false or misleading appearance of active trading**?
+100. What is the **defence** for a person accused of creating a false appearance of active trading?
+101. What acts constitute **fraudulently inducing** persons to deal in securities?
+102. What is the **liability** for a person who contravenes market practice sections?
+103. What is the **maximum penalty** for unlawful market activity?
+
+### **Category 10: Insider Trading**
+104. What is the definition of **"inside information"**?
+105. Who is considered an **"insider"**?
+106. When is information considered **"generally available"** to the public?
+107. What **conduct is prohibited** for an insider?
+108. What are the **exceptions for underwriters** regarding insider information?
+109. How do **"Chinese wall" arrangements** protect a body corporate from insider trading liability?
+110. Is an individual liable for insider trading if they are merely acting on **knowledge of their own intentions**?
+111. What **defence** is available if the other party to a transaction also knew the inside information?
+112. What **powers does the Court have** upon finding a contravention of insider trading rules?
+113. Can the **Commission bring an action** for insider trading on behalf of an issuer?
+
+### **Category 11: Substantial Shareholdings and Beneficial Ownership**
+114. How is a **"listed company"** defined for substantial shareholding purposes?
+115. What constitutes a **"relevant interest"** in a voting share?
+116. In what cases are **relevant interests disregarded**?
+117. How many days does a **substantial shareholder** have to notify a company of their interest?
+118. What must a company include in its **register of substantial shareholders**?
+119. What is the **civil remedy** for failing to comply with substantial shareholding notification requirements?
+120. When can the Commission issue a **secondary notice** regarding beneficial ownership?
+121. What are the **consequences of failing to comply** with a primary or secondary notice?
+122. Can a person request that information regarding beneficial ownership **not be disclosed** for special reasons?
+
+### **Category 12: Enforcement, Injunctions, and Takeovers**
+123. What are the **Commission's powers of inspection**?
+124. What are the **penalties for obstructing** an authorized inspection?
+125. Can the Commission **exempt** a person from compliance with any provision of the Act?
+126. How is the **state of mind** of a body corporate established in legal proceedings?
+127. What is the **liability of a director** for an offence committed by a body corporate?
+128. What are the penalties for **falsification of records**?
+129. When can the Court **prohibit payments or transfers** of property?
+130. On whose application can the Court **grant an injunction**?
+131. Within what timeframe must **proceedings for a prosecution** be brought?
+132. What are the **objectives** the Commission must consider when formulating a **takeovers code**?
+133. What matters should the **takeovers code** address regarding the treatment of securities holders?
+134. Who has the final authority to **approve the takeovers code**?
+135. What is a **restraining order** in the context of takeovers?
+136. Who is eligible to **apply to the Court** for orders regarding non-compliance with the takeovers code?
+137. What is the **maximum pecuniary penalty** for a body corporate contravening the takeovers code?
+Category 13: Detailed Interpretations and Preliminary Matters
+138. How does the Act distinguish between a "registered prospectus" and an "authorised advertisement"?
+139. What are the specific components of the definition of "deal" in relation to securities?
+140. Which specific entities are excluded from the definition of "debt securities" under Section 2?
+141. Under what conditions is a "unit trust" defined as such for the purposes of the Act?
+142. How does the Act define "equity securities" specifically regarding options and variations?
+143. What is the definition of "distribute" in the context of modern communication like computer transmission or image?
+144. Who is considered a "principal officer" in relation to a body corporate?
+145. What qualifies an individual as a "qualified auditor" under the Act?
+146. How does the Act define "listing rules" in relation to the activities of unincorporate bodies?
+147. What is the legal implication of the Act "binding the State"?
+148. Which specific section of the Constitution provides the right to freedom of information that this Act restricts?
+149. How is the "date of a registered prospectus" determined?
+150. What constitutes a "promoter" in relation to equity securities offered to the public?
+Category 14: Securities Commission – Establishment, Evidence, and Procedure
+151. What are the four core legal capabilities of the Securities Commission as a body corporate?
+152. How is the Chairman of the Commission officially appointed?
+153. What happens to the leadership of the Commission if the office of Chairman becomes vacant?
+154. To what extent can the Commission delegate its functions, and what is the one power it cannot delegate?
+155. What is the scope of the Commission’s power to appoint employees?
+156. Can the Commission receive evidence that would not normally be admissible in a court of law?
+157. What are the specific requirements for serving a notice on a body corporate?
+158. Under what circumstances can the Commission order the payment of expenses to a witness?
+159. What are the legal consequences if a person discloses questions put to them by the Commission without consent?
+160. On what grounds can the Commission refuse a request for information from an overseas body?
+161. How does the Commission reimburse experts appointed to conduct research?
+162. What is the process for the Commission to state a case for the opinion of the Court?
+163. Within how many days must a notice of appeal be lodged with the Commission after a determination?
+164. What is the "bad faith" threshold for bringing proceedings against a Commission employee?
+165. What does a certificate signed by the Commission serve as evidence of in legal proceedings?
+166. What is the maximum fine for deceiving or knowingly misleading the Commission?
+Category 15: Regulation of Stockbrokers and Approved Exchanges
+167. What is the penalty for establishing a stock market that is not an approved stock exchange?
+168. What specific standards of training must a body corporate's business rules provide for Commission approval?
+169. What are the criteria for excluding persons from membership in a stock exchange based on character?
+170. How many days does an exchange have to lodge a notice of an amendment to its rules?
+171. What is the consequence if a stock exchange fails to lodge a notice of rule amendments within the 21-day window?
+172. What are the two specific grounds upon which the Commission may prohibit trading in particular securities?
+173. What is the maximum duration for a temporary prohibition on trading issued by the Commission?
+174. What disciplinary information must an exchange lodge with the Commission regarding its members?
+175. Who has the right to access the "trading floor" of an approved stock exchange at all reasonable times?
+176. How does the Act define "trading floor" in terms of facilities and information provision?
+177. Under what conditions is a body corporate deemed to be under an obligation to comply with listing rules?
+178. What is the legal status of option contracts in relation to gaming and wagering laws?
+179. Who is granted "qualified privilege" in respect of statements made during disciplinary proceedings?
+Category 16: Fidelity Fund – Establishment and Maintenance
+180. In what capacity does a board hold the assets of a fidelity fund?
+181. What are the six specific types of money that constitute the fidelity fund?
+182. Where must fidelity fund moneys be kept pending investment?
+183. What are the five categories of payments allowed to be made out of the fidelity fund?
+184. What are the annual reporting and auditing requirements for a fidelity fund?
+185. What is the deadline for an exchange to submit its fidelity fund audit report to the Commission?
+186. What is the minimum and maximum number of persons for a management sub-committee of the fund?
+187. What is the minimum amount required for the establishment of a fidelity fund?
+188. What is the minimum contribution a person must pay to the fidelity fund to be admitted as a member?
+189. By what date each year must a member pay their annual contribution to the fund?
+190. What steps must the board take if the fund is reduced below the specified minimum?
+191. What is the maximum total levy a member can be required to pay in a 12-month period?
+192. Can an exchange advance money from its general funds to the fidelity fund?
+193. Under which Act must fidelity fund moneys be invested?
+Category 17: Fidelity Fund – Claims and Legal Remedies
+194. For what specific types of loss can a person claim compensation from the fidelity fund?
+195. What is the default maximum compensation limit per member for fraud or defalcation?
+196. Can the Commission direct an exchange to increase the total compensation payable for a specific member?
+197. How does the Act define "member" for the purposes of fidelity fund claims, including former members?
+198. What is the formula for calculating the actual pecuniary loss a claimant is entitled to?
+199. What are the notification requirements for calling for claims against the fund?
+200. Within what timeframe must a claim be made if no public notice was published?
+201. Under what circumstances can a claimant commence court proceedings against the exchange?
+202. What is the statute of limitations for bringing proceedings after a claim is disallowed?
+203. Is a criminal conviction of the fraudster necessary for a fidelity fund claim to be allowed?
+204. What are the two specific findings a Court must make to order the board to allow a claim?
+205. What happens if a person fails to produce documents required by the board to support a claim?
+206. How does subrogation work once a claim has been paid out of the fund?
+207. What is the procedure for apportioning payments if the fund is insufficient to meet all claims?
+208. Does an exchange have the power to enter into fidelity insurance contracts?
+Category 18: Restrictions on Public Offerings and Allotments
+209. What three scenarios classify an offer as being made "to the public"?
+210. Which specific groups of people are excluded from the definition of the "public" for offering purposes?
+211. What is the monetary threshold for an offer to be exempt from public offering rules?
+212. Does an employee of the issuer count as a member of the public for securities offerings?
+213. What is the evidentiary value of an offer made to a single person selected as a member of the public?
+214. What specific details can be included in a statement of intent to offer securities without it being a "public offer"?
+215. To what extent can an applicant waive their rights to compliance with the Act's offering restrictions?
+216. How does the Act apply to securities that have been previously allotted?
+217. Within what timeframe must an offer be made after allotment for it to be deemed a public offer under Section 53?
+218. What are the notice requirements for PNG issuers offering securities to persons overseas?
+219. What is the restriction on "house-to-house" offering of securities?
+220. What are the three requirements for offering unit trusts to the public besides a registered prospectus?
+221. Under what conditions is an allotment of securities considered invalid and of no effect?
+222. What are the rules regarding interest payments if subscriptions are not repaid within the specified timeframe?
+223. What makes an allotment "voidable" at the instance of a subscriber?
+224. What is the "prescribed period" for a subscriber to give notice to avoid an allotment?
+225. What is the minimum percentage of the issue price that must be paid upon application for equity securities?
+Category 19: Authorised Advertisements and Expert Reports
+226. What are the four mandatory requirements for an "authorised advertisement"?
+227. What specific consent must an expert provide before their statement can be included in an advertisement?
+228. What information regarding an expert's relationship to the issuer must appear in an advertisement?
+229. On what three grounds can the Commission prohibit the distribution of an advertisement?
+230. What is the issuer’s right of appeal after an advertisement prohibition order is made?
+231. What is the penalty for contravening a Commission order to stop an advertisement?
+Category 20: Technical Standards and Registration of Prospectuses
+232. What are the formal writing and dating requirements for a prospectus?
+233. How recent must a statement by an expert be to be included in a prospectus without a supplementary statement?
+234. What must a supplementary expert statement specifically affirm or deny?
+235. Who are the required signatories for a prospectus submitted to the Registrar?
+236. Under what three conditions can the Registrar refuse to register a prospectus?
+237. When is a certificate of registration considered "conclusive evidence" of registration?
+238. How is a registered prospectus amended, and who must sign the memorandum of amendments?
+239. On what grounds can the Registrar refuse to register a memorandum of amendments?
+240. For how long can the Commission suspend the registration of a prospectus?
+241. What are the rules regarding the divulging of information about a prospectus suspension?
+242. What happens to subscriptions if a prospectus registration is cancelled?
+Category 21: Trust Deeds and Trustee Supervision
+243. What is the legal effect of "deemed clauses" in a trust deed?
+244. What are the Registrar's powers regarding the registration of trust deeds and amendments?
+245. Who is authorised to approve persons to act as trustees under the Act?
+246. Under what conditions can a trustee retire or be discharged?
+247. What are the two scenarios where a trustee may apply to the Court for intervention?
+248. What types of orders can the Court make to protect securities holders upon a trustee's application?
+249. What is the auditor's duty regarding the transmission of reports to the trustee of a unit trust?
+Category 22: Obligations of Issuers – Registers and Reporting
+250. What six pieces of information must a register of securities contain?
+251. Is notice of a trust allowed to be entered on the register of securities?
+252. What is the frequency for auditing the register of securities?
+253. What are the notice requirements for the location of an issuer's register?
+254. What are the daily time requirements for allowing the inspection of a register?
+255. What is the maximum number of days per year that a register can be closed?
+Category 23: Accounting Records and Financial Statements
+256. What standard must accounting records meet to enable a convenient audit?
+257. What specific daily entries must accounting records contain for money received and expended?
+258. What additional records are required for issuers involved in trading goods?
+259. Where must accounting records be kept, and what happens if they are kept outside PNG?
+260. What is the minimum retention period for accounting records?
+261. Who is permitted to inspect an issuer's accounting records without charge?
+262. What is the timeframe for an issuer to supply financial statements to a requesting holder?
+263. What are the registration requirements for an issuer's annual financial statements?
+264. Within what timeframe must an issuer provide certificates evidencing securities after allotment?
+Category 24: Civil and Criminal Liability for Misstatements
+265. When is a statement in a prospectus deemed to be "untrue"?
+266. Who is liable to pay compensation for untrue statements in an advertisement or prospectus?
+267. What are the five defences available to a person facing civil liability for an untrue statement?
+268. Under what circumstances must directors indemnify a person whose name was used without consent?
+269. What is the liability of an expert for statements they consented to include?
+270. What are the penalties upon conviction on indictment for misstatements in a prospectus?
+271. Who is considered a "principal officer" for the purposes of criminal liability under Section 84?
+272. What "immateriality" defence exists for criminal contraventions of the Act?
+Category 25: General Enforcement and Powers of Inspection
+273. What are the penalties for resisting, obstructing, or deceiving an inspector?
+274. Is an auditor permitted to be indemnified by an issuer against negligence or breach of duty?
+275. Can a trust deed exempt a trustee from liability for breach of trust?
+276. What power does the Court have to grant relief to a person who acted "honestly and reasonably"?
+277. What is the time limit for bringing a civil action under Part IV?
+278. What are the Registrar's and Commission's specific powers of inspection regarding books and documents?
+279. Under what conditions can an inspector divulge information acquired during an inspection?
+280. What is the process for appealing a decision of the Registrar or the Commission regarding inspection powers?
+Category 26: Market Practices and Manipulation
+281. What constitutes stock market manipulation regarding the intent to induce others to buy or sell?
+282. How does the Act define transactions that create a "false or misleading appearance of active trading"?
+283. What are "wash sales" (transactions with no change in beneficial ownership) and their status?
+284. What constitutes the "matching of orders" for the purposes of market rigging?
+285. What is the specific defence for a person accused of creating a false appearance of active trading?
+286. What are the prohibitions regarding false or misleading statements that induce the sale of securities?
+287. What constitutes "fraudulent inducement" to deal in securities, including the use of electronic devices?
+288. What are the restrictions on disseminating information about illegal market transactions?
+289. How is the amount of loss recovered in an action for unlawful market activity determined?
+290. What is the maximum fine for a person found guilty of unlawful market activity?
+Category 27: Insider Trading – Definitions and Prohibited Conduct
+291. How is "inside information" defined in relation to its expected effect on price?
+292. Who is an "insider" according to the possession of information and their knowledge of its availability?
+293. When is information legally considered "generally available"?
+294. What is the "reasonable person" test for determining if information has a material effect on value?
+295. How is the knowledge of an officer attributed to a body corporate?
+296. What is the specific prohibition for insiders regarding subscribing for or purchasing securities?
+297. When is an insider prohibited from communicating inside information to another person?
+Category 28: Insider Trading – Exceptions and Defences
+298. What are the three exceptions for underwriters regarding insider trading?
+299. How does the "acting under a legal requirement" exception apply to the Commission?
+300. What are the three requirements for a "Chinese wall" arrangement to protect a body corporate?
+301. How do "Chinese wall" rules apply to partnerships?
+302. What is the exception for an individual's knowledge of their own intentions or activities?
+303. Under what conditions is a member of a stock exchange exempt when acting as an agent for a principal?
+304. Is it a defence if the other party to an insider transaction also knew the information?
+Category 29: Insider Trading – Liability and Remedies
+305. What orders can the Court make upon finding a contravention of insider trading rules, including voting rights?
+306. What is the statute of limitations for a person who suffers loss to bring a civil action?
+307. What is the defence for a professional publisher of an advertisement that contravened insider trading rules?
+308. What can an issuer recover from an insider who subscribed for securities at a lower price?
+309. What can a "seller" recover from an insider who purchased their securities?
+310. What can a "buyer" recover from an insider who sold them securities?
+311. Under what circumstances can the Commission bring an action on behalf of an issuer?
+Category 30: Substantial Shareholdings
+312. What defines a "listed company" for the purposes of substantial shareholding?
+313. What is the "prescribed percentage" required to be a substantial shareholder?
+314. What constitutes a "voting share" in a listed company?
+315. What are the six ways a person can have a "relevant interest" in a voting share?
+316. How is a "relevant interest" attributed between related bodies corporate?
+317. Which types of interests are specifically disregarded (e.g., money lenders, stockbrokers)?
+318. Within how many days must a substantial shareholder notify a company of their interest?
+319. What information must be included in a substantial shareholding notice?
+320. When must a substantial shareholder notify the company of a change of 1% or more in their interest?
+321. What are the requirements for notifying the company when a person ceases to be a substantial shareholder?
+322. Who else must be served with a copy of a substantial shareholding notice besides the company?
+323. What are the rules for public inspection of the register of substantial shareholders?
+324. What is the civil remedy for a person who suffers loss due to a contravention of substantial shareholding rules?
+Category 31: Beneficial Ownership of Shares
+325. What is a "primary notice" regarding beneficial ownership?
+326. What information can the Commission require from a shareholder via a primary notice?
+327. What is a "secondary notice" and when is it issued?
+328. Can the Commission provide information obtained via beneficial ownership notices to the company?
+329. On what grounds can a person request that their beneficial ownership information not be disclosed?
+330. What is the deadline for complying with a primary or secondary notice?
+331. Can a company charge a fee to a person for complying with a beneficial ownership notice?
+332. What are the requirements for the register of notices kept by a listed company?
+333. Are there any exceptions to civil or criminal liability for failing to give beneficial ownership information?
+Category 32: Exemptions, Regulations, and Offences
+334. What are the Commission’s powers regarding exemptions from compliance with the Act?
+335. Who has the authority to make regulations under the Securities Act?
+336. What matters regarding prospectuses can be regulated by the Head of State?
+337. What are the maximum fines that can be prescribed for offences under the regulations?
+338. How is the "state of mind" of a body corporate established in legal proceedings?
+339. Under what conditions is conduct by an agent deemed to be conduct by the body corporate?
+340. What is the liability of a director for an offence committed by their body corporate?
+341. What is the penalty for a director who fails to take reasonable steps to ensure compliance?
+342. What is the "wilfulness" requirement for sentencing a person to imprisonment for compliance failures?
+343. What constitutes the offence of "falsification of records"?
+344. What is the penalty for furnishing a false or misleading report to the Commission or Registrar?
+Category 33: Judicial Orders and Injunctions
+345. What orders can the Court make to compensate a person for losses resulting from market misconduct?
+346. Can the Commission apply for compensation orders on behalf of a group of people?
+347. What specific types of orders can the Court make, such as declaring contracts void?
+348. When can the Court prohibit payments or transfers of property to protect an "aggrieved person"?
+349. Can the Court require a natural person to deliver up their passport?
+350. Is the Commission required to provide an undertaking as to damages for interim orders?
+351. Who can apply to the Court for an injunction against a person engaging in conduct contravening the Act?
+352. What is the difference between a restraining injunction and a mandatory injunction?
+353. Can the Court order damages in addition to or in substitution for an injunction?
+354. Within what period must proceedings for the prosecution of an offence be brought?
+355. What is the default penalty for an offence where no specific penalty is provided?
+Category 34: Takeovers Code – Objectives and Formulation
+356. What are the primary objectives the Commission must consider when formulating a takeovers code?
+357. How does the code address the "efficient allocation of resources"?
+358. What is the objective regarding the international competitiveness of PNG’s capital markets?
+359. Can the Minister give directions to the Commission on the weight of specific objectives?
+360. Should the takeovers code require advance notice and publicity of takeovers?
+361. What are the requirements for "fair treatment" of security holders in a takeover?
+362. Does the code permit incremental acquisitions and partial bids?
+363. How should the code handle the compulsory acquisition of securities?
+364. What provisions can be made for "defensive tactics" in a takeover?
+365. Can the Commission define terms and expressions specifically for the takeovers code?
+366. What duties can the code impose on the directors of a target company?
+367. Are acquisitions arising from contracts signed before the code's approval exempt?
+Category 35: Takeovers Code – Approval and Revocation
+368. What is the process for the Minister to approve a recommended takeovers code?
+369. How many days after approval does the code come into force?
+370. Can the Minister request the formulation of a "further" takeovers code?
+371. What is the legal effect of the Minister revoking the approval of a takeovers code?
+372. Can a revocation notice include transitional and savings provisions?
+Category 36: Enforcement and Compliance in Takeovers
+373. What is the maximum duration for a "restraining order" issued by the Commission regarding takeovers?
+374. What eight specific actions can a Commission restraining order prohibit?
+375. Who is eligible to apply to the Court for an order regarding non-compliance with the takeovers code?
+376. Under what condition can a stock exchange or an offeror apply to the Court?
+377. What types of orders can the Court make to prohibit voting rights or payments in a takeover?
+378. Can the Court direct the forfeiture of securities for a code contravention?
+379. What powers does the Court have to vary or cancel a contract entered into in contravention of the code?
+380. How much weight can the Court give to the Commission’s initial restraining orders?
+381. What happens to the proceeds of a court-ordered disposal of securities?
+382. On what grounds can the Court "excuse" a failure to comply with the takeovers code?
+383. Can the Court compel a person to give evidence on oath during a takeover application?
+Category 37: Takeover Penalties and Criminal Offences
+384. What is the maximum pecuniary penalty for an individual who contravenes the takeovers code?
+385. What is the maximum pecuniary penalty for a body corporate regarding takeovers?
+386. What factors must the Court consider when determining the appropriate penalty for a takeover breach?
+387. What is the standard of proof in proceedings for pecuniary penalties?
+388. What is the statute of limitations for commencing proceedings for a pecuniary penalty?
+389. What is the penalty for an individual who contravenes a Commission restraining order?
+390. What is the penalty for a body corporate and its directors for contravening a restraining order?
+Category 38: Additional Regulatory Oversight Questions (Staff Deep-Dive)
+391. How should the Commission interpret "unreasonable refusal" to comply with a notice to give evidence?
+392. What are the specific protections for the Commission when taking evidence for overseas bodies?
+393. How does the Commission verify the "expert knowledge" of a person before employing them?
+394. What is the legal significance of a "common seal" for the Commission?
+395. How does the Commission handle vacancies in the chairmanship during investigations?
+396. What constitutes "reasonable grounds" for a person to request a record of evidence?
+397. How should the Commission monitor the "satisfactory provision" of training by stock exchanges?
+398. What defines "just and equitable principles" in the transaction of business for exchange members?
+399. How does the Commission assess "due regard to the interests of the public" in exchange rules?
+400. What is the Commission’s role in assessing the "explanation of the purpose" of rule amendments?
+401. How should the Commission coordinate with issuers when prohibiting trading in their securities?
+402. What defines "lawful excuse" for refusing an authorised person access to a trading floor?
+403. How does the Commission track "associated persons" of bodies corporate on an official list?
+404. What is the audit standard required for fidelity fund financial statements?
+405. How should the Commission review the "amount of levy" determined by an exchange board?
+406. What constitutes "pecuniary loss" from defalcation versus simple market loss?
+407. How should the Commission verify "reasonable costs incidental to making a claim"?
+408. What are the Commission's expectations for "good faith and without malice" in public notices?
+409. How does the Commission assess if a claimant has "exhausted all relevant rights of action"?
+410. What defines a "close business associate" for the purposes of public offering exemptions?
+411. How should the Commission verify "bona fide underwriting agreements"?
+412. What constitutes "random selection" of the public in a modern digital context?
+413. How does the Commission handle "notional dividends" in the context of share allotments?
+414. What are the Commission's standards for "clearly legible" text in a prospectus?
+415. How should the Commission evaluate "omissions of material particulars" in a prospectus?
+416. What is the Commission’s procedure for notifying the Registrar of a suspension?
+417. How should the Commission monitor "trust accounts" for subscriptions during a suspension?
+418. What defines "due inquiry" for a trustee before applying to the Court?
+419. How does the Commission approve "classes of persons" to act as trustees?
+420. What is the Commission’s role in ensuring issuers keep registers of securities in PNG?
+421. How should the Commission review "reasonable restrictions" on register inspections?
+422. What defines "reasonable accuracy" in determining the financial position of an issuer?
+423. How should the Commission handle accounting records kept outside of Papua New Guinea?
+424. What are the Commission’s expectations for "English written form" in accounting?
+425. How does the Commission identify "misleading context" in an advertisement?
+426. What constitutes "reasonable public notice" of a withdrawal of consent by a director?
+427. How should the Commission evaluate "competency" of an expert in a legal defence?
+428. What are the criteria for "immaterial" contraventions that excuse a person from conviction?
+429. How should the Commission coordinate "written consent" for the Registrar to bring prosecutions?
+430. What defines "actual or apparent authority" of an employee in attributing conduct?
+431. How does the Commission interpret "honestly and reasonably" in granting relief?
+432. What constitutes "resisting or obstructing" an inspector under Section 85?
+433. How should the Commission handle "confidential information" acquired during an inspection?
+434. What are the "special reasons" the Commission considers for non-disclosure of ownership?
+435. How does the Commission monitor the "standard of proof" in civil penalty cases?
+436. What is the Commission’s policy on "interim injunctions" without undertakings for damages?
+437. How should the Commission define "incremental acquisitions" in the Takeovers Code?
+438. What are the requirements for a "full and informed" target company in a takeover?
+439. How should the Commission evaluate "partial bids" for securities?
+440. What constitutes a "defensive tactic" that requires regulation in PNG?
+441. How should the Commission handle "incremental acquisitions" that occurred before the code?
+442. What is the process for the Commission to allow "opportunity for submissions" on the code?
+443. How should the Commission recommend "amendments" to an already approved code?
+444. What defines "non-compliance" that justifies a 21-day restraining order?
+445. How does the Commission assess "loss or damage" suffered by target shareholders?
+446. What constitutes "aiding and abetting" a contravention of the takeovers code?
+447. How should the Commission utilise "discovery and interrogatories" in its investigations?
+448. What are the "transitional and savings" provisions the Commission should recommend?
+449. How does the Commission interpret "misdescription or error" in a trust deed?
+450. What constitutes "proper protection" of securities holders in a trust deed?
+451. How should the Commission manage "fees and charges" prescribed by regulations?
+452. What are the Commission’s powers to "require payment of costs"?
+453. How does the Commission handle "conduct engaged in by a corporation sole"?
+454. What defines "Government department, agency or authority" in the context of exemptions?
+455. How does the Commission treat "cinematic film" as a means of distribution?
+456. What is the Commission’s view on "facsimile" signatures for securities certificates?
+457. How should the Commission handle "negative, tape, or other device" in evidence?
+458. What is the Commission’s role in assessing "good character and high business integrity"?
+459. How does the Commission coordinate with the "National Provident Fund"?
+460. What are the Commission’s standards for "training and experience" in stock exchanges?
+461. How does the Commission define "just and equitable principles" for disciplining members?
+462. What constitutes "satisfactory provision" for monitoring compliance with rules?
+463. How should the Commission evaluate the "public interest" in granting exchange approval?
+464. What is the Commission’s procedure for "disallowing" a rule amendment?
+465. How does the Commission "send a report" to an exchange after prohibiting trading?
+466. What defines "full and free access" to a trading floor?
+467. How should the Commission handle "qualified privilege" for disciplinary employees?
+468. What constitutes "proper accounts" for a fidelity fund?
+469. How does the Commission verify "bank in the country" for fund deposits?
+470. What are the Commission’s expectations for "management sub-committees"?
+471. How should the Commission handle "advances" from general funds to the fidelity fund?
+472. What constitutes "fraud" versus "defalcation" for a compensation claim?
+473. How does the Commission evaluate "reasonable grounds for believing" in former members?
+474. What defines "actual pecuniary loss" including costs of proof?
+475. How should the Commission handle "disallowed claims" in its oversight role?
+476. What constitutes "evidence of any admission or confession" in fidelity claims?
+477. How should the Commission coordinate "criminal proceedings" with the fidelity fund?
+478. What are the Commission’s views on "fidelity insurance business"?
+479. How should the Commission handle "apportionment" of limited fund assets?
+480. What defines "selected at random" for public offering purposes?
+481. How should the Commission interpret "habitually invest money" for exemptions?
+482. What constitutes "bona fide underwriting" in the Commission’s view?
+483. How does the Commission monitor "notional dividends" and share allotments?
+484. What defines "immaterial" matters that excuse a person from conviction?
+485. How should the Commission evaluate "reasonable care" in making statements?
+486. What constitutes "dishonest concealment of material facts"?
+487. How should the Commission track "illegal transactions" and their dissemination?
+488. What defines "material effect" on price in insider trading?
+489. How should the Commission interpret "readily observable matter"?
+490. What constitutes a "reasonable period" for information dissemination?
+491. How should the Commission view "incite, induce, or encourage"?
+492. What are the Commission’s expectations for "Chinese Wall" effectiveness?
+493. How should the Commission evaluate "specific instructions" in agency transactions?
+494. What constitutes "public interest" for the Commission to bring a recovery action?
+495. How should the Commission handle "onus of proving" same act or transaction?
+496. What defines a "party to a listing agreement"?
+497. How should the Commission handle "beneficial owner" vs "registered holder"?
+498. What constitutes "power to control" the exercise of a right to vote?
+499. How should the Commission interpret "bare trustee" for interest exclusions?
+500. What are the Commission’s standards for "prescribed form" in substantial shareholding?
+

@@ -1,0 +1,251 @@
+/* Market Data Page - Integrated with Intranet Theme */
+
+:root {
+    /* Dynamic company accent colors (changes per selection) */
+    --company-primary: #0066cc;
+    --company-secondary: #0099ff;
+    --company-glow: rgba(0, 102, 204, 0.3);
+}
+
+/* Market Data Page Container */
+.market-data-page {
+    background: hsl(var(--background));
+    color: hsl(var(--foreground));
+    min-height: 100vh;
+}
+
+/* Fullscreen mode styles */
+.market-data-page:fullscreen {
+    min-height: 100vh;
+    overflow-y: auto;
+}
+
+.market-data-page:-webkit-full-screen {
+    min-height: 100vh;
+    overflow-y: auto;
+}
+
+.market-data-page:-moz-full-screen {
+    min-height: 100vh;
+    overflow-y: auto;
+}
+
+.market-data-page:-ms-fullscreen {
+    min-height: 100vh;
+    overflow-y: auto;
+}
+
+/* Animated background grid */
+.bg-grid {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image:
+        linear-gradient(hsl(var(--border) / 0.3) 1px, transparent 1px),
+        linear-gradient(90deg, hsl(var(--border) / 0.3) 1px, transparent 1px);
+    background-size: 60px 60px;
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* Status dot pulse animation */
+@keyframes pulse {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.4;
+    }
+}
+
+.status-dot {
+    animation: pulse 2s infinite;
+}
+
+/* Chart container specific styles */
+.chart-container {
+    position: relative;
+    height: 380px;
+    margin-bottom: 20px;
+    background: hsl(var(--muted) / 0.2);
+    border-radius: calc(var(--radius) - 2px);
+    padding: 16px;
+}
+
+.chart-canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/* Gradient overlay for chart - adapts to theme */
+.chart-gradient-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 120px;
+    background: linear-gradient(to top, hsl(var(--card)) 0%, transparent 100%);
+    pointer-events: none;
+    z-index: 2;
+}
+
+/* Company logo in chart */
+.company-logo {
+    width: 56px;
+    height: 56px;
+    border-radius: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 14px;
+    color: hsl(var(--primary-foreground));
+    background: linear-gradient(135deg, var(--company-primary), var(--company-secondary));
+    box-shadow: 0 0 40px var(--company-glow);
+    transition: all 0.5s ease;
+}
+
+/* Volume bars */
+.volume-bars {
+    display: flex;
+    align-items: flex-end;
+    gap: 2px;
+    height: 40px;
+    margin-top: 12px;
+}
+
+.vol-bar {
+    flex: 1;
+    opacity: 0.4;
+    border-radius: 2px 2px 0 0;
+    transition: all 0.3s;
+}
+
+.vol-bar:hover {
+    opacity: 0.8;
+}
+
+/* Live ticker indicator */
+.live-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: hsl(var(--primary));
+    animation: pulse 1.5s infinite;
+}
+
+/* Heatmap grid */
+.heatmap-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+}
+
+.heat-cell {
+    padding: 14px 12px;
+    border-radius: calc(var(--radius) - 4px);
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s;
+    position: relative;
+    overflow: hidden;
+}
+
+.heat-cell::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: opacity 0.2s;
+}
+
+.heat-cell:hover::before {
+    opacity: 0.1;
+    background: hsl(var(--foreground));
+}
+
+.heat-symbol {
+    font-weight: 700;
+    font-size: 13px;
+    color: hsl(var(--card-foreground));
+}
+
+.heat-change {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-size: 11px;
+    margin-top: 4px;
+    opacity: 0.8;
+}
+
+/* Comparison Chart */
+.compare-chart-container {
+    height: 140px;
+    width: 100%;
+    position: relative;
+}
+
+.compare-chart-container canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/* Custom scrollbar for news feed */
+.overflow-y-auto {
+    scrollbar-width: thin;
+    scrollbar-color: hsl(var(--muted-foreground) / 0.3) transparent;
+}
+
+.overflow-y-auto::-webkit-scrollbar {
+    width: 6px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.overflow-y-auto::-webkit-scrollbar-thumb {
+    background-color: hsl(var(--muted-foreground) / 0.3);
+    border-radius: 3px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-thumb:hover {
+    background-color: hsl(var(--muted-foreground) / 0.5);
+}
+
+/* Responsive adjustments */
+@media (max-width: 1100px) {
+    .main-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .market-right-panel {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .market-right-panel>* {
+        flex: 1;
+        min-width: 280px;
+    }
+}
+
+@media (max-width: 768px) {
+    .kpi-row {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .topbar {
+        flex-direction: column;
+        gap: 16px;
+        align-items: stretch;
+    }
+
+    .controls {
+        flex-wrap: wrap;
+    }
+}

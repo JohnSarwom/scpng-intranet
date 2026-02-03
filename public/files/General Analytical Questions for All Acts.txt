@@ -1,0 +1,520 @@
+Header 1: Governance Risk & Institutional Integrity
+Focus: Conflicts between political oversight and regulatory independence.
+1. How does the "public interest" objective in SCA s. 7 conflict with specific market efficiency mandates in CMA s. 13?
+2. Could the Minister's power to appoint one-third of exchange directors (CMA s. 12) undermine the "independent" regulatory facade of SCA s. 6?
+3. What is the latent risk of a "vacancy" in the Chairman position being filled by a "senior officer" under SCA s. 22(5) who lacks the statutory independence of a full appointee?
+4. Does SCA s. 26 allow for an "indirect pecuniary interest" to be excused if it is not "being considered by the Commission" at that specific moment?
+5. How does the "common seal" custody rule in SCA s. 5 create a single point of failure for legal authentication?
+6. In what ways do the "qualified rights" under SCA s. 1 create grounds for constitutional challenges against CMA enforcement actions?
+7. Does the Commission’s power to "own proprietary rights" (SCA s. 4) create a commercial conflict with its role as a neutral regulator?
+8. How does the Appointment Committee's composition (SCA s. 18) ensure technical competence over political alignment?
+9. What safeguards prevent the "Advisory Committee" (CDA s. 9) from becoming a lobbying arm for market participants?
+10. Is the 75-year age limit in SCA s. 22 a rigid barrier or a target for tactical removals?
+11. How does CMA s. 19's notice requirement for "conflict of interest" apply if the conflict is at the Commission-Board level itself?
+12. Does SCA s. 11 delegation power allow for the outsourcing of core "fit and proper" assessments to private vendors?
+13. What prevents the "Capital Market Development Fund" (CMA s. 428) from being used to subsidise regulatory failures?
+14. How is the "casting vote" of the Chairman under SCA s. 27 audited for potential bias in split decisions?
+15. Does the "good faith" indemnity in SCA s. 115 encourage regulatory overreach?
+16. How does CMA s. 51 removal of directors bypass the protections in the Companies Act 1997?
+17. What is the risk of the "public interest directors" (CMA s. 12) having no specific "fit and proper" criteria defined in the Act?
+18. Does the Chairman's duty to "devote whole time" (SCA s. 10) preclude involvement in international standard-setting bodies?
+19. How does SCA s. 20 define "unsound mind" in a way that is not prone to legal dispute?
+20. Can the Commission’s "independence" be maintained if its funding relies on "sums provided by Parliament" under CMA s. 429?
+21. What happens if the Appointment Committee fails to reach a quorum under SCA s. 18?
+22. How does CMA s. 436 disclosure of interest for Fund Board members compare to the stricter SCA requirements?
+23. Does the ability to "sue and be sued" (SCA s. 4) create a liability that necessitates a specific insurance reserve?
+24. How is "neglect of duty" defined for the purpose of removing a Chairman under SCA s. 12?
+25. Does the Commission have the power to regulate the "Appointment Committee" itself?
+26. What is the systemic risk of the Commission acting as both "prosecutor and judge" in administrative actions under CMA s. 443?
+27. How does CMA s. 23 "suspension order" affect the legal status of existing contracts if it lasts longer than 6 months?
+28. Is the "Circular Resolution" power in SCA s. 28 a risk to deliberative transparency?
+29. Does the "independence" in SCA s. 6 apply to the budget of the Commission or just its decisions?
+30. What constitutes "unacceptable circumstances" in corporate governance under SCA s. 54?
+31. How does the Commission verify "high business integrity" for exchange membership under CMA s. 9?
+32. Does the "independence" of the Commission conflict with the "advice of the Minister" for staff engagement under SCA s. 36?
+33. How are "public interest directors" compensated to ensure they are not "captured" by the exchange?
+34. Does the Commission have a "duty of care" to the Minister under SCA s. 10?
+35. What defines "serious misconduct" for the Fund Board under CMA s. 434?
+36. Can the Minister override a Commission "decision" using the general power in CMA s. 455?
+37. How does the Commission handle a "conflict of interest" involving the Minister?
+38. What is the risk of "regulatory capture" if the Commission relies on "experts" from the industry under SCA s. 37?
+39. Does the "perpetual succession" in SCA s. 4 apply if the Act is repealed without a saving provision?
+40. How is the "repute of Papua New Guinea" in SCA s. 8 measured for regulatory performance?
+41. What ensures the "international experience" of Commissioners under SCA s. 19 is relevant to the PNG market?
+42. Does the Commission have the power to audit the "Appointment Committee"?
+43. How does the "leave of absence" for the Chairman (SCA s. 13) affect the quorum for urgent decisions?
+44. Can a "non-executive member" under SCA s. 16 hold a license issued by the Commission?
+45. What prevents the "Chairman's report" (SCA s. 15) from being edited by the Minister before tabling?
+46. How does the Commission define "integrity" for the purposes of SCA s. 19?
+47. Is there a conflict between the Commission’s role in "job creation" (SCA s. 7) and "market stability"?
+48. What is the risk of "Chief Executive" and "Chairman" roles being conflated under SCA s. 12?
+49. How does the Commission manage "insider" risks within its own Board?
+50. What is the judicial review standard for a "removal for disability" under SCA s. 12?
+Header 2: Regulatory Arbitrage & Jurisdictional Gaps
+Focus: Overlaps between the Commission, BPNG, and unlisted markets.
+51. How does the "exempted stock market" status for BPNG-operated systems (CMA s. 8(4)) create a shadow capital market?
+52. If a security is "unlisted" but "deposited," does CDA s. 3 oversight trump CMA s. 34 licensing?
+53. Does the definition of "dealing" in CMA s. 2 exclude the "mere transmission" of instruments, and how is this exploited?
+54. How does the "excluded offer" list in CMA Schedule 6 allow sophisticated investors to bypass prospectus protections?
+55. Is there a gap in "short selling" prohibitions (CMA s. 75) for over-the-counter derivatives?
+56. Does the "unit trust" definition in CMA s. 2 capture digital asset pools or tokenized real estate?
+57. How do "arrangements with other supervisory authorities" (CMA s. 339) prevent information from falling through the cracks?
+58. What is the arbitrage risk between "debt securities" under the Banks and Financial Institutions Act and the CMA?
+59. Can an entity be a "clearing house" for derivatives (CMA s. 30) without being a "central depository" under the CDA?
+60. How does the Commission resolve "conflicting directions" between it and BPNG under CMA s. 468?
+61. Is a "private company" debenture issue under CMA Schedule 8 completely unregulated for market misconduct?
+62. Does the "shelf registration" (CMA s. 136) allow for "zombie" prospectuses that contain stale data for derivatives?
+63. How does the Commission regulate "secondary markets" for excluded offers?
+64. Is there a gap in "insider trading" laws for unlisted "eligible securities" under the CDA?
+65. Does the "dematerialisation date" in CDA s. 2 apply to foreign securities traded in PNG?
+66. How does the Commission treat "hybrid instruments" that are both debt and derivatives under CMA s. 5?
+67. What prevents a "participating organisation" from using "nominee companies" to hide beneficial ownership across acts?
+68. Is the "money market" exemption in CMA Schedule 5 too broad for systemic risk monitoring?
+69. How does CDA s. 43 prohibition on depository "principal trading" apply to its subsidiaries?
+70. Does the Commission have jurisdiction over "offshore" derivatives offered to PNG residents under CMA s. 298?
+71. What is the risk of "regulatory competition" between the SC and Registrar of Companies?
+72. How is "advising on corporate finance" (CMA Schedule 2) distinguished from "legal advice" in takeovers?
+73. Does the "take-over offer" definition capture "schemes of arrangement" that achieve the same control shift?
+74. How does the "exempt derivatives market" (CMA s. 8) protect retail investors if "sophisticated" participants are involved?
+75. Can the Commission's "power of exemption" (CDA s. 73) be used to bypass CMA conduct rules?
+76. What defines "incidental" for a lawyer's exemption under CMA Schedule 3?
+77. Is a "managed investment scheme" that uses a "bare trust" (CMA s. 748) subject to the same audit as a unit trust?
+78. How does CDA s. 50 "notice of trust" invisibility affect the Commission’s "tracing" powers in CMA s. 407?
+79. What is the systemic risk of "linkages" between depositories (CDA s. 74) if the foreign depository is unregulated?
+80. Does the Commission regulate "investment advice" provided through social media under SCA s. 2 "distribute"?
+81. How does the "excluded issue" list in Schedule 7 interact with CDA s. 45 "public offer" notifications?
+82. Is there a gap in "prospectus liability" for information memorandums under CMA s. 125?
+83. Does the Commission monitor "unsolicited offers" for unlisted products under CMA s. 151?
+84. How does the "15% control" rule in CMA s. 4 interact with the "20% voting power" rule in CMA s. 416?
+85. What defines a "professional investor" for the purpose of the CMA?
+86. Is there a risk of "double regulation" for banks providing "custodian services" under CMA s. 98?
+87. How does the Commission treat "stablecoins" under the "debt security" or "derivative" definitions?
+88. Does CDA s. 17 trade restriction apply to "off-market" transfers of eligible securities?
+89. What is the gap in "market manipulation" for products not traded on a "stock market" as defined?
+90. How does the Commission coordinate with "foreign securities authorities" (SCA s. 2) for global derivatives?
+91. Does the "repeal" of the 1997 Act (SCA s. 117) leave "fidelity fund" claims in limbo for pre-2015 events?
+92. How does the Commission define "market day" (CDA s. 2) for 24/7 digital markets?
+93. Is an "employee share scheme" (CMA s. 137) a loophole for insider knowledge dissemination?
+94. How does the "branch register" rule (CMA s. 254) affect PNG-only tracing notices?
+95. What ensures that "exempted companies" under CMA s. 117 still meet basic transparency?
+96. Does the "standardised derivative" definition in CMA s. 2 exclude customised OTC swaps?
+97. How does the Commission verify the "market value" of unlisted units under CMA s. 242?
+98. Is there an arbitrage risk in "bonus issues" (Schedule 5) being used to bypass "listing approval" for new capital?
+99. Does SCA s. 39 allow the Commission to exempt itself from any provisions?
+100. How does the "33%" takeover trigger in CMA s. 276 reconcile with "substantial shareholding" at 5% in CMA s. 395?
+Header 3: Enforcement & Investigation Blind Spots
+Focus: Procedural gaps and unintended consequences of investigation powers.
+101. Does the "forceful entry without a warrant" (SCA s. 62) expose the Commission to significant civil damages if "reasonable possibility" is not proven?
+102. How does the "surrender of travel documents" (SCA s. 60) interact with the Constitutional right to liberty?
+103. Is "concealing books" under SCA s. 97 enforceable against encrypted data where the "book" is a digital key?
+104. Does SCA s. 64 "may not give a copy of book" prevent the Licensing Division from seeing evidence found by the Investigation Division?
+105. What constitutes "unreasonable expense" for a Magistrate to destroy seized property under SCA s. 58?
+106. How does the Commission ensure "natural justice" in "private" inquiries (SCA s. 74)?
+107. Does the "thumb print" requirement for statements (SCA s. 66) apply to digital recordings?
+108. What prevents an "Investigating Officer" from using information for personal gain given the 12-year statute of limitations in SCA s. 38?
+109. How is "speedy and natural decay" determined for securities certificates under SCA s. 59?
+110. Can a "stop order" under CMA s. 141 be ignored if the securities are already listed, and what is the "second-order" risk?
+111. Does the "civil penalty" in CMA s. 324 require a higher "burden of proof" than administrative sanctions?
+112. How does the Commission handle "privileged communications" with lawyers under CMA s. 391?
+113. What defines "obstructs or hinders" under SCA s. 17 vs SCA s. 95?
+114. Can the Commission "compound" an offence (SCA s. 105) that involves a victim who wants to prosecute?
+115. How does the Commission monitor "Chinese Wall" effectiveness (Securities Act 1997 s. 105) without real-time surveillance?
+116. Is the "standard of proof" for a takeover "pecuniary penalty" (CMA s. 292) too high for complex fraud?
+117. How does the Commission verify "inadvertence or mistake" in substantial shareholding defaults under CMA s. 314?
+118. What is the risk of "self-incrimination" protections (SCA s. 66) being used to stall complex investigations?
+119. Does a "Magistrate's warrant" (SCA s. 61) cover cloud-hosted data outside PNG jurisdiction?
+120. How does the Commission track "monies received" in trust under SCA s. 52?
+121. Is the "12-year" limitation period in SCA s. 38 consistent with the Frauds and Limitations Act 1988?
+122. What defines "reasonable basis" for a recommendation under CMA s. 68?
+123. Can the Commission "freeze assets" of a bank under SCA s. 40 without a court order?
+124. How is the "net income" levy for the Compensation Fund (CMA s. 346) verified for accuracy?
+125. Does the "qualified privilege" for exchange disciplinary proceedings (Securities Act 1997 s. 26) persist under the 2015 Acts?
+126. What defines "frivolous or vexatious" for beneficial ownership notices under CMA s. 135?
+127. How does the Commission enforce "restraining orders" (CMA s. 281) against offshore entities?
+128. Is there a "whistleblower" protection for non-listed corporation employees under CMA s. 382?
+129. How does the Commission recover "investigation expenses" if the entity is insolvent (SCA s. 91)?
+130. What constitutes "material incompleteness" in a filing under CMA s. 120?
+131. Can the Commission require a "journalist" to disclose sources under CMA s. 63?
+132. How is "recklessness" proven in "false statements" under CMA s. 301?
+133. What defines "due diligence" as a defence for prospectus errors under CMA s. 146?
+134. Can a "receiver" appointed under CMA s. 449 ignore existing "liens" on property?
+135. How does the Commission audit "trust accounts" (SCA s. 52) for misappropriation?
+136. Is "contempt of the Commission" (SCA s. 96) a criminal or civil offence?
+137. How does the Commission handle "cross-border" insider trading under CMA s. 298?
+138. What prevents "information leaks" from the Commission during an inquiry under SCA s. 75?
+139. Can the Commission "invoice back" derivatives positions (CMA s. 444) without market disruption?
+140. How is "market manipulation" intent proven under Securities Act 1997 s. 95?
+141. Does "qualified privilege" (SCA s. 115) protect a Commissioner from defamation?
+142. How does the Commission define "imminent danger" for an injunction under Securities Act 1997 s. 144?
+143. What is the risk of "false information" being given under oath to the Commission (SCA s. 94)?
+144. Can the Commission "search any person" (SCA s. 56) without a specific suspicion of a crime?
+145. How does the Commission verify "parity of information" for unlisted securities under CMA s. 322?
+146. What ensures that "compound" monies (SCA s. 105) are paid into the correct fund?
+147. Can the Commission "reprimand" an entity (CMA s. 443) without a public hearing?
+148. How does the Commission monitor "bucketing" in real-time?
+149. Is "market rigging" possible in a "dark pool" electronic facility under CMA s. 27?
+150. What constitutes "unacceptable corporate governance" for an investigation trigger?
+Header 4: Licensing-Supervision Mismatches
+Focus: Disconnects between "front-gate" approval and "back-office" monitoring.
+151. If a license is "deemed" granted due to delay, how is the "fit and proper" check finalised?
+152. Does the Licensing Division verify "automated systems capacity" (CMA s. 13) before approval?
+153. How is the "minimum financial requirement" (CMA s. 43) monitored between annual audits?
+154. What constitutes "sufficient human resources" for a trade repository under CMA s. 77?
+155. Can a "registered person" (CMA s. 52) bypass the "representative" license requirements?
+156. How does the Commission track "material changes" in license particulars (CMA s. 54)?
+157. Does the "variation of license" (CMA s. 45) require a full re-audit of the entity?
+158. What is the risk of a "licensed person" acting as its own "auditor"?
+159. How does the Commission supervise "outsourced" functions of a trustee under CMA s. 190?
+160. Is the "K50,000 deposit" (CMA s. 46) sufficient for a fund manager with K1 billion AUM?
+161. How does Licensing reconcile "associated person" disclosures with CDA beneficial ownership?
+162. Can a "casual employee" (SCA s. 33) perform licensing assessments?
+163. What prevents a "revoked" license holder from continuing as a "consultant"?
+164. How is "educational qualification" (CMA s. 41) verified for international applicants?
+165. Does the "fit and proper" criteria in CMA s. 40 include environmental or social governance records?
+166. How does Supervision monitor "priority of client orders" (CMA s. 70) in high-frequency trading?
+167. Is there a gap in "insurance contract" verification for licensees under CMA s. 46?
+168. How does the Commission supervise "financial planning" (Schedule 2) provided by lawyers?
+169. Can a "licensed person" hold a "public interest director" seat?
+170. What ensures "quarterly reports" (CMA s. 17) are actually reviewed by technical staff?
+171. How is "soundness of judgment" (CMA s. 40) objectively measured during licensing?
+172. Does a "surrender of license" (CMA s. 57) trigger an immediate forensic audit?
+173. How does the Commission supervise "venture capital" registered persons under Schedule 4?
+174. What is the risk of "license jumping" where individuals move between siloed regulated activities?
+175. How does the Commission handle "probationary" licenses?
+176. Can a license be "transferred" (CMA s. 45) without public notice?
+177. How is "competent personnel" (CDA s. 5) verified for a central depository?
+178. What prevents "licensed institutions" from misusing the "registered person" status?
+179. How does the Commission supervise "audio or visual" information services (CMA s. 2)?
+180. Is the "fit and proper" check in CMA s. 51 applied to all senior managers or just directors?
+181. How does the Commission supervise "nominee companies" of the central depository?
+182. Can a "representative" work for two "license holders" simultaneously?
+183. How is "character and reputation" (SCA s. 19) vetted in jurisdictions with no reciprocal enforcement?
+184. What constitutes "essential business operations" during a license suspension (CMA s. 49)?
+185. How does the Commission supervise "underwriters" who are not "licensed persons" (CMA s. 116)?
+186. Can a "registered person" be fined under the same gravity as a "licensed person" (CMA s. 443)?
+187. How does Supervision monitor "joint dealings" between employees and licensees (CMA s. 71)?
+188. What ensures that "contract notes" (CMA s. 66) are issued for OTC trades?
+189. How is "brokerage" reasonableness supervised under CMA s. 88?
+190. Can the Commission "withdraw registration" (CMA s. 52) without a breach?
+191. How does Licensing detect "undischarged bankrupts" in foreign jurisdictions?
+192. Is the "fit and proper" status of "principal officers" reviewed upon a change in "controller"?
+193. How does the Commission supervise "advising on corporate finance" for unlisted entities?
+194. What constitutes "properly equipped premises" (CMA s. 9) in a remote work era?
+195. How are "financial journalists" (CMA s. 58) monitored for "pump and dump" schemes?
+196. Does Licensing require a "business continuity plan" for all capital market products?
+197. How does the Commission supervise "bond pricing agencies" (Schedule 4)?
+198. Can a license be renewed (CMA s. 37) if the entity is under investigation?
+199. How is "discredited conduct" (CMA s. 40) defined in the absence of a conviction?
+200. What is the mismatch between "auditor" independence rules in CMA s. 103 and local market size?
+Header 5: Data & Information Asymmetries
+Focus: Secrecy, reporting gaps, and the "Invisibility" of beneficial ownership.
+201. Does CDA s. 51 "reasonable security measures" mandate encryption standards?
+202. How does CMA s. 388 "production of books" apply to data held in decentralized ledgers?
+203. Is "information" in CMA s. 2 broad enough to cover metadata and communication logs?
+204. How does the Commission detect "structuring" to bypass the 5% substantial holding limit?
+205. Can an "authorised nominee" (CDA s. 31) legally withhold the beneficial owner's identity from the issuer?
+206. What is the risk of "permitted disclosures" (CDA s. 54) being used for corporate espionage?
+207. How does the Commission ensure "information insiders" (CMA s. 307) do not use "supposition"?
+208. Does CDA s. 41 "record of depositors" allow for real-time issuer transparency?
+209. How is "material information" defined for "continuous disclosure" under CMA s. 401?
+210. What defines "readily observable matter" for "generally available" info in CMA s. 309?
+211. Can the Commission access "attorney-client" privileged data during a "systemic risk" event (CMA s. 337)?
+212. How does the "interests register" (CMA s. 383) prevent CEOs from using proxies?
+213. Is there a gap in "tracing" powers (CMA s. 407) for derivatives that reference foreign indices?
+214. How does the Commission handle "false or misleading" reports to the exchange (CMA s. 458)?
+215. Does the "obligation of secrecy" (SCA s. 113) prevent sharing info with the "Tax Office"?
+216. How is "confidentiality" maintained during "joint investigative efforts" (SCA s. 42)?
+217. Can the Commission refuse to disclose "inspection" existence (Securities Act 1997 s. 93)?
+218. How does the "data recording" definition in CMA s. 58 capture ephemeral messaging apps?
+219. What ensures that "auditors" report "irregularities" (CMA s. 105) without fear of dismissal?
+220. How does the Commission detect "informal arrangements" acting in concert for takeovers?
+221. Is the "K100 fee" for record inspection (CDA s. 41) a barrier to transparency?
+222. How is "price-sensitive information" defined for OTC derivatives (CMA s. 332)?
+223. Does the Commission have the "computing power" to audit "electronic facilities" (CMA s. 27)?
+224. How does the "10% ownership" rule for Commissioners (SCA s. 10) prevent indirect influence?
+225. Can the "Trade Repository" (CMA s. 84) share data with "law enforcement" directly?
+226. What defines "material omission" in an "information memorandum" (CMA s. 125)?
+227. How does the Commission monitor "financial journalists" who are also "license holders"?
+228. Is there a risk of "data silos" between the "Central Depository" and "Clearing House"?
+229. How is "expert consent" (CMA s. 140) verified as genuine and not coerced?
+230. Can a "depositor" hide behind a "trust" if CDA s. 50 prevents trust notice?
+231. How does the Commission handle "leakage" of information to "associated persons"?
+232. Is "news genuine comment" (CMA s. 137) a loophole for market manipulation?
+233. How does the Commission audit the "automated systems" of an exchange (CMA s. 13)?
+234. Can a "listed corporation" withhold info from the "Supervision Division" by claiming it is not "material"?
+235. How is "beneficial ownership" defined for "debt securities" in CDA s. 2?
+236. What prevents "data alteration" in a "mechanical device" depository (CDA s. 62)?
+237. How does the Commission supervise "interactive videotext" information services?
+238. Can the Commission "require delivery of books" (SCA s. 100) from a "nominee"?
+239. How is "unpublished price-sensitive information" tracked for corporate insiders?
+240. Does the "interests register" public inspection (CMA s. 384) expose CEOs to safety risks?
+241. How does the Commission verify "nationality" in the record of depositors (CDA s. 41)?
+242. Is there a gap in "reporting" for derivatives that reference "exchange rates" (CMA s. 84)?
+243. How does the Commission handle "privileged" info from a "liquidator" (CMA s. 391)?
+244. What defines "news report" vs "advertisement" in a digital news feed?
+245. Can the Commission "restrict publication" of evidence in a "public" inquiry (SCA s. 75)?
+246. How does the "3-day" notice for inspection (CMA s. 738) prevent document destruction?
+247. Is there a "standard" for "prospectus" diagrams and photographs (Securities Act 1997 s. 66)?
+248. How does the Commission monitor "social media network" records (SCA s. 2)?
+249. Can a "trade repository" refuse a "Commission request" for data (CMA s. 84)?
+250. How is "soundness of judgment" verified against "accounting records"?
+Header 6: Systemic Vulnerabilities & Interdependencies
+Focus: Clearing, settlement, and cascade failures.
+251. How does the "Guarantee Fund" (CDA s. 56) cover a systemic default of multiple participants?
+252. Is the "subrogation" of the depository (CDA s. 56) effective against a bankrupt participant's "secured creditors"?
+253. What is the "cascade risk" if a "settlement partner" bank (CDA s. 8) fails?
+254. How does the Commission manage "systemic risk" (CMA s. 338) without a "Lender of Last Resort" power?
+255. Can the "closure of an exchange" (CMA s. 20) for 5 days prevent a market panic or worsen it?
+256. What is the risk of "cross-default" between the Compensation Fund and Fidelity Fund?
+257. How does "termination and set-off" (CDA s. 44) affect the liquidity of remaining participants?
+258. Is there a systemic risk in "central handling" (CDA s. 3) if the computer system has a total failure?
+259. How does the Commission handle "economic crisis" directives under CMA s. 20?
+260. Can "unlisted debt" trading systems (Schedule 1) destabilize the main exchange?
+261. How does the "Guarantee Fund" interact with the "Bank of Papua New Guinea" systems?
+262. What is the risk of "realising assets" (CDA s. 44) into a falling market during an insolvency?
+263. Is the "K50 million" limit for the Compensation Fund (CMA s. 348) a hard cap or a target?
+264. How does the Commission monitor "margins" for OTC derivatives (CMA s. 21)?
+265. What defines "financial distress" for a "significant market participant" (CMA s. 336)?
+266. Can a "systemic risk" directive (CMA s. 338) bypass the right to be heard?
+267. How is "financial stability" defined for coordination with the BPNG?
+268. Is there a systemic risk in "under-subscriptions" (CMA s. 166) being retained?
+269. How does "short selling" prohibition (CMA s. 75) affect market liquidity in a crash?
+270. What prevents a "clearing house" from becoming "Too Big To Fail"?
+271. How does "dematerialisation" (CDA s. 24) affect "proof of ownership" in a cyber-attack?
+272. Is the "14-day" certificate delivery rule (CDA s. 19) a risk to "T+2" settlement?
+273. How does the Commission manage "emergency" automated system rules (CMA s. 13)?
+274. Can the "Capital Market Development Fund" be used for "bailouts"?
+275. What is the risk of "foreign linkages" (CDA s. 74) causing contagion from overseas markets?
+276. How is "insolvency" defined for a "registered scheme" (CMA s. 2)?
+277. Can a "fidelity fund" levy (CMA s. 349) cause a participant to fail?
+278. How does "immobilisation" (CDA s. 2) affect "real property" backed securities?
+279. What defines "orderly functioning" of the capital market (CMA s. 336)?
+280. How is "public confidence" measured for systemic risk triggers?
+281. Can the Commission "modify trading hours" (CMA s. 21) for global products?
+282. How does the "Guarantor" duty (CMA s. 167) manage systemic credit risk?
+283. Is there a risk in "standardised agreements" for derivatives (CMA s. 2) being mispriced?
+284. How does "physical stock count" (CDA s. 34) reconcile with "dematerialised" records?
+285. Can "unlisted deposited securities" (CDA s. 2) be used as "systemic" collateral?
+286. How does the Commission monitor "contingent liabilities" of the depository?
+287. Is the "T+3 market days" for record issuance (CDA s. 41) too slow for crisis management?
+288. How does "lien over unpaid securities" (CDA s. 42) affect settlement finality?
+289. What defines "emergency" for the purposes of the CDA?
+290. Can the Commission "direct a clearing house" (CMA s. 20) to ignore its own rules?
+291. How is "liquidity" of a scheme (CMA s. 257) calculated for complex assets?
+292. Is there a risk of "buy-back covenants" (CMA s. 321) draining systemic liquidity?
+293. How does the Commission manage "over-the-counter" market coordination with BPNG?
+294. Can "market rigging" create a "cascade" of margin calls?
+295. How is "wrongful loss" (CMA s. 377) distinguished from "market loss"?
+296. Is the "Compensation Fund" balance sheet (CMA s. 345) public?
+297. How does "subrogation" (CMA s. 354) work if the exchange is also insolvent?
+298. Can a "suspension order" (CMA s. 23) be appealed to the Minister?
+299. What ensures "T+1" repayment for "call debt securities" (CMA s. 2)?
+300. How does the Commission handle "settlement" of market contracts during a "closure"?
+Header 7: Product Innovation & Asset Protection
+Focus: Derivatives, schemes, and the safety of client property.
+301. Does the "derivative" definition (CMA s. 2) cover "carbon credits" or "crypto-options"?
+302. How is "client money" (CMA s. 2) segregated from "firm money" in digital wallets?
+303. Is "fund management" (Schedule 2) regulated if it is "algorithmic" and not human?
+304. How is the "consideration" of a derivative (CMA s. 2) valued for "unlisted" underlying assets?
+305. Does "managed investment scheme" (CMA s. 2) capture "crowdfunding" ventures?
+306. How are "pure risk contracts" (CMA s. 2) distinguished from "derivatives"?
+307. What constitutes "safe custody" for dematerialised property under CMA s. 95?
+308. Is a "custodian" (CMA s. 98) liable for "sub-custodian" failures?
+309. How does the Commission verify "physical stock" of gold-backed derivatives?
+310. Can "scheme property" (CMA s. 183) be "borrowed" by the trustee for its own operations?
+311. How is "market value" determined for "liquid assets" in a non-liquid market?
+312. Does a "trust deed" modification (CMA s. 211) allow for "fee hikes" without member consent?
+313. How are "unclaimed monies" (CMA s. 270) protected from "administrative" use by the Commission?
+314. Can a "trustee" avoid "due diligence" liability by "outsourcing" to an agent?
+315. How are "debts and liabilities" of a client (CMA s. 94) calculated for "margin" offsets?
+316. Does "client property" (CMA s. 2) include "intellectual property" used as collateral?
+317. How is "suitability" of advice (Schedule 10) monitored for automated robo-advisors?
+318. What defines a "willing but not anxious buyer" for unlisted unit valuation?
+319. Can a "non-liquid scheme" (CMA s. 258) offer "assets" instead of "cash" for withdrawals?
+320. How does the Commission regulate "stablecoin" backing assets under CMA s. 194?
+321. Is "bucketing" (CMA s. 327) detectable in "off-market" derivatives?
+322. How is "cornering" (CMA s. 229) defined for "thinly traded" local commodities?
+323. Does "underlying" (CMA s. 2) cover "weather" or "political events"?
+324. Can "client assets" be used for "stock lending" without specific consent?
+325. How is "fraudulent misuse" (CMA s. 352) distinguished from "poor investment strategy"?
+326. What defines "adequate provision" for complaints in a trust deed?
+327. Is "hedge fund" (CMA s. 210) regulation lighter than "unit trusts"?
+328. How does the Commission handle "perpetual debentures" (CMA s. 181)?
+329. Can "over-subscriptions" (CMA s. 166) be kept by the issuer if the project is "cancelled"?
+330. How is "misleading" defined for a "promise or forecast" (CMA s. 302)?
+331. Does "dealing" include "issuing" a derivative?
+332. How is "indebtedness" (CMA s. 166) verified for "digital" debentures?
+333. What ensures "valuation at regular intervals" (CMA s. 191) is accurate for illiquid assets?
+334. Can a "trustee" retire (CMA s. 200) if the scheme is "insolvent"?
+335. How are "voting products" (CMA s. 2) defined for "DAO" structures?
+336. What is the risk of "commingling" client funds in "one or more trust accounts" (CMA s. 88)?
+337. Is "market price" (CMA s. 299) an objective fact in a manipulated market?
+338. How is "loss avoided" (CMA s. 324) calculated for a "non-trade"?
+339. Can the Commission "order disposal" of assets (CMA s. 449) without a trial?
+340. How is "wrongful loss" intent (CMA s. 377) proven without a paper trail?
+341. Does "expert" (SCA s. 2) include "AI" auditing models?
+342. How are "foreign currency denominated debentures" (Schedule 8) supervised for FX risk?
+343. Can a "managed investment scheme" use "leverage" not specified in the deed?
+344. How is "significant change in business direction" (CMA s. 116) measured?
+345. Is "unsolicited recommendation" (CMA s. 151) enforceable against offshore influencers?
+346. How does the Commission verify "90% acceptance" for "compulsory acquisition"?
+347. What defines "fair and reasonable" consideration in a takeover (CMA s. 297)?
+348. Can "branch registers" (CMA s. 254) be used to bypass "PNG-only" disclosure notices?
+349. How is "short selling" defined for "covered" vs "naked" positions in the CMA?
+350. Is "bucket shop" activity identifiable through "trade repository" data (CMA s. 84)?
+Header 8: Cross-Act & Transitional Risks
+Focus: Implementation failures and "legacy" overlaps.
+351. Does the "repeal" (SCA s. 117) invalidate "exemptions" granted under the 1997 Act?
+352. How is "Fidelity Fund" transition (SCA s. 123) handled if liabilities exceed assets?
+353. What is the status of "pending appeals" (SCA s. 119) during the 2015 transition?
+354. How does the "saving" of the "Registrar" role (SCA s. 2) reconcile with the new Commission?
+355. Are "previous allotments" under Securities Act 1997 s. 53 grandfathered indefinitely?
+356. How does the "Takeovers Code 1998" repeal affect existing "hostile bids"?
+357. What defines "transitional provisions" for "dematerialisation" (CDA s. 24)?
+358. Can the Commission "modify" transitional anomalies without Parliament (SCA s. 122)?
+359. How does the "Indemnity" in CMA s. 465 apply to actions taken under repealed law?
+360. Is the "Fidelity Fund" (CMA s. 359) a "successor" to the 1997 Fund for all purposes?
+361. How are "ongoing investigations" (SCA s. 118) transferred between procedural regimes?
+362. What defines "bad faith" for actions taken under repealed law?
+363. Can a "Registrar" from 1997 still exercise "perpetual" powers in SCA s. 2?
+364. How does "branch register" status in the Companies Act affect CMA tracing?
+365. What is the risk of "repealed act" references in existing "trust deeds"?
+366. How does the Commission resolve "conflicts" between the CDA and CMA definitions of "securities"?
+367. Is there a gap in "criminal prosecution" (CMA s. 464) for 1997 Act offences?
+368. How is "substantial holding" calculated if shares are in "suspense" under the CDA?
+369. What ensures that "forms" under the 1997 Act are still "prescribed" (SCA s. 120)?
+370. Can the Commission "re-issue" a license that was "surrendered" under repealed law?
+371. How does "dematerialisation" affect "bearer securities" from the 1997 era?
+372. What defines "National Interest" (SCA s. 1) for the purposes of the 2015 regime?
+373. How does the "3-month" report to the Minister (SCA s. 15) differ from CMA periodic reports?
+374. Can "public interest directors" be removed if they were appointed under 1997 norms?
+375. How does the "secrecy" rule in CMA s. 81 interact with SCA s. 106 protection of informers?
+376. What ensures "international agencies" link (SCA s. 8) are not based on outdated treaties?
+377. How is "expert knowledge" (SCA s. 37) defined to prevent "legacy capture"?
+378. Can a "Magistrate's order" from 2014 be enforced by a 2016 "Investigating Officer"?
+379. What is the status of "exempted companies" (CMA s. 171) under the new SCA objectives?
+380. How is "market misconduct" under CMA Part VII applied to 2015 "transition" trades?
+381. Does "unrealised loss" (CMA s. 325) apply to 1997 Act "insider" cases?
+382. Can "compound" monies be applied to "Development Fund" or "Compensation Fund"?
+383. How is "National Court" jurisdiction managed for cross-act appeals?
+384. What defines "immaterial" contravention in CMA s. 293?
+385. How does the "6-year" limit in CMA s. 446 interact with the "12-year" limit in SCA s. 38?
+386. Is "wrongful loss" (CMA s. 377) applicable to conduct that was "legal" in 1997?
+387. How are "material misrepresentations" (CMA s. 137) tracked across "legacy" media?
+388. Can a "trade repository" be approved if it was formerly an "exempt market"?
+389. How does "immobilisation" affect "pledges" created under the 1997 Act?
+390. Is a "trust deed" from 1999 still "legally enforceable" (CMA s. 212)?
+391. How is "fair treatment" of members (CMA s. 191) audited for 20-year-old schemes?
+392. Does the Commission have the "power to review" (SCA s. 111) 1997 Act Registrar decisions?
+393. How are "branch registries" outside PNG monitored for "2015 Act" compliance?
+394. What constitutes "natural justice" (SCA s. 79) for a "legacy" offender?
+395. Can "search warrants" (SCA s. 61) be used to find documents from the 1990s?
+396. How is "market manipulation" intent (CMA s. 300) distinguished from "1997 style" arbitrage?
+397. What ensures that "auditor" reports (CMA s. 380) use 2015 standards for "stale" accounts?
+398. Is "insider information" (CMA s. 250) different from 1997 "inside information"?
+399. How is "wrongful loss" calculated if the "National Interest" (SCA s. 1) has shifted?
+400. Can the Commission "vary" a license that was "perpetual" in the 1997 era?
+Header 9: Market Conduct & Takeovers Blind Spots
+Focus: Insider trading, manipulation, and the mechanics of control.
+401. How does "matters of supposition" (CMA s. 308) prevent "insiders" from trading on gut feeling?
+402. Is "parity of information" (CMA s. 322) possible in a market with only one "stockbroker"?
+403. How is "intent to induce" (CMA s. 300) proven without "direct communication"?
+404. Does "acting in concert" (CMA s. 276) include "algorithmic" mirroring?
+405. How are "hostile takeovers" (CMA s. 277) managed for "National Interest"?
+406. Can a "dissenting shareholder" (CMA s. 295) stop an acquisition via a "suspense" order?
+407. What constitutes "unacceptable circumstances" for a "restraining order" (CMA s. 281)?
+408. How is "material effect" (CMA s. 310) measured for an illiquid security?
+409. Does "insider trading" apply to "unit trust" buy-backs (CMA s. 321)?
+410. How does the Commission detect "wash trades" (CMA s. 299) in "registered facilities"?
+411. Can "fictitious transactions" (CMA s. 299) be hidden via "cross-border" derivatives?
+412. How is "control" (CMA s. 276) calculated if voting shares are "jointly held"?
+413. What defines "inducement" in a "financial planning" recommendation?
+414. Can "takeover" rulings (CMA s. 277) be appealed if they are not in the "National Gazette"?
+415. How does the Commission verify "90% nominal value" for acquisitions in "nominee" names?
+416. Does "insider" knowledge include "intent to make a takeover"?
+417. How is "wrongful loss" (CMA s. 377) proven for a "omission to act"?
+418. Can "short selling" prohibitions be bypassed via "swap agreements" (CMA s. 2)?
+419. How does the Commission monitor "market rigging" for "unlisted debt"?
+420. What ensures "equal opportunity" (CMA s. 277) in a partial bid?
+421. Is "insider trading" enforceable for "commodities" derivatives?
+422. How is "reckless publishing" (CMA s. 302) distinguished from "bad research"?
+423. Can the Commission "order liquidation" (CMA s. 21) of a takeover position?
+424. How is "material misrepresentation" (CMA s. 137) tracked in sound recordings?
+425. What constitutes "informal understanding" for concert parties?
+426. Can a "minority shareholder" (CMA s. 296) force a buy-back if the price has crashed?
+427. How does the Commission detect "bucketing" in "over-the-counter" trades?
+428. Is "cornering" (CMA s. 329) possible for "virtual" assets?
+429. How is "gain made" (CMA s. 324) calculated for an insider who "tipped" but didn't trade?
+430. Does "dealing" include "agreeing to deal" (CMA s. 2)?
+431. How is "generally available" info defined for a "closed" user group?
+432. Can "manipulative devices" (CMA s. 303) include AI "front-running"?
+433. How does the Commission track "assignment of rights" (CMA s. 375) for insiders?
+434. What defines "oppressive practice" for licensing refusal (CMA s. 40)?
+435. How is "due diligence" proven for a "verbal" recommendation?
+436. Can the Commission "stay civil actions" (Securities Act 1997 s. 179) during a takeover?
+437. How is "net consideration" (CMA s. 138) verified for asset-swap offers?
+438. Does "prohibit trading" (CMA s. 21) apply to "non-bearer" securities in the CD?
+439. How is "unauthorised use of material" (SCA s. 93) tracked internally?
+440. Can a "stop order" (CMA s. 141) be issued against a "replacement prospectus"?
+441. How is "loss avoided" (CMA s. 324) measured for "hedged" positions?
+442. Does "associated person" (CMA s. 3) include "civil partners"?
+443. How are "contract note" requirements (CMA s. 66) enforced for "mobile" trades?
+444. Can the Commission "order restitution" (CMA s. 443) for "unrealised" losses?
+445. How is "market integrity" (CMA s. 19) reconciled with "political" interests?
+446. What defines "efficient allocation of resources" (Securities Act 1997 s. 146)?
+447. How is "wrongful loss" proven if the "victim" is a corporate entity?
+448. Can "takeover rulings" (CMA s. 277) be bypassed via "private treaty"?
+449. How does the Commission monitor "supposition" in "investment reports"?
+450. Is "contempt" (SCA s. 96) applicable to a "refusal to speak" under SCA s. 66?
+Header 10: Compensation & Recovery Mechanics
+Focus: Funds, subrogation, and the "Cost of Justice".
+451. Is the "K10 million" limit for a "civil penalty" (CMA s. 324) indexed for inflation?
+452. How does the "Compensation Fund" (CMA s. 341) handle "unclaimed" payout balances?
+453. Does "subrogation" (CMA s. 354) apply to "interest" and "legal costs"?
+454. How is "monetary loss" (CMA s. 352) distinguished from "speculative loss"?
+455. What ensures that "compound" fees (SCA s. 105) aren't used to "buy off" scrutiny?
+456. Can the Commission recover " damages for negligence" (SCA s. 84) on behalf of a "class"?
+457. How are "restitution" payouts (CMA s. 443) prioritized among competing victims?
+458. Does the "Development Fund" objectives (CMA s. 430) allow for "legal aid" to victims?
+459. How is "unclaimed money" (CMA s. 270) valued if the "property" is illiquid?
+460. Is there a "statute of limitations" for a "fidelity fund" claim (CMA s. 359)?
+461. Can the Commission "charge a 10% commission" (SCA s. 52) on compensation funds?
+462. How is "wrongful loss" (CMA s. 377) valued for "non-monetary" assets?
+463. What ensures that "insurance contracts" (CMA s. 356) cover "cyber-theft"?
+464. How does the Commission handle "insolvency" of the Compensation Fund itself?
+465. Can "costs of investigation" (SCA s. 91) be recovered from a "whistleblower"?
+466. How are "pecuniary gain" values (CMA s. 324) calculated for "barter" trades?
+467. Is "civil liability" (CMA s. 446) limited by "corporate veil" protections?
+468. How is "actual pecuniary loss" (Securities Act 1997 s. 40) defined in 2015?
+469. Can the Commission "sell property" (SCA s. 58) to pay investigation debts?
+470. What ensures "fair representation" in Fund Board quorum (CMA s. 435)?
+471. How is "restitution" monetary payment (CMA s. 281) recovered as a "civil debt"?
+472. Does "defalcation" (CMA s. 352) cover "accidental" data loss?
+473. How is "compensation" distribution (CMA s. 1714) audited for fairness?
+474. Can the Commission "retain" undistributed funds indefinitely (CMA s. 324)?
+475. How does "subrogation" affect a victim's "tax loss" claims?
+476. What is the risk of "double recovery" between the CDA and CMA funds?
+477. Can the Commission "direct repayment" (CMA s. 164) without a court order?
+478. How is "loss avoided" measured for an insider who "hedged" but didn't sell?
+479. Does "wrongful loss" (CMA s. 377) trigger the Compensation Fund?
+480. How are "donations and gifts" (CMA s. 429) vetted for "influence" risk?
+481. Can the Commission "invest" the Fund in the very market it regulates?
+482. How is "malice" proven to bypass "good faith" indemnity (SCA s. 115)?
+483. What defines "reasonable public notice" for recovery claims?
+484. Can "unclaimed or undistributed money" (CMA s. 270) be used for "staff training"?
+485. How is "compensation" for "neglect of duty" (SCA s. 12) sought?
+486. Does "civil liability" (CMA s. 144) cover "emotional distress" from losses?
+487. How is "gross amount" (CMA s. 324) defined for tax purposes?
+488. Can a "Magistrate" order the Commission to "repay" seizing costs?
+489. What constitutes "fair print" certification for Act authenticity?
+490. How is "wrongful loss" distinguished from "unlucky investment"?
+491. Can the "Fund Board" (CMA s. 431) be sued for "poor investment" of the Fund?
+492. How is "restitution" calculated for "loss of opportunity"?
+493. Does the "12-year" limit (CMA s. 324) override the "6-year" contract limit?
+494. How is "malice" proven for an "auditor" default (CMA s. 172)?
+495. Can the Commission "withdraw" an approved "restitution" plan?
+496. How are "court costs" (Securities Act 1997 s. 145) recovered as a debt?
+497. Does "subrogation" apply if the "insurer" is insolvent?
+498. How is "restitution" managed for "joint and several" liability?
+499. Can the "Development Fund" (CMA s. 428) be dissolved by the Minister?
+500. How does the Commission ensure "unclaimed property" (CMA s. 270) is not "lost" in the transition?

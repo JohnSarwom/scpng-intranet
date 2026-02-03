@@ -1,0 +1,49 @@
+
+/* Styles for the filters/actions above the Asset table */
+.asset-filters {
+    margin-bottom: 15px; 
+    display: flex; 
+    gap: 10px; 
+    flex-wrap: wrap; 
+    align-items: center;
+}
+
+.asset-filters input[type="text"],
+.asset-filters select {
+    padding: 8px; 
+    border-radius: 4px; 
+    border: 1px solid #ccc;
+}
+
+.asset-filters button {
+    padding: 8px 12px; 
+    border-radius: 4px; 
+    border: 1px solid #ccc;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.9rem;
+}
+
+.asset-filters button.quick-actions { 
+    background-color: #6c757d; 
+    color: white;
+    border-color: #6c757d;
+}
+
+.asset-filters button.quick-actions:hover {
+    background-color: #5a6268;
+}
+
+.page-header .header-actions .add-button { 
+    background-color: var(--button-danger-bg); 
+    color: var(--button-text); 
+    border: none; 
+    padding: 10px 18px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 0.95rem; 
+    display: inline-flex;
+    align-items: center; 
+}
