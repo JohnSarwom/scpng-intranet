@@ -153,10 +153,20 @@ export class UserSharePointService {
 
     private mapGroupFromSharePoint(item: any): PermissionGroup {
         const fields = item.fields || item;
-        let permissions = {};
+        let permissions: any = {};
         try {
             if (fields.Permissions) {
-                permissions = JSON.parse(fields.Permissions);
+                const parsed = JSON.parse(fields.Permissions);
+
+                // Handle compressed format (Array of strings)
+                if (Array.isArray(parsed)) {
+                    parsed.forEach((resourceId: string) => {
+                        permissions[resourceId] = ['read'];
+                    });
+                } else {
+                    // Handle legacy format (Object)
+                    permissions = parsed;
+                }
             }
         } catch (e) {
             console.warn('Failed to parse group permissions JSON', e);
@@ -340,8 +350,12 @@ export class UserSharePointService {
                 Title: group.title,
                 Description: group.description || ''
             };
+
+            // Compress permissions: Convert { "home": ["read"] } -> ["home"]
+            const compressedPermissions = Object.keys(group.permissions || {});
+
             // Use dynamic column name
-            fields[this.permissionsColumnName] = JSON.stringify(group.permissions);
+            fields[this.permissionsColumnName] = JSON.stringify(compressedPermissions);
 
             const response = await this.client
                 .api(`/sites/${this.siteId}/lists/${this.groupsListId}/items`)
@@ -363,7 +377,11 @@ export class UserSharePointService {
                 Title: group.title,
                 Description: group.description || ''
             };
-            fields[this.permissionsColumnName] = JSON.stringify(group.permissions);
+
+            // Compress permissions: Convert { "home": ["read"] } -> ["home"]
+            const compressedPermissions = Object.keys(group.permissions || {});
+
+            fields[this.permissionsColumnName] = JSON.stringify(compressedPermissions);
 
             console.log('[UserSharePointService] Updating group with fields:', fields);
 

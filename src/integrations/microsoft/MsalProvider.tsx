@@ -76,20 +76,6 @@ export const MsalAuthProvider = ({ children }: { children: React.ReactNode }) =>
       try {
         setIsInitializing(true);
 
-        // Clear any stale MSAL state on initialization
-        if (typeof window !== 'undefined') {
-          try {
-            Object.keys(sessionStorage)
-              .filter(key => key.startsWith('msal.'))
-              .forEach(key => sessionStorage.removeItem(key));
-            sessionStorage.removeItem('msal.interaction.status');
-            sessionStorage.removeItem('msal.interaction.error');
-          } catch (e) {
-            console.warn('Unable to clean session storage:', e);
-          }
-          localStorage.removeItem('msalLoginAttempts');
-        }
-
         const configToUse = updateMsalConfig({ ...microsoftAuthConfig });
         console.log('Initializing MSAL with config:', configToUse);
         const instance = new PublicClientApplication(configToUse);
@@ -117,7 +103,6 @@ export const MsalAuthProvider = ({ children }: { children: React.ReactNode }) =>
 
         setMsalInstanceState(instance);
         setMsalInstance(instance); // For msalService
-        setIsInitialized(true);
         if (typeof window !== 'undefined') { (window as any).msalInstance = instance; }
 
         // Simplified redirect handling: MSAL handles its state.
@@ -144,6 +129,9 @@ export const MsalAuthProvider = ({ children }: { children: React.ReactNode }) =>
           setAuthError(redirectError instanceof Error ? redirectError : new Error(String(redirectError)));
           setForceSignIn(true);
         }
+
+        // Only set initialized to true AFTER we have attempted to restore the session/account
+        setIsInitialized(true);
 
       } catch (err: any) {
         console.error('[MsalAuthProvider] Error initializing MSAL:', err.message);

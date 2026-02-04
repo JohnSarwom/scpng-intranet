@@ -70,13 +70,14 @@ const RoleProtectedRoute: React.FC<RoleProtectedRouteProps> = ({
     return <Navigate to={fallbackPath} state={{ from: location }} replace />;
   }
 
-  // Redirect to unauthorized if no user found
+  // Redirect to login if no user found (unauthenticated)
   if (!user) {
-    const message = 'You must be logged in to access this resource.';
-    if (showAccessDenied) {
-      return <AccessDeniedCard message={message} />;
-    }
-    return <Navigate to={fallbackPath} state={{ from: location }} replace />;
+    // If showAccessDenied is explicitly true, we might want to show it, 
+    // BUT for standard "not logged in" state, redirecting to login is usually preferred 
+    // over "Access Denied" which implies "Logged in but no permission".
+    // Turning off "Access Denied" card for simple unauthenticated state.
+
+    return <Navigate to="/login" state={{ from: location }} replace />;
   }
 
   // Check specific role requirement
@@ -108,7 +109,7 @@ const RoleProtectedRoute: React.FC<RoleProtectedRouteProps> = ({
         .map(({ resource, action }) => `${resource}:${action}`)
         .join(', ');
       const message = `Missing required permissions: ${permissionList}`;
-      
+
       if (showAccessDenied) {
         return <AccessDeniedCard message={message} />;
       }

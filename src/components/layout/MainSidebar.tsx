@@ -33,10 +33,11 @@ interface MainSidebarProps {
   handleSignOut?: () => void; // Optional prop for sign out, passed from PageLayout
   isAdmin?: boolean; // Optional prop to indicate if user is admin
   userPermissions?: any; // User permissions object from role-based auth
+  isLoading?: boolean; // Loading state for permissions
 }
 
 // Update component signature to accept props
-const MainSidebar: React.FC<MainSidebarProps> = ({ closeMobileSidebar, handleSignOut, isAdmin = false, userPermissions = {} }) => {
+const MainSidebar: React.FC<MainSidebarProps> = ({ closeMobileSidebar, handleSignOut, isAdmin = false, userPermissions = {}, isLoading = false }) => {
   const location = useLocation();
   const [isFirstRender, setIsFirstRender] = useState(true);
 
@@ -107,6 +108,12 @@ const MainSidebar: React.FC<MainSidebarProps> = ({ closeMobileSidebar, handleSig
   // Always show settings at the end
   navItems.push({ icon: Settings, path: '/settings', label: 'Settings', resource: null });
 
+  // Determine items to render (Skeleton vs Actual)
+  // If loading, show all standard items plus settings as skeleton to reserve space
+  const itemsToRender = isLoading
+    ? [...allNavItems, { icon: Settings, path: '/settings', label: 'Settings', resource: null }]
+    : navItems;
+
   return (
     <div className="fixed inset-y-0 left-0 w-20 bg-gradient-to-b from-[#400010] to-[#200008] flex flex-col items-center py-6 z-10 shadow-lg dark:from-[#300010] dark:to-black rounded-r-2xl">
       {/* Logo - Fixed at top */}
@@ -121,8 +128,18 @@ const MainSidebar: React.FC<MainSidebarProps> = ({ closeMobileSidebar, handleSig
       {/* Scrollable Navigation Menu */}
       <div className="flex flex-col items-center mt-4 flex-1 w-full overflow-y-auto sidebar-scrollable pr-1">
         <div className="flex flex-col items-center space-y-6 w-full">
-          {navItems.map((item, index) => {
+          {itemsToRender.map((item, index) => {
+            if (isLoading) {
+              return (
+                <div key={index} className="flex flex-col items-center w-full animate-pulse group">
+                  <div className="p-3 rounded-lg bg-white/5 h-11 w-11 mb-1"></div>
+                  <div className="h-3 w-10 bg-white/5 rounded mt-1"></div>
+                </div>
+              );
+            }
+
             const isActive = location.pathname === item.path;
+            const Icon = item.icon;
             return (
               <Link
                 key={index}
@@ -140,7 +157,7 @@ const MainSidebar: React.FC<MainSidebarProps> = ({ closeMobileSidebar, handleSig
                   "p-3 rounded-lg group-hover:bg-white/10 transition-all duration-200 icon-hover-effect",
                   isActive && "bg-white/10"
                 )}>
-                  <item.icon size={20} />
+                  <Icon size={20} />
                 </div>
                 <span className="text-xs mt-1">{item.label}</span>
               </Link>

@@ -91,7 +91,7 @@ const PageLayout: React.FC<PageLayoutProps> = ({ children, hideNavAndFooter = fa
       "min-h-screen bg-background dark:bg-intranet-dark relative",
       hideNavAndFooter && "p-0 m-0"
     )}>
-      {renderSidebar && <MainSidebar handleSignOut={handleSignOut} isAdmin={isAdmin} userPermissions={roleUser?.permissions} />}
+      {renderSidebar && <MainSidebar handleSignOut={handleSignOut} isAdmin={isAdmin} userPermissions={roleUser?.permissions} isLoading={roleLoading} />}
 
       <div className={cn(
         "animate-fade-in relative flex flex-col min-h-screen",
@@ -247,6 +247,7 @@ const PageLayout: React.FC<PageLayoutProps> = ({ children, hideNavAndFooter = fa
               handleSignOut={handleSignOut}
               isAdmin={isAdmin}
               userPermissions={roleUser?.permissions}
+              isLoading={roleLoading}
             />
           </div>
         </div>

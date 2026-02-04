@@ -25,10 +25,36 @@ export const useApps = (): UseAppsReturn => {
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
 
-  const fetchApps = async () => {
+  const CACHE_KEY = 'scpng_apps_cache';
+  const CACHE_DURATION = 24 * 60 * 60 * 1000; // 24 hours
+
+  const fetchApps = async (forceRefresh = false) => {
     try {
       setLoading(true);
       setError(null);
+
+      // Check cache first if not forcing refresh
+      if (!forceRefresh) {
+        const cachedData = localStorage.getItem(CACHE_KEY);
+        if (cachedData) {
+          const { apps: cachedApps, timestamp } = JSON.parse(cachedData);
+          const isExpired = Date.now() - timestamp > CACHE_DURATION;
+
+          if (!isExpired && cachedApps.length > 0) {
+            console.log('📦 [useApps] Loading from cache');
+            setApps(cachedApps);
+
+            // Extract categories from cache
+            const uniqueCategories = Array.from(
+              new Set((cachedApps as SharePointApp[]).map(app => app.category).filter(Boolean))
+            ).sort();
+            setCategories(uniqueCategories as string[]);
+
+            setLoading(false);
+            return;
+          }
+        }
+      }
 
       // Get access token
       const account = accounts[0];
@@ -63,12 +89,31 @@ export const useApps = (): UseAppsReturn => {
       ).sort();
       setCategories(uniqueCategories);
 
+      // Save to cache
+      localStorage.setItem(CACHE_KEY, JSON.stringify({
+        apps: activeApps,
+        timestamp: Date.now()
+      }));
+
       console.log('✅ [useApps] Successfully fetched', activeApps.length, 'applications');
     } catch (err: any) {
       console.error('❌ [useApps] Error fetching applications:', err);
       setError(err.message || 'Failed to fetch applications');
-      setApps([]);
-      setCategories([]);
+
+      // If error occurs, try to load from cache even if expired as fallback
+      const cachedData = localStorage.getItem(CACHE_KEY);
+      if (cachedData) {
+        console.warn('⚠️ [useApps] Using expired cache due to fetch error');
+        const { apps: cachedApps } = JSON.parse(cachedData);
+        setApps(cachedApps);
+        const uniqueCategories = Array.from(
+          new Set((cachedApps as SharePointApp[]).map(app => app.category).filter(Boolean))
+        ).sort();
+        setCategories(uniqueCategories as string[]);
+      } else {
+        setApps([]);
+        setCategories([]);
+      }
     } finally {
       setLoading(false);
     }
@@ -93,7 +138,7 @@ export const useApps = (): UseAppsReturn => {
     categories,
     loading,
     error,
-    refetch: fetchApps,
+    refetch: () => fetchApps(true),
     getAppsByCategory,
     getAppById,
   };
